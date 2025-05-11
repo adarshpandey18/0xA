@@ -1,4 +1,5 @@
 {
   "theme": "system",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "cssTheme": ""
 }

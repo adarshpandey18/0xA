@@ -3,5 +3,6 @@
   "obsidian-hider",
   "obsidian-icon-folder",
   "obsidian-latex-suite",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-pandoc"
 ]
