@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Inbox/01 Daily Read.md",
-                "mode": "source",
+                "file": "07 Inbox/00 To-Learn.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Daily Read"
+              "title": "00 To-Learn"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Inbox/01 Daily Read.md",
+                "file": "07 Inbox/00 To-Learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 Daily Read"
+              "title": "Outline of 00 To-Learn"
             }
           }
         ]
@@ -170,44 +170,52 @@
   },
   "active": "bc5510fc06a39152",
   "lastOpenFiles": [
-    "06 Placement Prep/Tips/STAR Format.md",
-    "07 Inbox/01 Daily Read.md",
-    "03 Development/Java/Java Language Notes/03. Introduction to Java.pdf",
-    "06 Placement Prep/Tips",
-    "03 Development/Java/Java Language Notes/02. Flow of program.pdf",
-    "03 Development/Java/Java Language Notes/01. Introduction to programming.pdf",
-    "03 Development/Java/MAVEN - Project Management Tool.md",
+    "07 Inbox/01 Daily Execution Manifesto.md",
+    "07 Inbox/00 To-Learn.md",
+    "03 Development/Java/Java Language Notes/27. File Handling.pdf",
+    "03 Development/Java/Java Language Notes/25. Decimal Format.pdf",
+    "03 Development/Java/Java Language Notes/24. StringBuffer.pdf",
+    "03 Development/Java/Java Language Notes/26. BigInteger & BigDecimal.pdf",
+    "03 Development/Java/Java Language Notes/23. Segment Tree.pdf",
+    "03 Development/Java/Java Language Notes/23. Binary Tree.pdf",
+    "03 Development/Java/Java Language Notes/23. AVL Tree.pdf",
+    "03 Development/Java/Java Language Notes/20. Linked List.pdf",
+    "03 Development/Java/Java Language Notes/19. OOPS - II.pdf",
+    "03 Development/Java/Java Language Notes/10. Selection Sort.pdf",
+    "04 Aptitude & Reasoning/Logical Reasoning/16 Cause & Effect.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/15 Calendar & Clocks.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/14 Ranking & Order.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/13 Cause & Effect.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/12 Statement & Conclusion.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/11 Statement & Assumption.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/10 Logical Venn Diagrams.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/09 Data Sufficiency.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/08 Seating Arrangement.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/07 Puzzles.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/06 Syllogism.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/05 Direction Sense.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/04 Blood Relations.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/03 Coding-Decoding.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/02 Letter Series.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/01 Number Series.md",
+    "04 Aptitude & Reasoning/Quantitative/20 Data Interpretation.md",
+    "04 Aptitude & Reasoning/Quantitative/19 Trignometry.md",
+    "04 Aptitude & Reasoning/Quantitative/18 Geometry.md",
+    "04 Aptitude & Reasoning/Quantitative/17 Algebra.md",
+    "04 Aptitude & Reasoning/Quantitative/16 Mensuration.md",
+    "04 Aptitude & Reasoning/Quantitative/15 Probability.md",
+    "04 Aptitude & Reasoning/Quantitative/14 Permutation & Combination.md",
+    "04 Aptitude & Reasoning/Quantitative/13 Pipes & Cisterns.md",
     "08 Resources/Development/Java/Maven/xml-tags.png",
     "08 Resources/Development/Java/Maven/pom-xml.png",
     "08 Resources/Development/Java/Maven/maven-repository.png",
     "08 Resources/Development/Java/Maven/maven-lifecycle.png",
     "08 Resources/Development/Java/Maven/maven-archetype.png",
     "08 Resources/Development/Java/Maven/intellij-gradle-project-create.png",
-    "08 Resources/Development/Java/Maven",
-    "03 Development/Java/JDBC.md",
     "08 Resources/Development/Java/JDBC/JDBC_Introduction.png",
-    "08 Resources/Development/Java/JDBC",
-    "03 Development/Java/JUnit.md",
     "08 Resources/Development/Java/JUnit/assertions.png",
     "08 Resources/Development/Java/JUnit/test_success.png",
     "08 Resources/Development/Java/JUnit/test_success 1.png",
-    "08 Resources/Development/Java/JUnit",
-    "08 Resources/Development/Java",
-    "08 Resources/Development",
-    "03 Development/Miscellaneous/Git.md",
-    "03 Development/Projects/00 Project Ideas.md",
-    "03 Development/Miscellaneous",
-    "03 Development/Projects/02 Minimal Habit Tracker.md",
-    "07 Inbox/00 To-Learn.md",
-    "03 Development/Projects/01 Real Estate Web App.md",
-    "00 Templates/Project Template.md",
-    "04 Aptitude & Reasoning/Logical Reasoning/Directions.md",
-    "01 Computer Science Core/Database Management System/Drawing 2025-05-07 22.03.44.excalidraw.md",
-    "00 Templates/Daily Journal Template.md",
-    "Two Pointers.md",
-    "Untitled.canvas",
-    "05 Daily Notes/2025-05-06.md",
-    "Excalidraw/Drawing 2025-05-06 23.32.23.excalidraw.md",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
