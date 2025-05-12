@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "184cc68c0f7b6af2",
+        "id": "ee1c3eeca2c1eb31",
         "type": "tabs",
         "children": [
           {
-            "id": "bc5510fc06a39152",
+            "id": "d84b64360bb8e7e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "07 Inbox/00 To-Learn.md",
-                "mode": "preview",
-                "source": false
+                "file": "01 Computer Science Core/System Design/05 - Database Isolation Levels.pdf"
               },
-              "icon": "lucide-file",
-              "title": "00 To-Learn"
+              "icon": "lucide-file-text",
+              "title": "05 - Database Isolation Levels"
             }
           }
         ]
@@ -140,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Inbox/00 To-Learn.md",
+                "file": "01 Computer Science Core/System Design/05 - Database Isolation Levels.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00 To-Learn"
+              "title": "Outline of 05 - Database Isolation Levels"
             }
           }
         ]
@@ -168,20 +166,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc5510fc06a39152",
+  "active": "d84b64360bb8e7e6",
   "lastOpenFiles": [
-    "07 Inbox/01 Daily Execution Manifesto.md",
+    "01 Computer Science Core/System Design/04 - Relational Databases.pdf",
+    "01 Computer Science Core/System Design/03 - How Do You Know You Have Built A Good System.pdf",
+    "01 Computer Science Core/System Design/02 - How To Approach System Design.pdf",
+    "01 Computer Science Core/System Design/01 - What Is System Design.pdf",
+    "05 Daily Notes/2025-05-12.md",
+    "01 Computer Science Core/System Design/06 - Database Scaling.pdf",
+    "01 Computer Science Core/System Design/05 - Database Isolation Levels.pdf",
+    "01 Computer Science Core/System Design/07 - Sharding And Partitioning.pdf",
+    "00 Templates/Daily Journal Template.md",
     "07 Inbox/00 To-Learn.md",
-    "03 Development/Java/Java Language Notes/27. File Handling.pdf",
-    "03 Development/Java/Java Language Notes/25. Decimal Format.pdf",
-    "03 Development/Java/Java Language Notes/24. StringBuffer.pdf",
-    "03 Development/Java/Java Language Notes/26. BigInteger & BigDecimal.pdf",
-    "03 Development/Java/Java Language Notes/23. Segment Tree.pdf",
-    "03 Development/Java/Java Language Notes/23. Binary Tree.pdf",
-    "03 Development/Java/Java Language Notes/23. AVL Tree.pdf",
     "03 Development/Java/Java Language Notes/20. Linked List.pdf",
-    "03 Development/Java/Java Language Notes/19. OOPS - II.pdf",
-    "03 Development/Java/Java Language Notes/10. Selection Sort.pdf",
+    "03 Development/Java/Java Language Notes/09. Bubble Sort.pdf",
+    "07 Inbox/01 Daily Execution Manifesto.md",
+    "06 Placement Prep/CV/general-resume.pdf",
     "04 Aptitude & Reasoning/Logical Reasoning/16 Cause & Effect.md",
     "04 Aptitude & Reasoning/Logical Reasoning/15 Calendar & Clocks.md",
     "04 Aptitude & Reasoning/Logical Reasoning/14 Ranking & Order.md",
@@ -203,9 +203,6 @@
     "04 Aptitude & Reasoning/Quantitative/18 Geometry.md",
     "04 Aptitude & Reasoning/Quantitative/17 Algebra.md",
     "04 Aptitude & Reasoning/Quantitative/16 Mensuration.md",
-    "04 Aptitude & Reasoning/Quantitative/15 Probability.md",
-    "04 Aptitude & Reasoning/Quantitative/14 Permutation & Combination.md",
-    "04 Aptitude & Reasoning/Quantitative/13 Pipes & Cisterns.md",
     "08 Resources/Development/Java/Maven/xml-tags.png",
     "08 Resources/Development/Java/Maven/pom-xml.png",
     "08 Resources/Development/Java/Maven/maven-repository.png",

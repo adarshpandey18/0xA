@@ -1,5 +1,5 @@
 {
   "folder": "05 Daily Notes",
-  "template": "00 Templates/{{date}}    🧠 Daily Journal",
+  "template": "00 Templates/Daily Journal Template",
   "autorun": true
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFile",
       "LiLightbulb",
       "LiGalleryVerticalEnd",
       "LiBrainCog",
-      "LiPenTool",
-      "🗣"
+      "LiPenTool"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -61,5 +61,6 @@
   "04 Aptitude & Reasoning/Quantitative": "LiPenTool",
   "04 Aptitude & Reasoning/Logical Reasoning": "LiBrainCog",
   "03 Development/Miscellaneous": "LiGalleryVerticalEnd",
-  "06 Placement Prep/Tips": "LiLightbulb"
+  "06 Placement Prep/Tips": "LiLightbulb",
+  "06 Placement Prep/CV": "LiFile"
 }

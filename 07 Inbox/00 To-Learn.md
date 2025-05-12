@@ -1,5 +1,4 @@
-
-# On Campus Placement
+## On Campus Placement
 - [ ]  Java
 	- [ ] Introduction to Java [[03. Introduction to Java.pdf]]
 	- [ ] Architecture of JVM [[03. Introduction to Java.pdf]]
@@ -8,15 +7,15 @@
 	- [x] Functions [[05. FunctionsMethods.pdf]]
 	- [x] Linear Search [[07. Linear Search.pdf]]
 	- [x] Binary Search [[08. Binary Search.pdf]]
-	- [ ] Bubble Sort [[09. Bubble Sort.pdf]]
+	- [x] Bubble Sort [[09. Bubble Sort.pdf]]
 	- [x] Insertion Sort [[11. Insertion Sort.pdf]]
 	- [x] Selection Sort [[10. Selection Sort.pdf]]
 	- [x] Cyclic Sort [[12. Cyclic Sort.pdf]]
 	- [ ] Recursion [[15. Recursion.pdf]]
 	- [ ] Time Space & Complexity [[16. Time Complexity.pdf]]
 	- [ ] Merge Sort [[17. Merge Sort.pdf]]
-	- [ ] Quick Sort [[18. Quick Sort.pdf]]
-	- [ ] Linked List [[20. Linked List.pdf]]
+	- [x] Quick Sort [[18. Quick Sort.pdf]]
+	- [x] Linked List [[20. Linked List.pdf]]
 	- [ ] Stack [[21. Stack.pdf]]
 	- [ ] Queue [[22. Queue.pdf]]
 	- [ ] Trees 
@@ -24,7 +23,7 @@
 		- [ ] Binary Tree [[23. Binary Tree.pdf]]
 		- [ ]    Segment Tree [[23. Segment Tree.pdf]]
 		- [ ] AVL Tree [[23. AVL Tree.pdf]]
-	- [ ] BigInteger & BigDecimal [[26. BigInteger & BigDecimal.pdf]]
+	- [x] BigInteger & BigDecimal [[26. BigInteger & BigDecimal.pdf]]
 	- [ ] Decimal Format
 	- [ ] File Handling [[27. File Handling.pdf]]
 
@@ -78,7 +77,7 @@
 	- [ ] MVVM / Clean Architecture 
 
 
-# Extras 
+## Extras 
 - [ ] Go Lang
 - [ ] Linux
 - [ ] AWS
