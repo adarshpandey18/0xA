@@ -34,7 +34,7 @@
 - [ ] JPA + Hibernate
 - [ ] JDBC [[JDBC]]
 - [ ] Spring Boot 
-- [ ] Git / GitHub [[Git]]
+- [ ] Git / GitHub [[01 Git]]
 - [ ] OS [[OS Part - I.pdf]]
 
 

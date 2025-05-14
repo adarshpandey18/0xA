@@ -1,5 +1,9 @@
 {
   "theme": "system",
   "baseFontSizeAction": true,
-  "cssTheme": ""
+  "cssTheme": "Encore",
+  "accentColor": "#00adb5",
+  "enabledCssSnippets": [
+    "Image-Align"
+  ]
 }

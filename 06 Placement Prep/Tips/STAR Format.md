@@ -58,3 +58,4 @@ I scheduled a one-on-one with the team member to understand their challenges. It
 The team member’s participation improved significantly, and we completed the project on time with an A grade. I learned that empathy and proactive communication are key to resolving team conflicts.
 
 ---
+

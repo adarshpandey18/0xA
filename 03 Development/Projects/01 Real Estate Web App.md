@@ -34,8 +34,11 @@ A Web app powered by Firebase for property management.
 ---
 
 ## 📷 Screenshots / Demo
-- ![Screenshot1](../assets/project-name/1.png)  
-- ![Screenshot2](../assets/project-name/2.png)  
+
+![[Mahalaxmi-Developers-Auth-Landing-Page.png]]  
+
+![[Mahalaxmi-Developers-Categories-Page.png]]   
+![[Mahalaxmi-Developers-Admin-Panel.png]]
 
 ---
 

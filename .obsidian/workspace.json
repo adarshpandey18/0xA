@@ -11,12 +11,14 @@
             "id": "d84b64360bb8e7e6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01 Computer Science Core/System Design/05 - Database Isolation Levels.pdf"
+                "file": "01 Computer Science Core/Database Management System/03 - File System  VS  DBMS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "05 - Database Isolation Levels"
+              "icon": "lucide-file",
+              "title": "03 - File System  VS  DBMS"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "junit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Computer Science Core/System Design/05 - Database Isolation Levels.pdf",
+                "file": "01 Computer Science Core/Database Management System/03 - File System  VS  DBMS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 05 - Database Isolation Levels"
+              "title": "Outline of 03 - File System  VS  DBMS"
             }
           }
         ]
@@ -168,20 +170,35 @@
   },
   "active": "d84b64360bb8e7e6",
   "lastOpenFiles": [
+    "01 Computer Science Core/Database Management System/02 - Introduction to DBMS.md",
+    "05 Daily Notes/2025-05-14.md",
+    "05 Daily Notes/2025-05-13.md",
+    "01 Computer Science Core/Database Management System/03 - File System  VS  DBMS.md",
+    "08 Resources/Computer Science Core/DBMS/03/Server-getting-accessed-by-mulitple-user.png",
+    "08 Resources/Computer Science Core/DBMS/03/Pasted image.png",
+    "08 Resources/Computer Science Core/DBMS/03",
+    "00 Templates/Daily Journal Template.md",
+    "05 Daily Notes/2025-05-12.md",
+    "00 Templates/Project Template.md",
+    "07 Inbox/00 To-Learn.md",
+    "07 Inbox/01 Daily Execution Manifesto.md",
+    "03 Development/Projects/01 Real Estate Web App.md",
+    "08 Resources/Development/Projects/Real Estate Web App/Mahalaxmi-Developers-Admin-Panel.png",
+    "08 Resources/Development/Projects/Real Estate Web App/Mahalaxmi-Developers-Categories-Page.png",
+    "08 Resources/Development/Projects/Real Estate Web App/Mahalaxmi-Developers-Auth-Landing-Page.png",
+    "08 Resources/Development/Projects/Real Estate Web App",
+    "03 Development/Projects/02 Minimal Habit Tracker.md",
+    "03 Development/Projects/00 Project Ideas.md",
+    "03 Development/Miscellaneous/01 Git.md",
+    "06 Placement Prep/Tips/STAR Format.md",
+    "06 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf",
+    "06 Placement Prep/HR Questions/00 Interview Questions.pdf",
+    "01 Computer Science Core/System Design/05 - Database Isolation Levels.pdf",
     "01 Computer Science Core/System Design/04 - Relational Databases.pdf",
     "01 Computer Science Core/System Design/03 - How Do You Know You Have Built A Good System.pdf",
     "01 Computer Science Core/System Design/02 - How To Approach System Design.pdf",
     "01 Computer Science Core/System Design/01 - What Is System Design.pdf",
-    "05 Daily Notes/2025-05-12.md",
     "01 Computer Science Core/System Design/06 - Database Scaling.pdf",
-    "01 Computer Science Core/System Design/05 - Database Isolation Levels.pdf",
-    "01 Computer Science Core/System Design/07 - Sharding And Partitioning.pdf",
-    "00 Templates/Daily Journal Template.md",
-    "07 Inbox/00 To-Learn.md",
-    "03 Development/Java/Java Language Notes/20. Linked List.pdf",
-    "03 Development/Java/Java Language Notes/09. Bubble Sort.pdf",
-    "07 Inbox/01 Daily Execution Manifesto.md",
-    "06 Placement Prep/CV/general-resume.pdf",
     "04 Aptitude & Reasoning/Logical Reasoning/16 Cause & Effect.md",
     "04 Aptitude & Reasoning/Logical Reasoning/15 Calendar & Clocks.md",
     "04 Aptitude & Reasoning/Logical Reasoning/14 Ranking & Order.md",
@@ -193,26 +210,11 @@
     "04 Aptitude & Reasoning/Logical Reasoning/08 Seating Arrangement.md",
     "04 Aptitude & Reasoning/Logical Reasoning/07 Puzzles.md",
     "04 Aptitude & Reasoning/Logical Reasoning/06 Syllogism.md",
-    "04 Aptitude & Reasoning/Logical Reasoning/05 Direction Sense.md",
-    "04 Aptitude & Reasoning/Logical Reasoning/04 Blood Relations.md",
-    "04 Aptitude & Reasoning/Logical Reasoning/03 Coding-Decoding.md",
-    "04 Aptitude & Reasoning/Logical Reasoning/02 Letter Series.md",
-    "04 Aptitude & Reasoning/Logical Reasoning/01 Number Series.md",
-    "04 Aptitude & Reasoning/Quantitative/20 Data Interpretation.md",
-    "04 Aptitude & Reasoning/Quantitative/19 Trignometry.md",
-    "04 Aptitude & Reasoning/Quantitative/18 Geometry.md",
-    "04 Aptitude & Reasoning/Quantitative/17 Algebra.md",
-    "04 Aptitude & Reasoning/Quantitative/16 Mensuration.md",
     "08 Resources/Development/Java/Maven/xml-tags.png",
     "08 Resources/Development/Java/Maven/pom-xml.png",
     "08 Resources/Development/Java/Maven/maven-repository.png",
     "08 Resources/Development/Java/Maven/maven-lifecycle.png",
     "08 Resources/Development/Java/Maven/maven-archetype.png",
-    "08 Resources/Development/Java/Maven/intellij-gradle-project-create.png",
-    "08 Resources/Development/Java/JDBC/JDBC_Introduction.png",
-    "08 Resources/Development/Java/JUnit/assertions.png",
-    "08 Resources/Development/Java/JUnit/test_success.png",
-    "08 Resources/Development/Java/JUnit/test_success 1.png",
     "Untitled.canvas"
   ]
 }

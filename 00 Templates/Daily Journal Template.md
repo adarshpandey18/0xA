@@ -1,9 +1,9 @@
 ## ✅ Goals for Today 
 - [ ] DSA Revise 
+- [ ] Leetcode problem
 - [ ] Read Tech Blogs 
 - [ ] Project
 - [ ] Placement Prep
-- [ ] Aptitude Practice
 - [ ] Book Reading
 - [ ] Learn something new
 
@@ -27,27 +27,11 @@
   → "Deadlock needs 4 conditions to happen — if we break one, we can avoid it."
 
 ---
-
-## 💻 Coding Practice
-| Platform | Problem | Level | Link                                           | Status   |
-| -------- | ------- | ----- | ---------------------------------------------- | -------- |
-| LeetCode | Two Sum | Easy  | [Link](https://leetcode.com/problems/two-sum/) | ✅ Solved |
-
----
-
-## 🔄 Revision Summary
-- Reviewed: [[HashMap]], [[TCP vs UDP]]
-- Flashcards: 10 cards from [[DBMS]]
-
----
-
 ## 💬 Reflections / Journal
 - Felt focused / distracted?
 - What slowed me down?
 - What will I improve tomorrow?
-
 ---
-
 ## 🗓️ Plan for Tomorrow
 - [ ] Revise [[Linked List]]
 - [ ] Read [[Process Scheduling]]
