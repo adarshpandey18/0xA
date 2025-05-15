@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1c3eeca2c1eb31",
+        "id": "87696cf7b7ec806f",
         "type": "tabs",
         "children": [
           {
-            "id": "d84b64360bb8e7e6",
+            "id": "50ece66feb850b34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Computer Science Core/Database Management System/03 - File System  VS  DBMS.md",
+                "file": "05 Daily Notes/2025-05-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - File System  VS  DBMS"
+              "title": "2025-05-15"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 Development/Flutter/Clean Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Clean Architecture"
             }
           },
           {
@@ -140,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Computer Science Core/Database Management System/03 - File System  VS  DBMS.md",
+                "file": "05 Daily Notes/2025-05-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 - File System  VS  DBMS"
+              "title": "Outline of 2025-05-15"
             }
           }
         ]
@@ -168,24 +169,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d84b64360bb8e7e6",
+  "active": "50ece66feb850b34",
   "lastOpenFiles": [
-    "01 Computer Science Core/Database Management System/02 - Introduction to DBMS.md",
+    "03 Development/Flutter/SOLID Principles.md",
+    "03 Development/Flutter/Clean Architecture.md",
+    "05 Daily Notes/2025-05-15.md",
+    "08 Resources/Development/Flutter/clean-architecture-flow.png",
+    "08 Resources/Development/Flutter/Pasted image.png",
+    "08 Resources/Development/Flutter",
+    "01 Computer Science Core/System Design/04 - Relational Databases.pdf",
     "05 Daily Notes/2025-05-14.md",
+    "01 Computer Science Core/Database Management System/00 - Index.md",
+    "01 Computer Science Core/Database Management System/05 - Schema.md",
+    "01 Computer Science Core/Database Management System/06 - 3 Schema Architecture.md",
     "05 Daily Notes/2025-05-13.md",
+    "05 Daily Notes/2025-05-12.md",
+    "01 Computer Science Core/Database Management System/04 - 2 Tier & 3 Tier Architecture.md",
+    "01 Computer Science Core/Database Management System/02 - Introduction to DBMS.md",
     "01 Computer Science Core/Database Management System/03 - File System  VS  DBMS.md",
+    "08 Resources/Computer Science Core/DBMS/04/3-tier-architecture.png",
+    "08 Resources/Computer Science Core/DBMS/04/Pasted image.png",
     "08 Resources/Computer Science Core/DBMS/03/Server-getting-accessed-by-mulitple-user.png",
+    "08 Resources/Computer Science Core/DBMS/04/Pasted image (2).png",
+    "08 Resources/Computer Science Core/DBMS/04/2-tier-architecture.png",
+    "08 Resources/Computer Science Core/DBMS/04",
     "08 Resources/Computer Science Core/DBMS/03/Pasted image.png",
     "08 Resources/Computer Science Core/DBMS/03",
     "00 Templates/Daily Journal Template.md",
-    "05 Daily Notes/2025-05-12.md",
     "00 Templates/Project Template.md",
     "07 Inbox/00 To-Learn.md",
     "07 Inbox/01 Daily Execution Manifesto.md",
     "03 Development/Projects/01 Real Estate Web App.md",
     "08 Resources/Development/Projects/Real Estate Web App/Mahalaxmi-Developers-Admin-Panel.png",
     "08 Resources/Development/Projects/Real Estate Web App/Mahalaxmi-Developers-Categories-Page.png",
-    "08 Resources/Development/Projects/Real Estate Web App/Mahalaxmi-Developers-Auth-Landing-Page.png",
     "08 Resources/Development/Projects/Real Estate Web App",
     "03 Development/Projects/02 Minimal Habit Tracker.md",
     "03 Development/Projects/00 Project Ideas.md",
@@ -194,27 +210,13 @@
     "06 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf",
     "06 Placement Prep/HR Questions/00 Interview Questions.pdf",
     "01 Computer Science Core/System Design/05 - Database Isolation Levels.pdf",
-    "01 Computer Science Core/System Design/04 - Relational Databases.pdf",
     "01 Computer Science Core/System Design/03 - How Do You Know You Have Built A Good System.pdf",
     "01 Computer Science Core/System Design/02 - How To Approach System Design.pdf",
-    "01 Computer Science Core/System Design/01 - What Is System Design.pdf",
-    "01 Computer Science Core/System Design/06 - Database Scaling.pdf",
     "04 Aptitude & Reasoning/Logical Reasoning/16 Cause & Effect.md",
     "04 Aptitude & Reasoning/Logical Reasoning/15 Calendar & Clocks.md",
     "04 Aptitude & Reasoning/Logical Reasoning/14 Ranking & Order.md",
     "04 Aptitude & Reasoning/Logical Reasoning/13 Cause & Effect.md",
     "04 Aptitude & Reasoning/Logical Reasoning/12 Statement & Conclusion.md",
-    "04 Aptitude & Reasoning/Logical Reasoning/11 Statement & Assumption.md",
-    "04 Aptitude & Reasoning/Logical Reasoning/10 Logical Venn Diagrams.md",
-    "04 Aptitude & Reasoning/Logical Reasoning/09 Data Sufficiency.md",
-    "04 Aptitude & Reasoning/Logical Reasoning/08 Seating Arrangement.md",
-    "04 Aptitude & Reasoning/Logical Reasoning/07 Puzzles.md",
-    "04 Aptitude & Reasoning/Logical Reasoning/06 Syllogism.md",
-    "08 Resources/Development/Java/Maven/xml-tags.png",
-    "08 Resources/Development/Java/Maven/pom-xml.png",
-    "08 Resources/Development/Java/Maven/maven-repository.png",
-    "08 Resources/Development/Java/Maven/maven-lifecycle.png",
-    "08 Resources/Development/Java/Maven/maven-archetype.png",
     "Untitled.canvas"
   ]
 }
