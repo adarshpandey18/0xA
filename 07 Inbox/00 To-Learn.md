@@ -11,12 +11,13 @@
 	- [x] Insertion Sort [[11. Insertion Sort.pdf]]
 	- [x] Selection Sort [[10. Selection Sort.pdf]]
 	- [x] Cyclic Sort [[12. Cyclic Sort.pdf]]
-	- [ ] Recursion [[15. Recursion.pdf]]
+	- [x] Recursion [[15. Recursion.pdf]]
+	- [ ] Backtracking
 	- [ ] Time Space & Complexity [[16. Time Complexity.pdf]]
 	- [ ] Merge Sort [[17. Merge Sort.pdf]]
 	- [x] Quick Sort [[18. Quick Sort.pdf]]
 	- [x] Linked List [[20. Linked List.pdf]]
-	- [ ] Stack [[21. Stack.pdf]]
+	- [x] Stack [[21. Stack.pdf]]
 	- [ ] Queue [[22. Queue.pdf]]
 	- [ ] Trees 
 		- [ ] BST [[23. Binary Search Tree.pdf]]

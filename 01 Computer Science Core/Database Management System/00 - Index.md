@@ -6,3 +6,7 @@ Course Link : [Gate Smashers YouTube Playlist](https://www.youtube.com/playlist?
 3. [[04 - 2 Tier & 3 Tier Architecture]]
 4. [[05 - Schema]]
 5. [[06 - 3 Schema Architecture]]
+6. [[07 - Data Independence]]
+7. [[08 - Integrity Constraints]]
+		[[08.2 - Candidate Key]]
+8. [[09 - Primary Key]]

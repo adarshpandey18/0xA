@@ -41,3 +41,22 @@ This is what the **user interacts with**—UI elements and interface logic.
 
 ---
 
+## Folder Structure
+### Feature First Approach
+it organizes functionality based on feature of app that organizes based on feature.
+> If you decide to remove the feature from the app you can delete the folder and it wont cause many errors.
+
+- Features
+	- Authentication
+		- presentation
+			- pages
+			- widgets
+			- bloc / state maanger
+		- domain
+		- data
+- core (contains all the resources that are shared among all the features)
+	- theme
+	- error
+	- secrets
+	- 
+	

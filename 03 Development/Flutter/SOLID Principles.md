@@ -92,13 +92,9 @@ class AreaCalculator {
 ```
 
 **Benefits of OCP:**
-
 - Promotes extensibility
-    
-- Reduces bugs from modifying existing code
-    
+- Reduces bugs from modifying existing code    
 - Encourages use of abstraction and polymorphism
-    
 
 ---
 
@@ -147,13 +143,9 @@ class Lion extends Animal {
 This introduces unexpected behavior—**inconsistent behavior from subclasses** can violate LSP.
 
 **Benefits of LSP:**
-
 - Encourages consistency
-    
 - Reduces unexpected behavior
-    
-- Improves modularity and reliability
-    
+- Improves modularity and reliability    
 
 ---
 
@@ -216,13 +208,9 @@ class Waiter implements Worker, Eater {
 ```
 
 **Benefits of ISP:**
-
 - Cleaner and more focused interfaces
-    
 - Avoids unnecessary implementation
-    
 - Encourages better software design
-    
 
 ---
 
@@ -294,13 +282,9 @@ class Room {
 ```
 
 **Benefits of DIP:**
-
 - Decouples high-level and low-level components
-    
 - Easier to test and extend
-    
 - Encourages abstraction and loose coupling
-    
 
 ---
 
