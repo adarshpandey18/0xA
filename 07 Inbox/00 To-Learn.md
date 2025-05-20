@@ -1,7 +1,7 @@
-## On Campus Placement
+ ## On Campus Placement
 - [ ]  Java
-	- [ ] Introduction to Java [[03. Introduction to Java.pdf]]
-	- [ ] Architecture of JVM [[03. Introduction to Java.pdf]]
+	- [x] Introduction to Java [[03. Introduction to Java.pdf]]
+	- [ ] JVM Internals [[03. Introduction to Java.pdf]]
 	- [x] Condition & Loops [[04. Conditional & Loops.pdf]]
 	- [x] String & String Builder [[13. Strings & StringBuilder.pdf]]
 	- [x] Functions [[05. FunctionsMethods.pdf]]
@@ -11,6 +11,7 @@
 	- [x] Insertion Sort [[11. Insertion Sort.pdf]]
 	- [x] Selection Sort [[10. Selection Sort.pdf]]
 	- [x] Cyclic Sort [[12. Cyclic Sort.pdf]]
+	- [ ] Bit Manipulation [[14. Bitwise Operators .pdf]]
 	- [x] Recursion [[15. Recursion.pdf]]
 	- [ ] Backtracking
 	- [ ] Time Space & Complexity [[16. Time Complexity.pdf]]
@@ -40,7 +41,7 @@
 
 
 - [ ] DBMS 
-	- [ ] PostgreSQL
+	- [ ] PostgreSQL [[PostgreSQL]]
 
 - [ ] CN
 
@@ -64,18 +65,18 @@
 	- [ ] Design Principles
 		- [ ] Dependency Injection
 		- [ ] Design Patterns
-		- [ ] SOLID Principles
+		- [x] SOLID Principles  [[SOLID Principles]]
 	 - [ ] Working with APIs
 	 - [ ] Shared Preferences
 	 - [ ] Firebase
 	 - [ ] Streams/Futures
 	 - [ ] State Management
 		 - [ ] Provider
-		 - [ ] Bloc
+		 - [ ] Bloc [[Bloc]]
 		 - [ ] GetX
 	 - [ ] Animation
 	- [ ] Deployment
-	- [ ] MVVM / Clean Architecture 
+	- [ ] MVVM / Clean Architecture [[Clean Architecture]] 
 
 
 ## Extras 
@@ -86,7 +87,8 @@
 - [ ] Jenkins
 - [ ] Compiler Design
 - [ ] Certifications
-- [ ] CEH
+- [ ] Cyber sec.
 - [ ] OSWAP
 - [ ] CCNA
+- [ ] HTMX
 - [ ] 

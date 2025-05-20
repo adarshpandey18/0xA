@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fce15eae212eb2ad",
+        "id": "171ec4e97c61d308",
         "type": "tabs",
         "children": [
           {
-            "id": "59cdb22da0c2495d",
+            "id": "cfd297c66e1d58b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Flutter/SOLID Principles.md",
+                "file": "05 Daily Notes/2025-05-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID Principles"
+              "title": "2025-05-20"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302
   },
   "right": {
     "id": "f9dc4a20e834cc3e",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Development/Flutter/Clean Architecture.md",
+                "file": "01 Computer Science Core/Database Management System/07 - Data Independence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Clean Architecture"
+              "title": "Backlinks for 07 - Data Independence"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Flutter/SOLID Principles.md",
+                "file": "05 Daily Notes/2025-05-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SOLID Principles"
+              "title": "Outline of 2025-05-20"
             }
           }
         ]
@@ -169,54 +169,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59cdb22da0c2495d",
+  "active": "cfd297c66e1d58b8",
   "lastOpenFiles": [
-    "03 Development/Flutter/Clean Architecture.md",
-    "05 Daily Notes/2025-05-16.md",
-    "01 Computer Science Core/Database Management System/08 - Integrity Constraints.md",
-    "01 Computer Science Core/Database Management System/07 - Data Independence.md",
-    "05 Daily Notes/2025-05-15.md",
+    "01 Computer Science Core/Database Management System/25 - Third Normal Form (3NF).md",
+    "05 Daily Notes/2025-05-20.md",
     "03 Development/Database/PostgreSQL.md",
-    "01 Computer Science Core/Database Management System/02 - Introduction to DBMS.md",
-    "01 Computer Science Core/Database Management System/03 - File System  VS  DBMS.md",
-    "01 Computer Science Core/Database Management System/04 - 2 Tier & 3 Tier Architecture.md",
-    "01 Computer Science Core/Database Management System/05 - Schema.md",
-    "01 Computer Science Core/Database Management System/06 - 3 Schema Architecture.md",
-    "01 Computer Science Core/Database Management System/08.2 - Candidate Key.md",
-    "01 Computer Science Core/Database Management System/09 - Primary Key.md",
-    "07 Inbox/03 Ongoing.md",
-    "07 Inbox/01 Daily Execution Manifesto.md",
-    "03 Development/Projects/02 Minimal Habit Tracker.md",
-    "03 Development/Database",
-    "03 Development/Projects/01 Real Estate Web App.md",
     "03 Development/Projects/00 Project Ideas.md",
-    "01 Computer Science Core/Database Management System/00 - Index.md",
-    "08 Resources/Computer Science Core/DBMS/07/data-independence-in-3-schema-architecture.png",
-    "08 Resources/Computer Science Core/DBMS/07/Pasted image.png",
-    "08 Resources/Computer Science Core/DBMS/07",
-    "08 Resources/Computer Science Core/DBMS/06/3-schema-architecture.png",
-    "08 Resources/Computer Science Core/DBMS/06/Pasted image.png",
-    "08 Resources/Computer Science Core/DBMS/06",
-    "07 Inbox/00 To-Learn.md",
-    "DBMS.md",
-    "03 Development/Java/JUnit.md",
-    "03 Development/Java/Maven.md",
-    "03 Development/Java/JDBC.md",
-    "03 Development/Flutter/Bloc.md",
+    "03 Development/Projects/01 Real Estate Web App.md",
+    "03 Development/Flutter/Clean Architecture.md",
     "03 Development/Flutter/SOLID Principles.md",
-    "06 Placement Prep/CV/general-resume.pdf",
-    "03 Development/Java/Java Language Notes/27. File Handling.pdf",
-    "03 Development/Java/Java Language Notes/21. Stack.pdf",
-    "02 DSA & Problem Solving/Algorithms/sorting",
-    "02 DSA & Problem Solving/Algorithms/searching",
-    "03 Development/Java/Java Language Notes/08. Binary Search.pdf",
+    "03 Development/Flutter/Bloc.md",
+    "07 Inbox/00 To-Learn.md",
     "08 Resources/Development/Flutter/clean-architecture-flow.png",
-    "08 Resources/Development/Flutter/Pasted image.png",
-    "08 Resources/Development/Flutter",
-    "08 Resources/Computer Science Core/DBMS/04/3-tier-architecture.png",
-    "08 Resources/Computer Science Core/DBMS/04/Pasted image.png",
-    "08 Resources/Computer Science Core/DBMS/03/Server-getting-accessed-by-mulitple-user.png",
-    "08 Resources/Computer Science Core/DBMS/04/Pasted image (2).png",
+    "01 Computer Science Core/Database Management System/28 - Lossless and  Lossy Decomposition.md",
+    "01 Computer Science Core/Database Management System/05 - Schema.md",
+    "01 Computer Science Core/Database Management System/03 - File System  VS  DBMS.md",
+    "01 Computer Science Core/Database Management System/08.2 - Candidate Key.md",
+    "01 Computer Science Core/Database Management System/07 - Data Independence.md",
+    "01 Computer Science Core/Database Management System/02 - Introduction to DBMS.md",
+    "01 Computer Science Core/Database Management System/27 - Dependency Preserving.md",
+    "01 Computer Science Core/Database Management System/22 - Finding Closure of Functional dependency.md",
+    "01 Computer Science Core/Database Management System/00 - Index.md",
+    "01 Computer Science Core/Database Management System/26 - BCNF (Boyce Codd Normal Form).md",
+    "01 Computer Science Core/Database Management System/24 - Second Normal Form 2NF.md",
+    "01 Computer Science Core/Database Management System/23 - Functional Dependency & its Properties.md",
+    "01 Computer Science Core/Operating System/OS Part - I.pdf",
+    "01 Computer Science Core/Database Management System/21 - First Normal Form (1NF).md",
+    "01 Computer Science Core/Database Management System/20 - Introduction to Normalization.md",
+    "01 Computer Science Core/Database Management System/19 - Questions on minimize tables.md",
+    "01 Computer Science Core/Database Management System/18 - Many to Many Relationship.md",
+    "01 Computer Science Core/Database Management System/17 - One to Many Relationship.md",
+    "08 Resources/Computer Science Core/DBMS/19/minimize-table-question.png",
+    "08 Resources/Computer Science Core/DBMS/19",
+    "08 Resources/Computer Science Core/DBMS/18/many-to-many-realtionship-example.png",
+    "08 Resources/Computer Science Core/DBMS/18/Pasted image.png",
+    "08 Resources/Computer Science Core/DBMS/18/many-to-many-relationship-example.png",
+    "08 Resources/Computer Science Core/DBMS/18",
+    "08 Resources/Computer Science Core/DBMS/17/one-to-many-relationship-example.png",
+    "08 Resources/Computer Science Core/DBMS/17/Pasted image.png",
+    "08 Resources/Computer Science Core/DBMS/17",
+    "08 Resources/Computer Science Core/DBMS/16/one-to-one-relationship-example.png",
+    "08 Resources/Computer Science Core/DBMS/16/Pasted image.png",
+    "08 Resources/Computer Science Core/DBMS/16",
+    "08 Resources/Computer Science Core/DBMS/15/derived-attribute-annotation.png",
+    "08 Resources/Computer Science Core/DBMS/15",
+    "08 Resources/Computer Science Core/DBMS/14",
+    "01 Computer Science Core/System Design/03 - How Do You Know You Have Built A Good System.pdf",
+    "01 Computer Science Core/System Design/02 - How To Approach System Design.pdf",
+    "01 Computer Science Core/System Design/01 - What Is System Design.pdf",
     "Untitled.canvas"
   ]
 }

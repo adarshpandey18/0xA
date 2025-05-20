@@ -18,3 +18,7 @@
 ```postgresql
 CREATE DATABASE db_name
 ```
+## Using  Database
+```postgresql
+USE db_name
+```
