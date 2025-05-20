@@ -3,7 +3,7 @@
 - [ ] Leetcode problem
 - [ ] Read Tech Blogs 
 - [ ] Project
-- [ ] Placement Prep
+- [ ] Placement Prep / Aptitude
 - [ ] Book Reading
 - [ ] Learn something new
 
@@ -32,7 +32,3 @@
 - What slowed me down?
 - What will I improve tomorrow?
 ---
-## 🗓️ Plan for Tomorrow
-- [ ] Revise [[Linked List]]
-- [ ] Read [[Process Scheduling]]
-- [ ] Deploy demo project

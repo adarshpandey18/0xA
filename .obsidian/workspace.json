@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Daily Notes/2025-05-20.md",
+                "file": "00 Templates/Daily Journal Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-20"
+              "title": "Daily Journal Template"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Daily Notes/2025-05-20.md",
+                "file": "00 Templates/Daily Journal Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-20"
+              "title": "Outline of Daily Journal Template"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "cfd297c66e1d58b8",
   "lastOpenFiles": [
-    "01 Computer Science Core/Database Management System/25 - Third Normal Form (3NF).md",
     "05 Daily Notes/2025-05-20.md",
+    "01 Computer Science Core/Database Management System/25 - Third Normal Form (3NF).md",
     "03 Development/Database/PostgreSQL.md",
     "03 Development/Projects/00 Project Ideas.md",
     "03 Development/Projects/01 Real Estate Web App.md",
