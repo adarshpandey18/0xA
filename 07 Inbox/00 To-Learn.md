@@ -31,64 +31,46 @@
 
 
 
+---
+- [ ] Core Java
 - [ ] Advance Java
-- [ ] JUnit [[JUnit]]
-- [ ] JPA + Hibernate
-- [ ] JDBC [[JDBC]]
-- [ ] Spring Boot 
-- [ ] Git / GitHub [[01 Git]]
-- [ ] OS [[OS Part - I.pdf]]
+- [ ] DBMS
+	- [ ] PostgreSQL
+	- [ ] Theory
+- [ ] OS
+	- [ ] [[OS Part - I.pdf]]
+	- [ ] OS Part - II 
+- [ ] Git / Github
 
-
-- [ ] DBMS 
-	- [ ] PostgreSQL [[PostgreSQL]]
-
-- [ ] CN
-
-- [ ] System Design
-
-- [ ] DSA
-
-- [ ] Advance DSA
-
-- [ ] Verbal 
-
-- [ ] Logical Reasoning
-
-- [ ] Quantitative
+---
 
 - [ ] Flutter
-	- [ ] Dart
-	- [ ] Types of Widget
-	- [ ] FVM
-	- [ ] working with assets
-	- [ ] Design Principles
-		- [ ] Dependency Injection
-		- [ ] Design Patterns
-		- [x] SOLID Principles  [[SOLID Principles]]
-	 - [ ] Working with APIs
-	 - [ ] Shared Preferences
-	 - [ ] Firebase
-	 - [ ] Streams/Futures
-	 - [ ] State Management
-		 - [ ] Provider
-		 - [ ] Bloc [[Bloc]]
-		 - [ ] GetX
-	 - [ ] Animation
-	- [ ] Deployment
-	- [ ] MVVM / Clean Architecture [[Clean Architecture]] 
+	- [ ] S.O.L.I.D Principle
+	- [ ] Clean Architecture
+	- [ ] Bloc
+	- [ ] Project
+		- [ ] [[01 Real Estate Web App]]
+		- [ ] [[02 Minimal Habit Tracker]]
+		- [ ] Amazon Review Sentiment Analysis
+		- [ ] Blog App
+		- [ ] News App
+	- [ ] Shared Preferences
+	- [ ] Geo-location / Sensors
+	- [ ] Hive Local Storage
+	- [ ] Publishing App
+	- [ ] Animation
+	- [ ] HTTP calls
 
 
-## Extras 
+- [ ] Spring Core
+- [ ] Spring Boot
 - [ ] Go Lang
+	- [ ] Go Lang web server
+	- [ ] Go Lang command-line app
+	- [ ] Go Lang x from scratch
 - [ ] Linux
-- [ ] AWS
 - [ ] Docker
-- [ ] Jenkins
-- [ ] Compiler Design
-- [ ] Certifications
-- [ ] Cyber sec.
-- [ ] OSWAP
-- [ ] CCNA
-- [ ] HTMX
-- [ ] 
+- [ ] CEH
+
+--- 
+- [ ] Design Patterns
