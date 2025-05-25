@@ -27,4 +27,7 @@ Course Link : [Gate Smashers YouTube Playlist](https://www.youtube.com/playlist?
 23. [[24 - Second Normal Form 2NF]]
 24. [[25 - Third Normal Form (3NF)]]
 25. [[26 - BCNF (Boyce Codd Normal Form)]]
-26. 
+26. [[27 - Dependency Preserving]]
+27. [[28 - Lossless & Lossy Join Decomposition]]
+28. [[29 - All Normal Form]]
+29. [[30 - Minimal Cover]]

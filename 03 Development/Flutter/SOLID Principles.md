@@ -1,8 +1,7 @@
 _Architectural blueprints for building adaptable, scalable, and durable software._
 
 ---
-
-## **S - Single Responsibility Princi[]()ple (SRP)**
+## **S - Single Responsibility Principle (SRP)**
 
 > A class should have only one reason to change.
 

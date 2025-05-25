@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "〰",
+      "LiLanguages",
       "LiDatabase",
       "LiFile",
-      "LiLightbulb",
-      "LiGalleryVerticalEnd",
-      "LiBrainCog"
+      "LiLightbulb"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,7 +48,6 @@
   "03 Development/Go": "LiCat",
   "03 Development/Java": "LiFlower",
   "03 Development/Projects": "LiFolder",
-  "03 Development/Spring": "LiLeaf",
   "05 Daily Notes": "LiBrain",
   "04 Aptitude & Reasoning": "LiPenLine",
   "06 Placement Prep": "LiShield",
@@ -63,5 +62,8 @@
   "03 Development/Miscellaneous": "LiGalleryVerticalEnd",
   "06 Placement Prep/Tips": "LiLightbulb",
   "06 Placement Prep/CV": "LiFile",
-  "03 Development/Database": "LiDatabase"
+  "03 Development/Database": "LiDatabase",
+  "03 Development/Java/Spring": "LiLeaf",
+  "03 Development/Java/Java Language Notes": "LiLanguages",
+  "03 Development/Java/Design Patterns": "〰"
 }

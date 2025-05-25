@@ -1,7 +1,7 @@
  ## On Campus Placement
 - [ ]  Java
 	- [x] Introduction to Java [[03. Introduction to Java.pdf]]
-	- [ ] JVM Internals [[03. Introduction to Java.pdf]]
+	- [x] JVM Internals [[03. Introduction to Java.pdf]]
 	- [x] Condition & Loops [[04. Conditional & Loops.pdf]]
 	- [x] String & String Builder [[13. Strings & StringBuilder.pdf]]
 	- [x] Functions [[05. FunctionsMethods.pdf]]
@@ -15,8 +15,9 @@
 	- [x] Recursion [[15. Recursion.pdf]]
 	- [ ] Backtracking
 	- [ ] Time Space & Complexity [[16. Time Complexity.pdf]]
-	- [ ] Merge Sort [[17. Merge Sort.pdf]]
+	- [x] Merge Sort [[17. Merge Sort.pdf]]
 	- [x] Quick Sort [[18. Quick Sort.pdf]]
+	- [x] OOPS [[19. OOPS.pdf]]
 	- [x] Linked List [[20. Linked List.pdf]]
 	- [x] Stack [[21. Stack.pdf]]
 	- [ ] Queue [[22. Queue.pdf]]
@@ -26,13 +27,14 @@
 		- [ ]    Segment Tree [[23. Segment Tree.pdf]]
 		- [ ] AVL Tree [[23. AVL Tree.pdf]]
 	- [x] BigInteger & BigDecimal [[26. BigInteger & BigDecimal.pdf]]
-	- [ ] Decimal Format
+	- [ ] Decimal Format [[25. Decimal Format.pdf]]
 	- [ ] File Handling [[27. File Handling.pdf]]
-
-
 
 ---
 - [ ] Core Java
+- [ ] JUnit
+- [ ] JDBC
+- [x] Maven
 - [ ] Advance Java
 - [ ] DBMS
 	- [ ] PostgreSQL
@@ -41,11 +43,9 @@
 	- [ ] [[OS Part - I.pdf]]
 	- [ ] OS Part - II 
 - [ ] Git / Github
-
 ---
-
 - [ ] Flutter
-	- [ ] S.O.L.I.D Principle
+	- [x] S.O.L.I.D Principle
 	- [ ] Clean Architecture
 	- [ ] Bloc
 	- [ ] Project
@@ -71,6 +71,5 @@
 - [ ] Linux
 - [ ] Docker
 - [ ] CEH
-
 --- 
 - [ ] Design Patterns

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Inbox/01 Daily Execution Manifesto.md",
-                "mode": "source",
+                "file": "03 Development/Projects/00 Project Ideas.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Daily Execution Manifesto"
+              "title": "00 Project Ideas"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bloc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Inbox/01 Daily Execution Manifesto.md",
+                "file": "03 Development/Projects/00 Project Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 Daily Execution Manifesto"
+              "title": "Outline of 00 Project Ideas"
             }
           }
         ]
@@ -171,33 +171,34 @@
   },
   "active": "cfd297c66e1d58b8",
   "lastOpenFiles": [
-    "07 Inbox/04 Goal.md",
-    "07 Inbox/01 Daily Execution Manifesto.md",
-    "07 Inbox/03 Ongoing.md",
-    "07 Inbox/00 To-Learn.md",
-    "DBMS.md",
-    "05 Daily Notes/2025-05-20.md",
+    "01 Computer Science Core/Database Management System/00 - Index.md",
+    "01 Computer Science Core/Database Management System/30 - Minimal Cover.md",
+    "01 Computer Science Core/Database Management System/17 - One to Many Relationship.md",
+    "01 Computer Science Core/Database Management System/18 - Many to Many Relationship.md",
+    "01 Computer Science Core/Database Management System/22 - Finding Closure of Functional dependency.md",
+    "01 Computer Science Core/Database Management System/20 - Introduction to Normalization.md",
     "02 DSA & Problem Solving/Patterns & Technique/01 - Two Pointers.md",
-    "02 DSA & Problem Solving/Algorithms/sorting/03 Insertion Sort.md",
-    "02 DSA & Problem Solving/Algorithms/sorting/02 Selection Sort.md",
-    "02 DSA & Problem Solving/Algorithms/sorting/01 Bubble Sort.md",
-    "02 DSA & Problem Solving/Algorithms/searching/02 Binary Search.md",
-    "02 DSA & Problem Solving/Algorithms/searching/01 Linear Search.md",
-    "00 Templates/Daily Journal Template.md",
-    "01 Computer Science Core/Database Management System/25 - Third Normal Form (3NF).md",
-    "03 Development/Database/PostgreSQL.md",
-    "03 Development/Projects/00 Project Ideas.md",
-    "03 Development/Projects/01 Real Estate Web App.md",
-    "03 Development/Flutter/Clean Architecture.md",
+    "04 Aptitude & Reasoning/Logical Reasoning/01 Number Series.md",
+    "07 Inbox/00 To-Learn.md",
+    "03 Development/Java/Maven.md",
+    "03 Development/Java/JDBC.md",
     "03 Development/Flutter/SOLID Principles.md",
+    "03 Development/Flutter/Clean Architecture.md",
     "03 Development/Flutter/Bloc.md",
+    "05 Daily Notes/2025-05-26.md",
+    "05 Daily Notes/2025-05-24.md",
+    "05 Daily Notes/2025-05-23.md",
+    "05 Daily Notes/2025-05-22.md",
+    "05 Daily Notes/2025-05-21.md",
+    "05 Daily Notes/2025-05-20.md",
+    "05 Daily Notes/2025-05-19.md",
+    "05 Daily Notes/2025-05-16.md",
+    "05 Daily Notes/2025-05-15.md",
+    "05 Daily Notes/2025-05-14.md",
+    "07 Inbox/01 Daily Execution Manifesto.md",
+    "03 Development/Java/Design Patterns",
+    "01 Computer Science Core/Database Management System/29 - All Normal Form.md",
     "08 Resources/Development/Flutter/clean-architecture-flow.png",
-    "01 Computer Science Core/Database Management System/28 - Lossless and  Lossy Decomposition.md",
-    "01 Computer Science Core/Database Management System/05 - Schema.md",
-    "01 Computer Science Core/Database Management System/03 - File System  VS  DBMS.md",
-    "01 Computer Science Core/Database Management System/08.2 - Candidate Key.md",
-    "01 Computer Science Core/Database Management System/07 - Data Independence.md",
-    "01 Computer Science Core/Database Management System/02 - Introduction to DBMS.md",
     "01 Computer Science Core/Operating System/OS Part - I.pdf",
     "08 Resources/Computer Science Core/DBMS/19/minimize-table-question.png",
     "08 Resources/Computer Science Core/DBMS/19",
@@ -216,7 +217,6 @@
     "08 Resources/Computer Science Core/DBMS/14",
     "01 Computer Science Core/System Design/03 - How Do You Know You Have Built A Good System.pdf",
     "01 Computer Science Core/System Design/02 - How To Approach System Design.pdf",
-    "01 Computer Science Core/System Design/01 - What Is System Design.pdf",
     "Untitled.canvas"
   ]
 }
