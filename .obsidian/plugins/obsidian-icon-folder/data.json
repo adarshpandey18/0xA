@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiListOrdered",
+      "👩‍🦼",
+      "LiSearch",
       "〰",
-      "LiLanguages",
-      "LiDatabase",
-      "LiFile",
-      "LiLightbulb"
+      "LiLanguages"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,5 +65,7 @@
   "03 Development/Database": "LiDatabase",
   "03 Development/Java/Spring": "LiLeaf",
   "03 Development/Java/Java Language Notes": "LiLanguages",
-  "03 Development/Java/Design Patterns": "〰"
+  "03 Development/Java/Design Patterns": "〰",
+  "02 DSA & Problem Solving/Algorithms/searching": "LiSearch",
+  "02 DSA & Problem Solving/Algorithms/sorting": "LiListOrdered"
 }

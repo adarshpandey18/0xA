@@ -1,3 +1,5 @@
+# Data Independence
+
 ![[data-independence-in-3-schema-architecture.png|center|400]]
 
 ## **Goal:**

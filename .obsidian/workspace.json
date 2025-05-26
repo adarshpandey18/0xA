@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "171ec4e97c61d308",
+        "id": "eacdbc0bd2885f50",
         "type": "tabs",
         "children": [
           {
-            "id": "cfd297c66e1d58b8",
+            "id": "59a5bf3d57d745de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "03 Development/Projects/00 Project Ideas.md",
-                "mode": "preview",
-                "source": false
+                "file": "06 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf"
               },
-              "icon": "lucide-file",
-              "title": "00 Project Ideas"
+              "icon": "lucide-file-text",
+              "title": "01 interview-questions-with-answers"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302
+    "width": 268
   },
   "right": {
     "id": "f9dc4a20e834cc3e",
@@ -141,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Projects/00 Project Ideas.md",
+                "file": "06 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00 Project Ideas"
+              "title": "Outline of 01 interview-questions-with-answers"
             }
           }
         ]
@@ -169,9 +167,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cfd297c66e1d58b8",
+  "active": "59a5bf3d57d745de",
   "lastOpenFiles": [
+    "06 Placement Prep/CV/general-resume.pdf",
+    "05 Daily Notes/2025-05-26.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/06 Merge Sort.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/05 Quick Sort.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/03 Insertion Sort.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/04 Cyclic Sort.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/02 Selection Sort.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/01 Bubble Sort.md",
+    "03 Development/Java/Java Language Notes/09. Bubble Sort.pdf",
+    "02 DSA & Problem Solving/Algorithms/searching/02 Binary Search.md",
+    "02 DSA & Problem Solving/Algorithms/searching/01 Linear Search.md",
+    "03 Development/Projects/02 Minimal Habit Tracker.md",
+    "03 Development/Projects/01 Real Estate Web App.md",
+    "03 Development/Projects/00 Project Ideas.md",
     "01 Computer Science Core/Database Management System/00 - Index.md",
+    "01 Computer Science Core/Database Management System/07 - Data Independence.md",
     "01 Computer Science Core/Database Management System/30 - Minimal Cover.md",
     "01 Computer Science Core/Database Management System/17 - One to Many Relationship.md",
     "01 Computer Science Core/Database Management System/18 - Many to Many Relationship.md",
@@ -183,21 +196,7 @@
     "03 Development/Java/Maven.md",
     "03 Development/Java/JDBC.md",
     "03 Development/Flutter/SOLID Principles.md",
-    "03 Development/Flutter/Clean Architecture.md",
-    "03 Development/Flutter/Bloc.md",
-    "05 Daily Notes/2025-05-26.md",
-    "05 Daily Notes/2025-05-24.md",
-    "05 Daily Notes/2025-05-23.md",
-    "05 Daily Notes/2025-05-22.md",
-    "05 Daily Notes/2025-05-21.md",
-    "05 Daily Notes/2025-05-20.md",
-    "05 Daily Notes/2025-05-19.md",
-    "05 Daily Notes/2025-05-16.md",
-    "05 Daily Notes/2025-05-15.md",
-    "05 Daily Notes/2025-05-14.md",
-    "07 Inbox/01 Daily Execution Manifesto.md",
     "03 Development/Java/Design Patterns",
-    "01 Computer Science Core/Database Management System/29 - All Normal Form.md",
     "08 Resources/Development/Flutter/clean-architecture-flow.png",
     "01 Computer Science Core/Operating System/OS Part - I.pdf",
     "08 Resources/Computer Science Core/DBMS/19/minimize-table-question.png",
@@ -216,7 +215,6 @@
     "08 Resources/Computer Science Core/DBMS/15",
     "08 Resources/Computer Science Core/DBMS/14",
     "01 Computer Science Core/System Design/03 - How Do You Know You Have Built A Good System.pdf",
-    "01 Computer Science Core/System Design/02 - How To Approach System Design.pdf",
     "Untitled.canvas"
   ]
 }
