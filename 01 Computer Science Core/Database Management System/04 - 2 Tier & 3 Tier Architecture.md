@@ -1,3 +1,6 @@
+# 2 Tier & 3 Tier Architecture
+
+---
 ## 2 Tier Architecture
 
 ![[2-tier-architecture.png|center|400]]

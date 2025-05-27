@@ -1,0 +1,10 @@
+- DBMS
+	- [ ] [[11 - Insert, Update & Delete from Foreign Key Table]]
+	- [ ] [[31 - Practice Question on Normalization]]
+	- [ ] [[32 - How to find out Normal Form of the Relation]]
+	- [ ] [[33  - How to solve Normalization Question]]
+	- [ ] [[34 - Important Question Explanation on Normalization]]
+	- [ ] [[35 - Cover and Equivalence of Functional Dependencies]]
+	- [ ] [[36 - Dependency Preservation Decomposition]]
+	- [ ] [[37 - Dependency Preservation Decomposition]]
+	- [ ] 

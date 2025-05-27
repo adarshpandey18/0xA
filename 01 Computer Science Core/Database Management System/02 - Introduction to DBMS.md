@@ -1,3 +1,6 @@
+# Introduction to DBMS
+
+---
 ## Database
 A database is a structured **collection of related data** stored electronically. It allows efficient retrieval, modification, and management of data.  
 
