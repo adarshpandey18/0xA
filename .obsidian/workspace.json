@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Computer Science Core/Database Management System/00 - Index.md",
+                "file": "03 Development/Database/PostgreSQL.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Index"
+              "title": "PostgreSQL"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Computer Science Core/Database Management System/00 - Index.md",
+                "file": "03 Development/Database/PostgreSQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00 - Index"
+              "title": "Outline of PostgreSQL"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "59a5bf3d57d745de",
   "lastOpenFiles": [
+    "05 Daily Notes/2025-05-28.md",
+    "01 Computer Science Core/Database Management System/00 - Index.md",
     "01 Computer Science Core/Database Management System/02 - Introduction to DBMS.md",
     "01 Computer Science Core/Database Management System/40 - Self Join.md",
     "01 Computer Science Core/Database Management System/39 - Natural Join.md",
@@ -204,8 +206,6 @@
     "06 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf",
     "06 Placement Prep/CV/general-resume.pdf",
     "05 Daily Notes/2025-05-26.md",
-    "02 DSA & Problem Solving/Algorithms/sorting/06 Merge Sort.md",
-    "02 DSA & Problem Solving/Algorithms/sorting/05 Quick Sort.md",
     "03 Development/Java/Java Language Notes/09. Bubble Sort.pdf",
     "03 Development/Java/Design Patterns",
     "08 Resources/Development/Flutter/clean-architecture-flow.png",
