@@ -1,0 +1,5 @@
+- [ ] Window Functions SQL
+- [ ] CTE SQL
+- [ ] Cursors SQL
+- [ ] Joins in practical
+- [ ] 

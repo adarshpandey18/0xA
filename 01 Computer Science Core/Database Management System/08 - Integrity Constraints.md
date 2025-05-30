@@ -1,3 +1,6 @@
+# Integrity Constraints
+
+---
 ## **What are Integrity Constraints?**
 - **Rules** enforced in a database to ensure:
     - **Accuracy**

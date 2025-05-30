@@ -1,3 +1,5 @@
+# Super Key
+
 A **super key** is a **set of one or more attributes** that can **uniquely identify** a tuple (row) in a table.
 - Any **super set of a candidate key** is a **super key**.
 - A **candidate key** is a **minimal super key** (i.e., removing any attribute from it will cause it to stop being a key).

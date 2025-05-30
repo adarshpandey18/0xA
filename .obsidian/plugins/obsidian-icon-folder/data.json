@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiListOrdered",
-      "👩‍🦼",
-      "LiSearch",
-      "〰",
-      "LiLanguages"
+      "LiStar",
+      "LiDistributeSpaceVertical",
+      "LiBox",
+      "LiKey",
+      "LiTable"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -67,5 +67,10 @@
   "03 Development/Java/Java Language Notes": "LiLanguages",
   "03 Development/Java/Design Patterns": "〰",
   "02 DSA & Problem Solving/Algorithms/searching": "LiSearch",
-  "02 DSA & Problem Solving/Algorithms/sorting": "LiListOrdered"
+  "02 DSA & Problem Solving/Algorithms/sorting": "LiListOrdered",
+  "03 Development/Database/Relational Database": "LiTable",
+  "03 Development/Database/Non-Relational Database": "LiKey",
+  "03 Development/Flutter/State Management": "LiBox",
+  "03 Development/Flutter/Architecture & Principle": "LiDistributeSpaceVertical",
+  "06 Placement Prep/Tips/STAR Format.md": "LiStar"
 }

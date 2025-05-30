@@ -1,5 +1,5 @@
 - DBMS
-	- [ ] [[11 - Insert, Update & Delete from Foreign Key Table]]
+	- [x] [[11 - Insert, Update & Delete from Foreign Key Table]]
 	- [ ] [[31 - Practice Question on Normalization]]
 	- [ ] [[32 - How to find out Normal Form of the Relation]]
 	- [ ] [[33  - How to solve Normalization Question]]
@@ -7,4 +7,16 @@
 	- [ ] [[35 - Cover and Equivalence of Functional Dependencies]]
 	- [ ] [[36 - Dependency Preservation Decomposition]]
 	- [ ] [[37 - Dependency Preservation Decomposition]]
-	- [ ] 
+	- [ ] other topics
+
+- [ ] Bloc
+- [ ] OS - part 2
+- [ ] java trees
+- [ ] hacker rank solving
+- [ ] [[02 Minimal Habit Tracker]]
+- [ ] amazon review sentiment analysis 
+- [ ] [[Clean Architecture]]
+- [ ] [[01 Git]]
+- [ ] System Design
+- [ ] [[06 Merge Sort]]
+- [ ] [[01 PostgreSQL]]

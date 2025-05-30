@@ -1,3 +1,5 @@
+# Primary Key
+
 A **Primary Key** is a special type of **candidate key** that is **selected** to uniquely identify records in a table.
 
 ---

@@ -1,4 +1,5 @@
 # Maven
+
 Maven is a powerful **project management tool** used primarily for Java-based applications. It helps with project builds, dependency management, and other tasks such as version control, plugins, and external library integration.
 
 ---
@@ -44,7 +45,7 @@ On the top right of IntelliJ IDEA, you will see the Maven logo. Clicking on it w
 ### Getting Dependencies
 
 1. **Search for Dependencies**:
-   - To add external libraries (like a MySQL connector for Java), you can download the JAR file manually. However, maintaining version control is important, so you should use **Maven Repository** (https://mvnrepository.com/).
+   - To add external libraries (like a MySQL connector for Java), you can download the JAR file manually. However, maintaining version control is important, so you should use [**Maven Repository**](https://mvnrepository.com/).
 
 2. **Add Dependency to `pom.xml`**:
    - Go to [Maven Repository](https://mvnrepository.com/) and search for your desired dependency (e.g., "MySQL connector for Java").

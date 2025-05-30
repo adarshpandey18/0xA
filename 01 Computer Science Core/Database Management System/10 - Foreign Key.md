@@ -1,3 +1,4 @@
+# Foreign Key
 
 A **foreign key** is an **attribute** or **set of attributes** in one table that **refers to the primary key** of the **same or another table**.
 

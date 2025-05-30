@@ -1,4 +1,4 @@
-# :LiStars: STAR
+# STAR
 The **STAR** format helps you to organize your answers to behavioral questions. This is most applicable to questions that require you to *recount past experiences* or *behavior*.
 
 - ##  **Situation**: 

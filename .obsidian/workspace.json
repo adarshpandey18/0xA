@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Database/PostgreSQL.md",
-                "mode": "preview",
+                "file": "01 Computer Science Core/Database Management System/13 - Super Key.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL"
+              "title": "13 - Super Key"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Database/PostgreSQL.md",
+                "file": "01 Computer Science Core/Database Management System/13 - Super Key.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PostgreSQL"
+              "title": "Outline of 13 - Super Key"
             }
           }
         ]
@@ -171,52 +171,52 @@
   },
   "active": "59a5bf3d57d745de",
   "lastOpenFiles": [
-    "05 Daily Notes/2025-05-28.md",
+    "01 Computer Science Core/Database Management System/12 - Questions on Foreign Key.md",
+    "01 Computer Science Core/Database Management System/09 - Primary Key.md",
+    "01 Computer Science Core/Database Management System/06 - 3 Schema Architecture.md",
+    "01 Computer Science Core/Database Management System/03 - File System  VS  DBMS.md",
     "01 Computer Science Core/Database Management System/00 - Index.md",
+    "02 DSA & Problem Solving/Patterns & Technique/01 - Two Pointers.md",
+    "02 DSA & Problem Solving/Patterns & Technique/Dynamic Programming.md",
+    "02 DSA & Problem Solving/Patterns & Technique/Sliding Window.md",
+    "02 DSA & Problem Solving/Patterns & Technique/Kadane's Algorithm.md",
+    "05 Daily Notes/2025-05-30.md",
+    "06 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf",
+    "06 Placement Prep/HR Questions/00 Interview Questions.pdf",
+    "07 Inbox/00 To-Learn.md",
+    "07 Inbox/04 Doubts.md",
+    "07 Inbox/03 Remaining.md",
+    "01 Computer Science Core/Database Management System/11 - Insert, Update & Delete from Foreign Key Table.md",
+    "01 Computer Science Core/Database Management System/13 - Super Key.md",
+    "01 Computer Science Core/Database Management System/10 - Foreign Key.md",
+    "01 Computer Science Core/Database Management System/08.2 - Candidate Key.md",
+    "01 Computer Science Core/Database Management System/08 - Integrity Constraints.md",
+    "01 Computer Science Core/Database Management System/07 - Data Independence.md",
+    "01 Computer Science Core/Database Management System/05 - Schema.md",
+    "01 Computer Science Core/Database Management System/04 - 2 Tier & 3 Tier Architecture.md",
     "01 Computer Science Core/Database Management System/02 - Introduction to DBMS.md",
-    "01 Computer Science Core/Database Management System/40 - Self Join.md",
-    "01 Computer Science Core/Database Management System/39 - Natural Join.md",
-    "01 Computer Science Core/Database Management System/38 - Joins.md",
-    "01 Computer Science Core/Database Management System/41 - Equi Join.md",
-    "01 Computer Science Core/Database Management System/42 - Left Outer Join.md",
-    "01 Computer Science Core/Database Management System/43 - Right Outer Join.md",
+    "06 Placement Prep/Tips/STAR Format.md",
+    "06 Placement Prep/CV/general-resume.pdf",
+    "03 Development/Flutter/State Management/Bloc.md",
+    "03 Development/Flutter/Architecture & Principle",
+    "03 Development/Database/Relational Database/01 PostgreSQL.md",
+    "03 Development/Flutter/State Management",
+    "03 Development/Database/Non-Relational Database",
+    "03 Development/Database/Relational Database",
+    "03 Development/Java/JUnit.md",
+    "03 Development/Java/Java Language Notes/25. Decimal Format.pdf",
+    "03 Development/Java/Java Language Notes/27. File Handling.pdf",
     "08 Resources/Computer Science Core/DBMS/43/right-outer-join-venn-diagram.png",
     "08 Resources/Computer Science Core/DBMS/43/Pasted image.png",
     "08 Resources/Computer Science Core/DBMS/43",
     "08 Resources/Computer Science Core/DBMS/42/left-outer-join-venn-diagram.png",
     "08 Resources/Computer Science Core/DBMS/42/Pasted image.png",
     "08 Resources/Computer Science Core/DBMS/42/left-outer-join.png",
-    "08 Resources/Computer Science Core/DBMS/42",
-    "07 Inbox/00 To-Learn.md",
-    "07 Inbox/03 Remaining.md",
-    "01 Computer Science Core/Database Management System/16 - One to One Relationship (Cardinality).md",
-    "01 Computer Science Core/Database Management System/14 - Introduction to ER Model.md",
-    "01 Computer Science Core/Database Management System/13 - Super Key.md",
-    "01 Computer Science Core/Database Management System/09 - Primary Key.md",
-    "01 Computer Science Core/Database Management System/04 - 2 Tier & 3 Tier Architecture.md",
-    "01 Computer Science Core/Database Management System/03 - File System  VS  DBMS.md",
-    "01 Computer Science Core/Database Management System/36 - Dependency Preservation Decomposition.md",
-    "01 Computer Science Core/Database Management System/37 - Dependency Preservation Decomposition.md",
-    "01 Computer Science Core/Database Management System/35 - Cover and Equivalence of Functional Dependencies.md",
-    "01 Computer Science Core/Database Management System/34 - Important Question Explanation on Normalization.md",
-    "01 Computer Science Core/Database Management System/33  - How to solve Normalization Question.md",
-    "01 Computer Science Core/Database Management System/32 - How to find out Normal Form of the Relation.md",
-    "01 Computer Science Core/Database Management System/31 - Practice Question on Normalization.md",
-    "05 Daily Notes/2025-05-27.md",
-    "06 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf",
-    "06 Placement Prep/CV/general-resume.pdf",
-    "05 Daily Notes/2025-05-26.md",
-    "03 Development/Java/Java Language Notes/09. Bubble Sort.pdf",
-    "03 Development/Java/Design Patterns",
     "08 Resources/Development/Flutter/clean-architecture-flow.png",
-    "01 Computer Science Core/Operating System/OS Part - I.pdf",
     "08 Resources/Computer Science Core/DBMS/19/minimize-table-question.png",
-    "08 Resources/Computer Science Core/DBMS/19",
     "08 Resources/Computer Science Core/DBMS/18/many-to-many-realtionship-example.png",
     "08 Resources/Computer Science Core/DBMS/18/Pasted image.png",
     "08 Resources/Computer Science Core/DBMS/18/many-to-many-relationship-example.png",
-    "08 Resources/Computer Science Core/DBMS/18",
-    "08 Resources/Computer Science Core/DBMS/17",
     "Untitled.canvas"
   ]
 }

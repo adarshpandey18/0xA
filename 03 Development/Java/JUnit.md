@@ -1,4 +1,4 @@
-# JUnit ☕
+# JUnit 
 
 JUnit is a framework for writing and running tests in Java.
 It provides annotations and assertions that help developers verify that their code behaves as expected.

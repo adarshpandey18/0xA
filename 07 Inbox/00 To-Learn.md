@@ -20,20 +20,20 @@
 	- [x] OOPS [[19. OOPS.pdf]]
 	- [x] Linked List [[20. Linked List.pdf]]
 	- [x] Stack [[21. Stack.pdf]]
-	- [ ] Queue [[22. Queue.pdf]]
+	- [x] Queue [[22. Queue.pdf]]
 	- [ ] Trees 
 		- [ ] BST [[23. Binary Search Tree.pdf]]
 		- [ ] Binary Tree [[23. Binary Tree.pdf]]
 		- [ ]    Segment Tree [[23. Segment Tree.pdf]]
 		- [ ] AVL Tree [[23. AVL Tree.pdf]]
 	- [x] BigInteger & BigDecimal [[26. BigInteger & BigDecimal.pdf]]
-	- [ ] Decimal Format [[25. Decimal Format.pdf]]
-	- [ ] File Handling [[27. File Handling.pdf]]
+	- [x] Decimal Format [[25. Decimal Format.pdf]]
+	- [x] File Handling [[27. File Handling.pdf]]
 
 ---
 - [ ] Core Java
 - [ ] JUnit
-- [ ] JDBC
+- [x] JDBC
 - [x] Maven
 - [ ] Advance Java
 - [ ] DBMS
@@ -45,7 +45,7 @@
 - [ ] Git / Github
 ---
 - [ ] Flutter
-	- [x] S.O.L.I.D Principle
+	- [ ] S.O.L.I.D Principle
 	- [ ] Clean Architecture
 	- [ ] Bloc
 	- [ ] Project
