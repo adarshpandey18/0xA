@@ -9,7 +9,7 @@
 	- [ ] [[37 - Dependency Preservation Decomposition]]
 	- [ ] other topics
 
-- [ ] Bloc
+- [x] Bloc
 - [ ] OS - part 2
 - [ ] java trees
 - [ ] hacker rank solving

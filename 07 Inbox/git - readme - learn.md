@@ -1,0 +1,25 @@
+- [ ] java
+- [ ] go
+- [ ] dart
+- [ ] spring boot
+- [ ] flutter
+- [ ] hibernate
+- [ ] mysql
+- [ ] postgresql
+- [ ] mongodb
+- [ ] supabase
+- [ ] firebase
+- [ ] android studio
+- [ ] intellij idea
+- [ ] neovim
+- [ ] vim 
+- [ ] markdown
+- [ ] maven
+- [ ] github
+- [ ] postman
+- [ ] git
+- [ ] linux
+- [ ] html
+- [ ] css
+- [ ] tailwind css
+- [ ] bootstrap
