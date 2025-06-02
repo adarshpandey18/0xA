@@ -37,7 +37,7 @@
 - [x] Maven
 - [ ] Advance Java
 - [ ] DBMS
-	- [ ] PostgreSQL
+	- [ ] [[01 PostgreSQL]]
 	- [ ] Theory
 - [ ] OS
 	- [ ] [[OS Part - I.pdf]]
