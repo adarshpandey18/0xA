@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFileChartColumnIncreasing",
+      "LiNetwork",
       "LiStar",
       "LiDistributeSpaceVertical",
-      "LiBox",
-      "LiKey",
-      "LiTable"
+      "LiBox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -72,5 +72,6 @@
   "03 Development/Database/Non-Relational Database": "LiKey",
   "03 Development/Flutter/State Management": "LiBox",
   "03 Development/Flutter/Architecture & Principle": "LiDistributeSpaceVertical",
-  "06 Placement Prep/Tips/STAR Format.md": "LiStar"
+  "06 Placement Prep/Tips/STAR Format.md": "LiStar",
+  "09 Machine Learning": "LiFileChartColumnIncreasing"
 }
