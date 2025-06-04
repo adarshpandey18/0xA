@@ -1,0 +1,256 @@
+
+##  **What Is Floyd’s Cycle Detection Algorithm?**
+
+Floyd’s algorithm (aka **Tortoise and Hare**) is used to:
+
+- **Detect if there is a cycle/loop** in a linked list or sequence.
+    
+- Optionally, **find the node where the cycle starts**.
+    
+
+---
+
+##  **Where/When to Use It?**
+
+###  Best For:
+
+- **Detecting cycles in linked lists**
+    
+- **Finding duplicate numbers in arrays** (like in LeetCode 287)
+    
+- Graph-based algorithms (in special cases)
+    
+
+###  Recognize Patterns Like:
+
+- "Find if there's a loop in the list"
+    
+- "Find the duplicate in an array where numbers repeat like a cycle"
+    
+- "Find the starting point of the cycle"
+    
+
+---
+
+##   **Basic Idea**
+
+Two pointers:
+
+- **Slow (Tortoise)** = moves 1 step
+    
+- **Fast (Hare)** = moves 2 steps
+    
+
+### If cycle exists:
+
+- They will eventually meet inside the cycle
+    
+
+### To find **entry point of cycle**:
+
+- Move one pointer back to head and move both 1 step at a time until they meet again.
+    
+
+---
+
+## **Code in Java (Linked List)**
+
+###  Step 1: Detect the Cycle
+
+```java
+class ListNode {
+    int val;
+    ListNode next;
+
+    ListNode(int val) {
+        this.val = val;
+    }
+}
+
+public class CycleDetection {
+
+    public boolean hasCycle(ListNode head) {
+        if (head == null || head.next == null) return false;
+
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast != null && fast.next != null) {
+            slow = slow.next;           // move 1 step
+            fast = fast.next.next;      // move 2 steps
+
+            if (slow == fast) {
+                return true;            // cycle found
+            }
+        }
+
+        return false;                   // no cycle
+    }
+}
+```
+
+---
+
+###  Step 2: Find the Cycle Start Point
+
+```java
+public ListNode detectCycle(ListNode head) {
+    if (head == null || head.next == null) return null;
+
+    ListNode slow = head;
+    ListNode fast = head;
+
+    // First: detect if there's a cycle
+    while (fast != null && fast.next != null) {
+        slow = slow.next;
+        fast = fast.next.next;
+
+        if (slow == fast) {
+            // Cycle detected, now find entry point
+            slow = head;
+
+            while (slow != fast) {
+                slow = slow.next;
+                fast = fast.next;
+            }
+
+            return slow; // Entry point of the cycle
+        }
+    }
+
+    return null; // No cycle
+}
+```
+
+---
+
+##  **How to Recognize When to Use It**
+
+Look for problems with:
+
+- "Infinite loop"
+    
+- "Repeated number"
+    
+- "Cycle in linked list"
+    
+- "Number appears twice without modifying array"
+    
+- "Can’t use extra memory or HashSet"
+    
+
+---
+
+##  **Common Variations / Interview Questions**
+
+###  **Cycle in Linked List**
+
+- `hasCycle(ListNode head)` ✅
+    
+
+###  **Find start of cycle in linked list**
+
+- `detectCycle(ListNode head)` ✅
+    
+
+### **Find Duplicate Number** (Leetcode 287)
+
+```java
+public int findDuplicate(int[] nums) {
+    int slow = nums[0];
+    int fast = nums[0];
+
+    // Phase 1: Detect cycle
+    do {
+        slow = nums[slow];
+        fast = nums[nums[fast]];
+    } while (slow != fast);
+
+    // Phase 2: Find cycle entrance
+    slow = nums[0];
+    while (slow != fast) {
+        slow = nums[slow];
+        fast = nums[fast];
+    }
+
+    return slow;
+}
+```
+
+---
+
+##  **Tips & Tricks**
+
+### Tips:
+
+- If question restricts space to **O(1)**, and you need to find a **repeating pattern** → think Floyd’s.
+    
+- Cycle detection in arrays uses `nums[i]` as pointer → treat as "linked list".
+    
+- Don’t use `HashSet` if space is a constraint.
+    
+
+### Common Mistakes:
+
+- Forgetting `fast != null && fast.next != null`
+    
+- Not resetting slow to head when finding cycle start
+    
+- Mixing up `fast = nums[fast]` vs `fast = nums[nums[fast]]`
+    
+
+---
+
+##   **Time and Space Complexity**
+
+| Operation | Complexity |
+| --------- | ---------- |
+| Time      | O(n)       |
+| Space     | O(1)       |
+
+---
+
+##  **Memory-Free Alternative to HashSet**
+
+In detecting a cycle, a naive method might use a `HashSet`:
+
+```java
+Set<ListNode> visited = new HashSet<>();
+while (node != null) {
+    if (visited.contains(node)) return true;
+    visited.add(node);
+    node = node.next;
+}
+```
+
+But Floyd's **does the same thing without extra space**.
+
+---
+
+##  **Practice Problems**
+
+Try these problems to master it:
+
+- [LeetCode 141](https://leetcode.com/problems/linked-list-cycle) – Linked List Cycle
+    
+- [LeetCode 142](https://leetcode.com/problems/linked-list-cycle-ii) – Cycle start
+    
+- [LeetCode 287](https://leetcode.com/problems/find-the-duplicate-number) – Duplicate number in array
+    
+- [GeeksforGeeks] Detect loop in linked list
+    
+
+---
+
+##  Summary
+
+|Goal|Method|
+|---|---|
+|Detect cycle in linked list|Floyd's Algorithm (slow & fast pointer)|
+|Find start of cycle|Reset one pointer to head, move both 1 step|
+|Use case|Linked list, array with duplicate forming cycle|
+|Space optimized?|Yes (O(1) space)|
+
+---
+
+Would you like a **visual diagram or animation**, or want to practice a specific question together?
