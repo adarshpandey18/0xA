@@ -1,3 +1,5 @@
+# 3 Schema Architecture 
+
 ![[3-schema-architecture.png|center|500]]
 ## **Main Goal: Data Independence**
 - Users should **not interact directly with the data**.

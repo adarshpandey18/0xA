@@ -44,7 +44,7 @@ Now, you must include **either A₁ or A₂** (or both) in every super key.
 - For each candidate key, the number of super keys that include it = $2{n-1}$
 So, total:
 
-$$\text{Total super keys} = 2^{n−1} + 2^{n−1} = 2× 2^{n−1} = 2^{n}$$
+$$\text{Total super keys} = 2^{n−1} + 2^{n−1} = 2 × 2^{n−1} = 2^{n}$$
 
 > But you must be cautious: if A₁ and A₂ **overlap in super sets**, some super keys may be **counted twice**. So the actual number may be **less than** 2n2^n in practice unless they are completely disjoint.
 

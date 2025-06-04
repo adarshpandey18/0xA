@@ -60,4 +60,3 @@ A short 1–2 line description of the project.
 ---
 
 ## 📑 Tags
-#Flutter #React #Firebase #PersonalProject #InterviewReady

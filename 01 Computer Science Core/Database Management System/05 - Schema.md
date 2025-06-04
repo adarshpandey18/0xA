@@ -1,4 +1,5 @@
-## Schema
+# Schema
+
 A **Schema** is the **logical blueprint** or **structure** of a database. It defines how data is organized and how the relationships between data are managed. It includes:
 - **Tables**
 - **Columns (fields)**
@@ -7,7 +8,8 @@ A **Schema** is the **logical blueprint** or **structure** of a database. It def
 - **Constraints** (like primary keys, foreign keys)\
 
 > Schema is logical representation of database.
-###  RDBMS Schema Example
+##  RDBMS Schema Example
+
 When designing a schema in a **Relational Database Management System (RDBMS)**, you represent data using **tables** (also known as relations). Here's your example formatted with a clear schema definition:
 #### Table: `Student`
 

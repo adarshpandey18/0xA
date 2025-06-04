@@ -2,7 +2,7 @@
 
 ---
 ## Database
-A database is a structured **collection of related data** stored electronically. It allows efficient retrieval, modification, and management of data.  
+A database is a **structured collection of related data** stored electronically. It allows efficient retrieval, modification, and management of data.  
 
 ## Types of Database
 

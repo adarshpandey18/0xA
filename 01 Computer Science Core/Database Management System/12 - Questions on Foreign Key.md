@@ -1,3 +1,5 @@
+# Questions on Foregin Key
+
 1. Let R1 (a, b,c) and R2(x,y,x) be two relations in which 'a ' is foreing key in R1 that refers to primary key of r2 consider fours options 
 	 1. Insert into R1
 	 2. Insert into R2

@@ -104,4 +104,4 @@ A **Maven Archetype** is a template provided by developers to quickly create a n
 **Maven Archetypes** make it much easier to get started with common Java project structures, ensuring that all the required files and configurations are set up automatically.
 
 ---
-#BuildTool #ProjectManagementTool 
+#BuildTool
