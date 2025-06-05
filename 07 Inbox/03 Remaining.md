@@ -10,6 +10,7 @@
 	- [ ] other topics
 
 - [x] Bloc
+- [ ] [[GoRoute]]
 - [ ] OS - part 2
 - [ ] java trees
 - [ ] hacker rank solving
