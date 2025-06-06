@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Daily Notes/2025-06-05.md",
+                "file": "07 Inbox/00 To-Learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-05"
+              "title": "00 To-Learn"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Daily Notes/2025-06-05.md",
+                "file": "07 Inbox/00 To-Learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-05"
+              "title": "Outline of 00 To-Learn"
             }
           }
         ],
@@ -171,11 +171,12 @@
   },
   "active": "73d3189471040e93",
   "lastOpenFiles": [
+    "05 Daily Notes/2025-06-06.md",
+    "05 Daily Notes/2025-06-05.md",
     "07 Inbox/01 Daily Execution Manifesto.md",
     "03 Development/Database/Relational Database/01 PostgreSQL.md",
     "07 Inbox/03 Remaining.md",
     "07 Inbox/00 To-Learn.md",
-    "05 Daily Notes/2025-06-05.md",
     "03 Development/Flutter/routes/GoRoute.md",
     "03 Development/Flutter/State Management/Cubit & Bloc.md",
     "03 Development/Flutter/routes",
@@ -198,7 +199,6 @@
     "01 Computer Science Core/Database Management System/08 - Integrity Constraints.md",
     "01 Computer Science Core/Database Management System/07 - Data Independence.md",
     "01 Computer Science Core/Database Management System/06 - 3 Schema Architecture.md",
-    "01 Computer Science Core/Database Management System/05 - Schema.md",
     "08 Resources/Machine Learning/Supervised machine learning - regression and classification",
     "08 Resources/Machine Learning",
     "08 Resources/Machine Learning/Supervised machine learning - regression and classification/supervised-learning-diagram.png",
