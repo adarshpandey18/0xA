@@ -11,14 +11,12 @@
             "id": "73d3189471040e93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "07 Inbox/00 To-Learn.md",
-                "mode": "source",
-                "source": false
+                "file": "03 Development/Java/Java Language Notes/23. Binary Tree.pdf"
               },
-              "icon": "lucide-file",
-              "title": "00 To-Learn"
+              "icon": "lucide-file-text",
+              "title": "23. Binary Tree"
             }
           }
         ]
@@ -140,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Inbox/00 To-Learn.md",
+                "file": "03 Development/Java/Java Language Notes/23. Binary Tree.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00 To-Learn"
+              "title": "Outline of 23. Binary Tree"
             }
           }
         ],
@@ -171,12 +169,13 @@
   },
   "active": "73d3189471040e93",
   "lastOpenFiles": [
+    "07 Inbox/00 To-Learn.md",
+    "03 Development/Java/Java Language Notes/23. Binary Search Tree.pdf",
+    "07 Inbox/01 Daily Execution Manifesto.md",
     "05 Daily Notes/2025-06-06.md",
     "05 Daily Notes/2025-06-05.md",
-    "07 Inbox/01 Daily Execution Manifesto.md",
     "03 Development/Database/Relational Database/01 PostgreSQL.md",
     "07 Inbox/03 Remaining.md",
-    "07 Inbox/00 To-Learn.md",
     "03 Development/Flutter/routes/GoRoute.md",
     "03 Development/Flutter/State Management/Cubit & Bloc.md",
     "03 Development/Flutter/routes",
@@ -198,7 +197,6 @@
     "01 Computer Science Core/Database Management System/08.2 - Candidate Key.md",
     "01 Computer Science Core/Database Management System/08 - Integrity Constraints.md",
     "01 Computer Science Core/Database Management System/07 - Data Independence.md",
-    "01 Computer Science Core/Database Management System/06 - 3 Schema Architecture.md",
     "08 Resources/Machine Learning/Supervised machine learning - regression and classification",
     "08 Resources/Machine Learning",
     "08 Resources/Machine Learning/Supervised machine learning - regression and classification/supervised-learning-diagram.png",
@@ -207,7 +205,6 @@
     "09 Machine Learning",
     "01 Computer Science Core/Computer Networks",
     "08 Resources/Development/Flutter/state management",
-    "03 Development/Java/Java Language Notes/16. Time Complexity.pdf",
     "08 Resources/Computer Science Core/DBMS/43/right-outer-join-venn-diagram.png",
     "08 Resources/Computer Science Core/DBMS/43/Pasted image.png",
     "08 Resources/Computer Science Core/DBMS/42/left-outer-join-venn-diagram.png",
