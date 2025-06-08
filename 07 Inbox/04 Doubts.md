@@ -2,4 +2,4 @@
 - [ ] CTE SQL
 - [ ] Cursors SQL
 - [ ] Joins in practical
-- [ ] 
+- [ ] Supervised learning 
