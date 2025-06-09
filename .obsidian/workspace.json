@@ -11,12 +11,14 @@
             "id": "73d3189471040e93",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 Development/Java/Java Language Notes/23. Binary Tree.pdf"
+                "file": "05 Daily Notes/2025-06-09.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "23. Binary Tree"
+              "icon": "lucide-file",
+              "title": "2025-06-09"
             }
           }
         ]
@@ -138,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Java Language Notes/23. Binary Tree.pdf",
+                "file": "05 Daily Notes/2025-06-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 23. Binary Tree"
+              "title": "Outline of 2025-06-09"
             }
           }
         ],
@@ -169,6 +171,8 @@
   },
   "active": "73d3189471040e93",
   "lastOpenFiles": [
+    "03 Development/Java/Java Language Notes/23. Binary Tree.pdf",
+    "05 Daily Notes/2025-06-09.md",
     "07 Inbox/00 To-Learn.md",
     "03 Development/Java/Java Language Notes/23. Binary Search Tree.pdf",
     "07 Inbox/01 Daily Execution Manifesto.md",
@@ -196,7 +200,6 @@
     "01 Computer Science Core/Database Management System/09 - Primary Key.md",
     "01 Computer Science Core/Database Management System/08.2 - Candidate Key.md",
     "01 Computer Science Core/Database Management System/08 - Integrity Constraints.md",
-    "01 Computer Science Core/Database Management System/07 - Data Independence.md",
     "08 Resources/Machine Learning/Supervised machine learning - regression and classification",
     "08 Resources/Machine Learning",
     "08 Resources/Machine Learning/Supervised machine learning - regression and classification/supervised-learning-diagram.png",
