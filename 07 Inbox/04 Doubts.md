@@ -2,4 +2,5 @@
 - [ ] CTE SQL
 - [ ] Cursors SQL
 - [ ] Joins in practical
+- [ ] IOT 
 - [ ] Supervised learning 
