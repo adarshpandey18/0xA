@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Daily Notes/2025-06-11.md",
-                "mode": "source",
+                "file": "02 DSA & Problem Solving/Algorithms/sorting/06 Merge Sort.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-11"
+              "title": "06 Merge Sort"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Daily Notes/2025-06-11.md",
+                "file": "02 DSA & Problem Solving/Algorithms/sorting/06 Merge Sort.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-11"
+              "title": "Outline of 06 Merge Sort"
             }
           }
         ],
@@ -171,8 +171,23 @@
   },
   "active": "73d3189471040e93",
   "lastOpenFiles": [
-    "05 Daily Notes/2025-06-09.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/05 Quick Sort.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/04 Cyclic Sort.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/03 Insertion Sort.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/02 Selection Sort.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/01 Bubble Sort.md",
+    "02 DSA & Problem Solving/Algorithms/searching/02 Binary Search.md",
+    "02 DSA & Problem Solving/Algorithms/searching/01 Linear Search.md",
+    "05 Daily Notes/2025-06-20.md",
+    "01 Computer Science Core/System Design/07 - Sharding And Partitioning.pdf",
+    "01 Computer Science Core/System Design/06 - Database Scaling.pdf",
+    "01 Computer Science Core/System Design/05 - Database Isolation Levels.pdf",
+    "01 Computer Science Core/System Design/04 - Relational Databases.pdf",
+    "01 Computer Science Core/System Design/03 - How Do You Know You Have Built A Good System.pdf",
+    "01 Computer Science Core/System Design/02 - How To Approach System Design.pdf",
+    "01 Computer Science Core/System Design/01 - What Is System Design.pdf",
     "05 Daily Notes/2025-06-11.md",
+    "05 Daily Notes/2025-06-09.md",
     "03 Development/Java/Java Language Notes/23. Binary Tree.pdf",
     "07 Inbox/00 To-Learn.md",
     "03 Development/Java/Java Language Notes/23. Binary Search Tree.pdf",
@@ -192,22 +207,7 @@
     "03 Development/Java/Maven.md",
     "00 Templates/Project Template.md",
     "05 Daily Notes/2025-05-15.md",
-    "01 Computer Science Core/Operating System/OS Part - I.pdf",
-    "01 Computer Science Core/Database Management System/11 - Insert, Update & Delete from Foreign Key Table.md",
-    "01 Computer Science Core/Database Management System/00 - Index.md",
-    "01 Computer Science Core/Database Management System/13 - Super Key.md",
-    "01 Computer Science Core/Database Management System/12 - Questions on Foreign Key.md",
-    "01 Computer Science Core/Database Management System/10 - Foreign Key.md",
-    "01 Computer Science Core/Database Management System/09 - Primary Key.md",
-    "01 Computer Science Core/Database Management System/08.2 - Candidate Key.md",
-    "01 Computer Science Core/Database Management System/08 - Integrity Constraints.md",
-    "08 Resources/Machine Learning/Supervised machine learning - regression and classification",
-    "08 Resources/Machine Learning",
     "08 Resources/Machine Learning/Supervised machine learning - regression and classification/supervised-learning-diagram.png",
-    "09 Machine Learning/Supervised Machine Learning - Regression and Classification/week-1",
-    "09 Machine Learning/Supervised Machine Learning - Regression and Classification",
-    "09 Machine Learning",
-    "01 Computer Science Core/Computer Networks",
     "08 Resources/Computer Science Core/DBMS/43/right-outer-join-venn-diagram.png",
     "08 Resources/Computer Science Core/DBMS/43/Pasted image.png",
     "08 Resources/Computer Science Core/DBMS/42/left-outer-join-venn-diagram.png",
