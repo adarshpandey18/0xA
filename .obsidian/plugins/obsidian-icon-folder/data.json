@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFiles",
+      "LiHammer",
+      "LiLeaf",
       "LiNavigation",
-      "LiFileChartColumnIncreasing",
-      "LiNetwork",
-      "LiStar",
-      "LiDistributeSpaceVertical"
+      "LiFileChartColumnIncreasing"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -74,5 +74,8 @@
   "03 Development/Flutter/Architecture & Principle": "LiDistributeSpaceVertical",
   "06 Placement Prep/Tips/STAR Format.md": "LiStar",
   "09 Machine Learning": "LiFileChartColumnIncreasing",
-  "03 Development/Flutter/routes": "LiNavigation"
+  "03 Development/Flutter/routes": "LiNavigation",
+  "03 Development/Java/Spring Boot": "LiLeaf",
+  "03 Development/Java/Build Tool": "LiHammer",
+  "03 Development/Java/Miscellaneous": "LiFiles"
 }
