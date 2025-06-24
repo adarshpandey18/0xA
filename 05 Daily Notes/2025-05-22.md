@@ -10,7 +10,7 @@
 ---
 
 ## 📚 What I Studied Today
-- DSA Topic: [[Two Pointers]] → (summary of what you understood)
+- DSA Topic: [[01. Two Pointers]] → (summary of what you understood)
 - OS Topic: [[Memory Management]] → (short reflection or key point)
 - Java/Spring/Go: (any concept you read or coded)
 

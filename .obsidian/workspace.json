@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21e856a58924954f",
+        "id": "b68d73de456efc64",
         "type": "tabs",
         "children": [
           {
-            "id": "11ea0cee47305529",
+            "id": "9b7e76a0f0659353",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "05 Daily Notes/2025-06-24.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-06-24"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 Development/Database/Relational Database/01 PostgreSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 01 PostgreSQL"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 Development/Database/Relational Database/01 PostgreSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 01 PostgreSQL"
             }
           },
           {
@@ -136,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Machine Learning/Supervised Machine Learning - Regression and Classification/week-1/03 Supervised Learning.md",
+                "file": "05 Daily Notes/2025-06-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 Supervised Learning"
+              "title": "Outline of 2025-06-24"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,42 +171,47 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ac11d84a737ee73",
+  "active": "9b7e76a0f0659353",
   "lastOpenFiles": [
+    "02 DSA & Problem Solving/Patterns & Technique/03. Floyd's Cycle Detection Algorithm.md",
+    "02 DSA & Problem Solving/Patterns & Technique/02. Sliding Window.md",
+    "02 DSA & Problem Solving/Patterns & Technique/01. Two Pointers.md",
+    "02 DSA & Problem Solving/Patterns & Technique/04. Dynamic Programming.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/05 Quick Sort.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/06 Merge Sort.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/02 Selection Sort.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/01 Bubble Sort.md",
+    "02 DSA & Problem Solving/Algorithms/searching/02 Binary Search.md",
+    "02 DSA & Problem Solving/Algorithms/searching/01 Linear Search.md",
+    "06 Placement Prep/CV/general-resume.pdf",
+    "05 Daily Notes/2025-05-30.md",
+    "05 Daily Notes/2025-06-24.md",
+    "__Inbox/00 To-Learn.md",
+    "__Inbox/01 Daily Execution Manifesto.md",
+    "__Inbox/git - readme - learn.md",
+    "__Inbox/05 - Resource List.md",
+    "__Inbox/03 Remaining.md",
+    "__Inbox/04 Doubts.md",
+    "03 Development/Database/Relational Database/01 PostgreSQL.md",
+    "09 Machine Learning/Supervised Machine Learning - Regression and Classification/week-1/03 Supervised Learning.md",
     "09 Machine Learning/Supervised Machine Learning - Regression and Classification/week-1/02 Applications of Machine Learning.md",
     "09 Machine Learning/Supervised Machine Learning - Regression and Classification/week-1/01 Introduction to Machine Learning.md",
     "03 Development/Flutter/State Management/Cubit & Bloc.md",
     "03 Development/Flutter/routes/GoRoute.md",
     "03 Development/Flutter/Architecture & Principle/Clean Architecture.md",
     "03 Development/Java/Miscellaneous/JDBC.md",
-    "03 Development/Java/Miscellaneous/JUnit.md",
-    "03 Development/Java/Build Tool/Maven.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer & JPA.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
-    "03 Development/Java/Spring Boot/00 Index.md",
     "07 Resources/Development/Java/Spring Boot/2/2.3/jpa-diagram.png",
     "08 Resources/Development/Java/Spring Boot/2/2.3/Pasted image.png",
     "07 Resources/Development/Java/Spring Boot/2/2.3",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
-    "05 Daily Notes/2025-06-24.md",
     "07 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-web-project-structure.png",
     "08 Resources/Development/Java/Spring Boot/2/2.1/Pasted image.png",
     "07 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-mvc-architecture.png",
     "07 Resources/Development/Java/Spring Boot/2/2.1",
     "07 Resources/Development/Java/Spring Boot/2",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.6 Auto-Configuration & Spring Boot Internal Flow.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs",
-    "03 Development/Java/Spring Boot/Untitled.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.7 Maven Build Tool.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.3 Beans.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.2 Setting Up Local Environment.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
     "07 Resources/Development/Java/Spring Boot/1/1.7/maven-lifecycle.jpg",
     "07 Resources/Development/Java/Spring Boot/1/1.7",
-    "08 Resources/Development/Java/Spring Boot/1/Untitled.md",
     "07 Resources/Development/Java/Spring Boot/1/1.1/why-spring.jpg",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.4 Dependency Injection.md",
     "03 Development/Java/Miscellaneous",
     "03 Development/Java/Build Tool",
     "07 Resources/Development/Java/Spring Boot/1/1.2",
@@ -208,11 +219,6 @@
     "08 Resources/Development/Java/Spring Boot/1/1.1/Pasted image.png",
     "07 Resources/Development/Java/Spring Boot/1/1.1/ioc-container.png",
     "07 Resources/Development/Java/Spring Boot/1/1.1",
-    "07 Resources/Development/Java/Spring Boot/1",
-    "05 Daily Notes/2025-06-23.md",
-    "05 Daily Notes/2025-06-22.md",
-    "01 Computer Science Core/Database Management System/43 - Right Outer Join.md",
-    "01 Computer Science Core/Database Management System/42 - Left Outer Join.md",
     "Untitled.canvas"
   ]
 }
