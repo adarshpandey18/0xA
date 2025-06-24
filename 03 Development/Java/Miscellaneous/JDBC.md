@@ -1,10 +1,10 @@
 # JDBC (Java Database Connectivity)
 
-JDBC (Java Database Connectivity) is an **API (Application Programming Interface)** provided by Java to enable Java applications to interact with a variety of databases.
+- JDBC (Java Database Connectivity) is an **API (Application Programming Interface)** provided by Java to enable Java applications to interact with a variety of databases.
 
-It provides a standard interface for accessing and manipulating database data using the Java programming language. 
+- It provides a standard interface for accessing and manipulating database data using the Java programming language. 
 
-JDBC facilitates database connectivity, allowing applications to execute SQL queries and manage data in a **platform-independent manner**. It is a part of the **Java Development Kit (JDK)**.
+- JDBC facilitates database connectivity, allowing applications to execute SQL queries and manage data in a **platform-independent manner**. It is a part of the **Java Development Kit (JDK)**.
 
 ![[JDBC_Introduction.png]]
 
@@ -261,3 +261,4 @@ public class JdbcCrudOperations {
 
 ```
 
+---

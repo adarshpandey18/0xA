@@ -54,8 +54,6 @@
   "06 Placement Prep/Company-Wise Prep": "LiBuilding2",
   "06 Placement Prep/HR Questions": "LiPersonStanding",
   "06 Placement Prep/Technical Interview Q&A": "LiTerminal",
-  "07 Inbox": "LiTrash",
-  "08 Resources": "LiPictureInPicture",
   "04 Aptitude & Reasoning/Verbal": "🗣",
   "04 Aptitude & Reasoning/Quantitative": "LiPenTool",
   "04 Aptitude & Reasoning/Logical Reasoning": "LiBrainCog",
@@ -73,9 +71,10 @@
   "03 Development/Flutter/State Management": "LiBox",
   "03 Development/Flutter/Architecture & Principle": "LiDistributeSpaceVertical",
   "06 Placement Prep/Tips/STAR Format.md": "LiStar",
-  "09 Machine Learning": "LiFileChartColumnIncreasing",
   "03 Development/Flutter/routes": "LiNavigation",
   "03 Development/Java/Spring Boot": "LiLeaf",
   "03 Development/Java/Build Tool": "LiHammer",
-  "03 Development/Java/Miscellaneous": "LiFiles"
+  "03 Development/Java/Miscellaneous": "LiFiles",
+  "__Inbox": "LiTrash",
+  "07 Resources": "LiPictureInPicture"
 }

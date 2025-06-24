@@ -1,7 +1,8 @@
 # JUnit 
 
-JUnit is a framework for writing and running tests in Java.
-It provides annotations and assertions that help developers verify that their code behaves as expected.
+- JUnit is a framework for **writing** & **running tests** in Java.
+
+- It provides **annotations** and **assertions** that help developers verify that their code behaves as expected.
 
 ---
 
@@ -13,7 +14,6 @@ It provides annotations and assertions that help developers verify that their co
   - Ensure software works correctly in different scenarios and meets user requirements.  
   
 - ### Unit Testing
-
   - Specific type of testing focused on individual units or components of software.
   - Tests the smallest testable parts like functions, methods, or classes in isolation.
   - Verify the correctness of each unit independently from the rest of the system.
@@ -71,6 +71,7 @@ It provides annotations and assertions that help developers verify that their co
 </project>
 
 ```
+
 `<scope> test </scope>`  It is used for testing purpose not for deployment 
 
 ### 3. Create Test

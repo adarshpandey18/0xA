@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0275be321258d5e3",
+        "id": "21e856a58924954f",
         "type": "tabs",
         "children": [
           {
-            "id": "89229a99afa5448d",
+            "id": "11ea0cee47305529",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2.2 Presentation Layer (Controller)"
+              "title": "New tab"
             }
           }
         ]
@@ -140,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
+                "file": "09 Machine Learning/Supervised Machine Learning - Regression and Classification/week-1/03 Supervised Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.2 Presentation Layer (Controller)"
+              "title": "Outline of 03 Supervised Learning"
             }
           }
         ],
@@ -169,16 +165,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "89229a99afa5448d",
+  "active": "1ac11d84a737ee73",
   "lastOpenFiles": [
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
+    "09 Machine Learning/Supervised Machine Learning - Regression and Classification/week-1/02 Applications of Machine Learning.md",
+    "09 Machine Learning/Supervised Machine Learning - Regression and Classification/week-1/01 Introduction to Machine Learning.md",
+    "03 Development/Flutter/State Management/Cubit & Bloc.md",
+    "03 Development/Flutter/routes/GoRoute.md",
+    "03 Development/Flutter/Architecture & Principle/Clean Architecture.md",
+    "03 Development/Java/Miscellaneous/JDBC.md",
+    "03 Development/Java/Miscellaneous/JUnit.md",
+    "03 Development/Java/Build Tool/Maven.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer & JPA.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
-    "08 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-web-project-structure.png",
-    "08 Resources/Development/Java/Spring Boot/2/2.1/Pasted image.png",
-    "08 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-mvc-architecture.png",
-    "08 Resources/Development/Java/Spring Boot/2/2.1",
-    "08 Resources/Development/Java/Spring Boot/2",
     "03 Development/Java/Spring Boot/00 Index.md",
+    "07 Resources/Development/Java/Spring Boot/2/2.3/jpa-diagram.png",
+    "08 Resources/Development/Java/Spring Boot/2/2.3/Pasted image.png",
+    "07 Resources/Development/Java/Spring Boot/2/2.3",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
+    "05 Daily Notes/2025-06-24.md",
+    "07 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-web-project-structure.png",
+    "08 Resources/Development/Java/Spring Boot/2/2.1/Pasted image.png",
+    "07 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-mvc-architecture.png",
+    "07 Resources/Development/Java/Spring Boot/2/2.1",
+    "07 Resources/Development/Java/Spring Boot/2",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.6 Auto-Configuration & Spring Boot Internal Flow.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs",
     "03 Development/Java/Spring Boot/Untitled.md",
@@ -187,36 +196,23 @@
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.3 Beans.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.2 Setting Up Local Environment.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
-    "08 Resources/Development/Java/Spring Boot/1/1.7/maven-lifecycle.jpg",
-    "08 Resources/Development/Java/Spring Boot/1/1.7",
+    "07 Resources/Development/Java/Spring Boot/1/1.7/maven-lifecycle.jpg",
+    "07 Resources/Development/Java/Spring Boot/1/1.7",
     "08 Resources/Development/Java/Spring Boot/1/Untitled.md",
-    "08 Resources/Development/Java/Spring Boot/1/1.1/why-spring.jpg",
+    "07 Resources/Development/Java/Spring Boot/1/1.1/why-spring.jpg",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.4 Dependency Injection.md",
-    "05 Daily Notes/2025-06-24.md",
-    "03 Development/Java/Miscellaneous/JUnit.md",
-    "03 Development/Java/Miscellaneous/JDBC.md",
     "03 Development/Java/Miscellaneous",
     "03 Development/Java/Build Tool",
-    "08 Resources/Development/Java/Spring Boot/1/1.2",
-    "08 Resources/Development/Java/Spring Boot/1/1.1/spring-framework-architecture.png",
+    "07 Resources/Development/Java/Spring Boot/1/1.2",
+    "07 Resources/Development/Java/Spring Boot/1/1.1/spring-framework-architecture.png",
     "08 Resources/Development/Java/Spring Boot/1/1.1/Pasted image.png",
-    "08 Resources/Development/Java/Spring Boot/1/1.1/ioc-container.png",
-    "08 Resources/Development/Java/Spring Boot/1/1.1",
-    "08 Resources/Development/Java/Spring Boot/1",
-    "08 Resources/Development/Java/Spring Boot",
+    "07 Resources/Development/Java/Spring Boot/1/1.1/ioc-container.png",
+    "07 Resources/Development/Java/Spring Boot/1/1.1",
+    "07 Resources/Development/Java/Spring Boot/1",
     "05 Daily Notes/2025-06-23.md",
     "05 Daily Notes/2025-06-22.md",
     "01 Computer Science Core/Database Management System/43 - Right Outer Join.md",
     "01 Computer Science Core/Database Management System/42 - Left Outer Join.md",
-    "01 Computer Science Core/Database Management System/41 - Equi Join.md",
-    "01 Computer Science Core/Database Management System/40 - Self Join.md",
-    "01 Computer Science Core/Database Management System/38 - Joins.md",
-    "01 Computer Science Core/Database Management System/37 - Dependency Preservation Decomposition.md",
-    "01 Computer Science Core/Database Management System/36 - Dependency Preservation Decomposition.md",
-    "01 Computer Science Core/Database Management System/39 - Natural Join.md",
-    "01 Computer Science Core/Database Management System/34 - Important Question Explanation on Normalization.md",
-    "08 Resources/Machine Learning/Supervised machine learning - regression and classification/supervised-learning-diagram.png",
-    "08 Resources/Computer Science Core/DBMS/43/right-outer-join-venn-diagram.png",
     "Untitled.canvas"
   ]
 }
