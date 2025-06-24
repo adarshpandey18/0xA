@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cc321cdb3aff9e33",
+        "id": "0275be321258d5e3",
         "type": "tabs",
         "children": [
           {
-            "id": "142d6c95ba338e2c",
+            "id": "89229a99afa5448d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Java/Spring Boot/00 Index.md",
-                "mode": "preview",
+                "file": "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Index"
+              "title": "2.2 Presentation Layer (Controller)"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Spring Boot/00 Index.md",
+                "file": "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00 Index"
+              "title": "Outline of 2.2 Presentation Layer (Controller)"
             }
           }
         ],
@@ -169,12 +169,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "142d6c95ba338e2c",
+  "active": "89229a99afa5448d",
   "lastOpenFiles": [
-    "03 Development/Java/Spring Boot/1/1.1 Introduction to Spring.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
+    "08 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-web-project-structure.png",
+    "08 Resources/Development/Java/Spring Boot/2/2.1/Pasted image.png",
+    "08 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-mvc-architecture.png",
+    "08 Resources/Development/Java/Spring Boot/2/2.1",
+    "08 Resources/Development/Java/Spring Boot/2",
     "03 Development/Java/Spring Boot/00 Index.md",
-    "03 Development/Java/Spring Boot/1/1.3 Beans.md",
-    "03 Development/Java/Spring Boot/1/1.2 Setting Up Local Environment.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.6 Auto-Configuration & Spring Boot Internal Flow.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs",
+    "03 Development/Java/Spring Boot/Untitled.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.7 Maven Build Tool.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.3 Beans.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.2 Setting Up Local Environment.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
+    "08 Resources/Development/Java/Spring Boot/1/1.7/maven-lifecycle.jpg",
+    "08 Resources/Development/Java/Spring Boot/1/1.7",
+    "08 Resources/Development/Java/Spring Boot/1/Untitled.md",
+    "08 Resources/Development/Java/Spring Boot/1/1.1/why-spring.jpg",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.4 Dependency Injection.md",
+    "05 Daily Notes/2025-06-24.md",
     "03 Development/Java/Miscellaneous/JUnit.md",
     "03 Development/Java/Miscellaneous/JDBC.md",
     "03 Development/Java/Miscellaneous",
@@ -187,10 +205,6 @@
     "08 Resources/Development/Java/Spring Boot/1",
     "08 Resources/Development/Java/Spring Boot",
     "05 Daily Notes/2025-06-23.md",
-    "03 Development/Java/Spring Boot/1",
-    "03 Development/Java/Spring Boot",
-    "03 Development/Java/Java Language Notes/15. Recursion.pdf",
-    "03 Development/Java/Java Language Notes/14. Bitwise Operators .pdf",
     "05 Daily Notes/2025-06-22.md",
     "01 Computer Science Core/Database Management System/43 - Right Outer Join.md",
     "01 Computer Science Core/Database Management System/42 - Left Outer Join.md",
@@ -201,22 +215,8 @@
     "01 Computer Science Core/Database Management System/36 - Dependency Preservation Decomposition.md",
     "01 Computer Science Core/Database Management System/39 - Natural Join.md",
     "01 Computer Science Core/Database Management System/34 - Important Question Explanation on Normalization.md",
-    "01 Computer Science Core/Database Management System/33  - How to solve Normalization Question.md",
-    "01 Computer Science Core/Database Management System/04 - 2 Tier & 3 Tier Architecture.md",
-    "01 Computer Science Core/Database Management System/00 - Index.md",
-    "01 Computer Science Core/Database Management System/02 - Introduction to DBMS.md",
-    "05 Daily Notes/2025-06-20.md",
-    "07 Inbox/05 - Resource List.md",
-    "07 Inbox/04 Doubts.md",
-    "07 Inbox/01 Daily Execution Manifesto.md",
-    "07 Inbox/03 Remaining.md",
     "08 Resources/Machine Learning/Supervised machine learning - regression and classification/supervised-learning-diagram.png",
     "08 Resources/Computer Science Core/DBMS/43/right-outer-join-venn-diagram.png",
-    "08 Resources/Computer Science Core/DBMS/43/Pasted image.png",
-    "08 Resources/Computer Science Core/DBMS/42/left-outer-join-venn-diagram.png",
-    "08 Resources/Computer Science Core/DBMS/42/Pasted image.png",
-    "08 Resources/Computer Science Core/DBMS/42/left-outer-join.png",
-    "08 Resources/Development/Flutter/state management/clean-architecture-flow.png",
     "Untitled.canvas"
   ]
 }
