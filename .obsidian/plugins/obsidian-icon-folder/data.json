@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTestTube",
+      "LiDatabase",
       "LiFiles",
       "LiHammer",
-      "LiLeaf",
-      "LiNavigation",
-      "LiFileChartColumnIncreasing"
+      "LiLeaf"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -76,5 +76,7 @@
   "03 Development/Java/Build Tool": "LiHammer",
   "03 Development/Java/Miscellaneous": "LiFiles",
   "__Inbox": "LiTrash",
-  "07 Resources": "LiPictureInPicture"
+  "07 Resources": "LiPictureInPicture",
+  "03 Development/Java/Miscellaneous/JDBC.md": "LiDatabase",
+  "03 Development/Java/Miscellaneous/JUnit.md": "LiTestTube"
 }

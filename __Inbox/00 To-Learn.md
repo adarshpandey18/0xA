@@ -6,8 +6,9 @@
 - [ ] Spring Boot
 - [ ] DBMS
 - [ ] SQL
-- [ ] Git
+- [ ] Git/Github
 - [ ] JDBC
+- [ ] Junit
 - [ ] Hibernate
 
 ## Next Priority
@@ -30,4 +31,3 @@
 
 ## Side by Side
 - [ ] Research Paper
-- [ ] 

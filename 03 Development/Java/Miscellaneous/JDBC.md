@@ -6,7 +6,7 @@
 
 - JDBC facilitates database connectivity, allowing applications to execute SQL queries and manage data in a **platform-independent manner**. It is a part of the **Java Development Kit (JDK)**.
 
-![[JDBC_Introduction.png]]
+![[JDBC_Introduction.png|center]]
 
 ---
 

@@ -4,24 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "b68d73de456efc64",
+        "id": "36979f2978a843e3",
         "type": "tabs",
         "children": [
           {
-            "id": "9b7e76a0f0659353",
+            "id": "9dcd15adc18b791e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Daily Notes/2025-06-24.md",
+                "file": "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.3 Beans.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Beans"
+            }
+          },
+          {
+            "id": "07882146359f30eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Inbox/05 - Resource List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-24"
+              "title": "05 - Resource List"
+            }
+          },
+          {
+            "id": "2b1dacf07be28af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Inbox/05 - Resource List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - Resource List"
+            }
+          },
+          {
+            "id": "f45892dbc09fb12c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revision.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Revision"
+            }
+          },
+          {
+            "id": "142378002b7681c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Daily Notes/2025-06-24.md",
+                "file": "Revision.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-24"
+              "title": "Outline of Revision"
             }
           }
         ],
@@ -171,54 +224,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b7e76a0f0659353",
+  "active": "1ac11d84a737ee73",
   "lastOpenFiles": [
-    "02 DSA & Problem Solving/Patterns & Technique/03. Floyd's Cycle Detection Algorithm.md",
-    "02 DSA & Problem Solving/Patterns & Technique/02. Sliding Window.md",
-    "02 DSA & Problem Solving/Patterns & Technique/01. Two Pointers.md",
-    "02 DSA & Problem Solving/Patterns & Technique/04. Dynamic Programming.md",
-    "02 DSA & Problem Solving/Algorithms/sorting/05 Quick Sort.md",
-    "02 DSA & Problem Solving/Algorithms/sorting/06 Merge Sort.md",
-    "02 DSA & Problem Solving/Algorithms/sorting/02 Selection Sort.md",
-    "02 DSA & Problem Solving/Algorithms/sorting/01 Bubble Sort.md",
-    "02 DSA & Problem Solving/Algorithms/searching/02 Binary Search.md",
-    "02 DSA & Problem Solving/Algorithms/searching/01 Linear Search.md",
-    "06 Placement Prep/CV/general-resume.pdf",
-    "05 Daily Notes/2025-05-30.md",
-    "05 Daily Notes/2025-06-24.md",
-    "__Inbox/00 To-Learn.md",
-    "__Inbox/01 Daily Execution Manifesto.md",
-    "__Inbox/git - readme - learn.md",
+    "Untitled.md",
+    "Revision.md",
+    "__Inbox/Progress.md",
+    "Interview Preparation.md",
     "__Inbox/05 - Resource List.md",
     "__Inbox/03 Remaining.md",
-    "__Inbox/04 Doubts.md",
-    "03 Development/Database/Relational Database/01 PostgreSQL.md",
-    "09 Machine Learning/Supervised Machine Learning - Regression and Classification/week-1/03 Supervised Learning.md",
-    "09 Machine Learning/Supervised Machine Learning - Regression and Classification/week-1/02 Applications of Machine Learning.md",
-    "09 Machine Learning/Supervised Machine Learning - Regression and Classification/week-1/01 Introduction to Machine Learning.md",
-    "03 Development/Flutter/State Management/Cubit & Bloc.md",
-    "03 Development/Flutter/routes/GoRoute.md",
-    "03 Development/Flutter/Architecture & Principle/Clean Architecture.md",
+    "__Inbox/01 Daily Execution Manifesto.md",
+    "__Inbox/00 To-Learn.md",
+    "05 Daily Notes/2025-07-04.md",
+    "__Inbox/git - readme - learn.md",
     "03 Development/Java/Miscellaneous/JDBC.md",
+    "05 Daily Notes/2025-06-29.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer & JPA.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.3 Beans.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.4 Dependency Injection.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.6 Auto-Configuration & Spring Boot Internal Flow.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.2 Setting Up Local Environment.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.7 Maven Build Tool.md",
+    "03 Development/Flutter/Architecture & Principle/SOLID Principles.md",
+    "05 Daily Notes/2025-06-28.md",
+    "03 Development/Flutter/Architecture & Principle/Clean Architecture.md",
+    "03 Development/Java/Java Language Notes/27. File Handling.pdf",
+    "03 Development/Java/Java Language Notes/20. Linked List.pdf",
+    "03 Development/Java/Java Language Notes/19. OOPS - II.pdf",
+    "03 Development/Java/Java Language Notes/19. OOPS.pdf",
+    "03 Development/Java/Java Language Notes/18. Quick Sort.pdf",
+    "03 Development/Java/Java Language Notes/16. Time Complexity.pdf",
+    "03 Development/Java/Java Language Notes/15. Recursion.pdf",
+    "03 Development/Java/Java Language Notes/17. Merge Sort.pdf",
+    "03 Development/Java/Java Language Notes/14. Bitwise Operators .pdf",
+    "03 Development/Java/Java Language Notes/13. Strings & StringBuilder.pdf",
+    "05 Daily Notes/2025-06-27.md",
     "07 Resources/Development/Java/Spring Boot/2/2.3/jpa-diagram.png",
     "08 Resources/Development/Java/Spring Boot/2/2.3/Pasted image.png",
-    "07 Resources/Development/Java/Spring Boot/2/2.3",
     "07 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-web-project-structure.png",
     "08 Resources/Development/Java/Spring Boot/2/2.1/Pasted image.png",
     "07 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-mvc-architecture.png",
-    "07 Resources/Development/Java/Spring Boot/2/2.1",
-    "07 Resources/Development/Java/Spring Boot/2",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs",
     "07 Resources/Development/Java/Spring Boot/1/1.7/maven-lifecycle.jpg",
-    "07 Resources/Development/Java/Spring Boot/1/1.7",
     "07 Resources/Development/Java/Spring Boot/1/1.1/why-spring.jpg",
-    "03 Development/Java/Miscellaneous",
-    "03 Development/Java/Build Tool",
-    "07 Resources/Development/Java/Spring Boot/1/1.2",
     "07 Resources/Development/Java/Spring Boot/1/1.1/spring-framework-architecture.png",
     "08 Resources/Development/Java/Spring Boot/1/1.1/Pasted image.png",
     "07 Resources/Development/Java/Spring Boot/1/1.1/ioc-container.png",
-    "07 Resources/Development/Java/Spring Boot/1/1.1",
     "Untitled.canvas"
   ]
 }
