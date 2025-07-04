@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Inbox/Progress.md",
-                "mode": "source",
+                "file": "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Progress"
+              "title": "2.2 Presentation Layer (Controller)"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Inbox/Progress.md",
+                "file": "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Progress"
+              "title": "Outline of 2.2 Presentation Layer (Controller)"
             }
           }
         ],
@@ -173,8 +173,19 @@
   },
   "active": "f45892dbc09fb12c",
   "lastOpenFiles": [
-    "Revision.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer (Repository) & JPA.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
+    "03 Development/Java/Spring Boot/00 Index.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.7 Maven Build Tool.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.6 Auto-Configuration & Spring Boot Internal Flow.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.4 Dependency Injection.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.3 Beans.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.2 Setting Up Local Environment.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
     "__Inbox/Progress.md",
+    "Revision.md",
     "03 Development/Java/Java Language Notes/27. File Handling.pdf",
     "03 Development/Java/Java Language Notes/26. BigInteger & BigDecimal.pdf",
     "03 Development/Java/Java Language Notes/22. Queue.pdf",
@@ -188,16 +199,6 @@
     "__Inbox/git - readme - learn.md",
     "03 Development/Java/Miscellaneous/JDBC.md",
     "05 Daily Notes/2025-06-29.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer & JPA.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.3 Beans.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.4 Dependency Injection.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.6 Auto-Configuration & Spring Boot Internal Flow.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.2 Setting Up Local Environment.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.7 Maven Build Tool.md",
     "03 Development/Flutter/Architecture & Principle/SOLID Principles.md",
     "05 Daily Notes/2025-06-28.md",
     "03 Development/Flutter/Architecture & Principle/Clean Architecture.md",
