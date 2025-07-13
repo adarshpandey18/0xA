@@ -42,11 +42,11 @@
 - [x] [[1.2 Setting Up Local Environment]]
 - [x] [[1.3 Beans]]
 - [x] [[1.4 Dependency Injection]]
-- [x] [[1.5 Spring Boot VS Spring Framework]]
+- [ ] [[1.5 Spring Boot VS Spring Framework]]
 - [ ] [[1.6 Auto-Configuration & Spring Boot Internal Flow]]
-- [x] [[1.7 Maven Build Tool]]
+- [ ] [[1.7 Maven Build Tool]]
 
 ### 2. Spring Boot MVC & RESTful APIs
-- [x] [[2.1 Spring Boot Web]]
-- [x] [[2.2 Presentation Layer (Controller)]]
+- [ ] [[2.1 Spring Boot Web]]
+- [ ] [[2.2 Presentation Layer (Controller)]]
 - [ ] [[2.3 Persistence Layer (Repository) & JPA]]
