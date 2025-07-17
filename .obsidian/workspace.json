@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "763cc42d4528b9a5",
+        "id": "5fd214749a4626a6",
         "type": "tabs",
         "children": [
           {
-            "id": "b3c828c9003130d3",
+            "id": "35ee5266d1981665",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
-                "mode": "preview",
-                "source": false
+                "file": "06 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2.8 Transforming API Response"
+              "icon": "lucide-file-text",
+              "title": "01 interview-questions-with-answers"
             }
           }
         ]
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
+                "file": "06 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.8 Transforming API Response"
+              "title": "Outline of 01 interview-questions-with-answers"
             }
           }
         ],
@@ -171,10 +169,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3c828c9003130d3",
+  "active": "35ee5266d1981665",
   "lastOpenFiles": [
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
+    "01 Computer Science Core/Operating System/OS Part - I.pdf",
+    "01 Computer Science Core/Database Management System/42 - Left Outer Join.md",
+    "06 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf",
+    "06 Placement Prep/HR Questions/00 Interview Questions.pdf",
+    "06 Placement Prep/CV/general-resume.pdf",
+    "05 Daily Notes/2025-07-15.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.6 Input Validation.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.5 PUT, PATCH & DELETE Mappings.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.4 Business Layer (Service).md",
@@ -196,9 +200,6 @@
     "05 Daily Notes/2025-07-12.md",
     "03 Development/Projects/00 Project Ideas.md",
     "05 Daily Notes/2025-07-09.md",
-    "01 Computer Science Core/Database Management System/19 - Questions on minimize tables.md",
-    "01 Computer Science Core/Database Management System/26 - BCNF (Boyce Codd Normal Form).md",
-    "01 Computer Science Core/Database Management System/31 - Practice Question on Normalization.md",
     "03 Development/Java/Java Language Notes/27. File Handling.pdf",
     "03 Development/Java/Java Language Notes/26. BigInteger & BigDecimal.pdf",
     "03 Development/Java/Java Language Notes/22. Queue.pdf",
@@ -206,9 +207,6 @@
     "03 Development/Java/Java Language Notes/19. OOPS - II.pdf",
     "03 Development/Java/Java Language Notes/19. OOPS.pdf",
     "03 Development/Java/Java Language Notes/18. Quick Sort.pdf",
-    "03 Development/Java/Java Language Notes/16. Time Complexity.pdf",
-    "03 Development/Java/Java Language Notes/15. Recursion.pdf",
-    "03 Development/Java/Java Language Notes/17. Merge Sort.pdf",
     "07 Resources/Development/Java/Spring Boot/2/2.3/jpa-diagram.png",
     "08 Resources/Development/Java/Spring Boot/2/2.3/Pasted image.png",
     "07 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-web-project-structure.png",
