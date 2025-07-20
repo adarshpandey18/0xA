@@ -11,4 +11,9 @@
 ## ==2. Spring Boot MVC & RESTful APIs==
 - ### [[2.1 Spring Boot Web]]
 - ### [[2.2 Presentation Layer (Controller)]]
-- 
+- ### [[2.3 Persistence Layer (Repository) & JPA]]
+- ### [[2.4 Business Layer (Service)]]
+- ### [[2.5 PUT, PATCH & DELETE Mappings]]
+- ### [[2.6 Input Validation]]
+- ### [[2.7 Exception Handling in Spring Boot MVC]]
+- ### [[2.8 Transforming API Response]]

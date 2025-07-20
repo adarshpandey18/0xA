@@ -1,9 +1,6 @@
 [
-  "obsidian-excalidraw-plugin",
   "obsidian-hider",
   "obsidian-icon-folder",
   "obsidian-latex-suite",
-  "templater-obsidian",
-  "obsidian-pandoc",
-  "obsidian-enhancing-export"
+  "templater-obsidian"
 ]

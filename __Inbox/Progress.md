@@ -47,6 +47,6 @@
 - [ ] [[1.7 Maven Build Tool]]
 
 ### 2. Spring Boot MVC & RESTful APIs
-- [ ] [[2.1 Spring Boot Web]]
-- [ ] [[2.2 Presentation Layer (Controller)]]
-- [ ] [[2.3 Persistence Layer (Repository) & JPA]]
+- [x] [[2.1 Spring Boot Web]]
+- [x] [[2.2 Presentation Layer (Controller)]]
+- [x] [[2.3 Persistence Layer (Repository) & JPA]]

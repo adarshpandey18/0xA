@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5fd214749a4626a6",
+        "id": "b8864730c872e176",
         "type": "tabs",
         "children": [
           {
-            "id": "35ee5266d1981665",
+            "id": "3d294a5746258405",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "06 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "01 interview-questions-with-answers"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -140,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf",
+                "file": "00 Templates/Project Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 interview-questions-with-answers"
+              "title": "Outline of Project Template"
             }
           }
         ],
@@ -165,58 +163,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35ee5266d1981665",
+  "active": "1ac11d84a737ee73",
   "lastOpenFiles": [
-    "01 Computer Science Core/Operating System/OS Part - I.pdf",
-    "01 Computer Science Core/Database Management System/42 - Left Outer Join.md",
-    "06 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf",
-    "06 Placement Prep/HR Questions/00 Interview Questions.pdf",
-    "06 Placement Prep/CV/general-resume.pdf",
-    "05 Daily Notes/2025-07-15.md",
+    "03 Development/Java/Spring Boot/03./3.1 Installing MySQL & DBeaver.md",
+    "00 Templates/Daily Journal Template.md",
+    "05 Daily Notes/2025-06-04.md",
+    "05 Daily Notes/2025-07-20.md",
+    "03 Development/Java/Spring Boot/03.",
+    "03 Development/Java/Spring Boot/00 Index.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.6 Input Validation.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.5 PUT, PATCH & DELETE Mappings.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.4 Business Layer (Service).md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer (Repository) & JPA.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.3 Beans.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.6 Auto-Configuration & Spring Boot Internal Flow.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.7 Maven Build Tool.md",
     "__Inbox/Progress.md",
     "__Inbox/05 - Resource List.md",
     "__Inbox/03 Remaining.md",
     "__Inbox/01 Daily Execution Manifesto.md",
     "__Inbox/00 To-Learn.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.6 Input Validation.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.5 PUT, PATCH & DELETE Mappings.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.4 Business Layer (Service).md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer (Repository) & JPA.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.3 Beans.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.4 Dependency Injection.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.2 Setting Up Local Environment.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
-    "05 Daily Notes/2025-07-12.md",
-    "03 Development/Projects/00 Project Ideas.md",
-    "05 Daily Notes/2025-07-09.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.6 Auto-Configuration & Spring Boot Internal Flow.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.7 Maven Build Tool.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
+    "05 Daily Notes/2025-07-19.md",
+    "05 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf",
+    "01 Computer Science Core/Operating System/OS Part - I.pdf",
+    "01 Computer Science Core/Database Management System/42 - Left Outer Join.md",
+    "05 Placement Prep/HR Questions/00 Interview Questions.pdf",
+    "05 Placement Prep/CV/general-resume.pdf",
+    "05 Daily Notes/2025-07-15.md",
     "03 Development/Java/Java Language Notes/27. File Handling.pdf",
     "03 Development/Java/Java Language Notes/26. BigInteger & BigDecimal.pdf",
     "03 Development/Java/Java Language Notes/22. Queue.pdf",
     "03 Development/Java/Java Language Notes/20. Linked List.pdf",
     "03 Development/Java/Java Language Notes/19. OOPS - II.pdf",
-    "03 Development/Java/Java Language Notes/19. OOPS.pdf",
-    "03 Development/Java/Java Language Notes/18. Quick Sort.pdf",
-    "07 Resources/Development/Java/Spring Boot/2/2.3/jpa-diagram.png",
+    "06 Resources/Development/Java/Spring Boot/2/2.3/jpa-diagram.png",
     "08 Resources/Development/Java/Spring Boot/2/2.3/Pasted image.png",
-    "07 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-web-project-structure.png",
+    "06 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-web-project-structure.png",
     "08 Resources/Development/Java/Spring Boot/2/2.1/Pasted image.png",
-    "07 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-mvc-architecture.png",
-    "07 Resources/Development/Java/Spring Boot/1/1.7/maven-lifecycle.jpg",
-    "07 Resources/Development/Java/Spring Boot/1/1.1/why-spring.jpg",
-    "07 Resources/Development/Java/Spring Boot/1/1.1/spring-framework-architecture.png",
+    "06 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-mvc-architecture.png",
+    "06 Resources/Development/Java/Spring Boot/1/1.7/maven-lifecycle.jpg",
+    "06 Resources/Development/Java/Spring Boot/1/1.1/why-spring.jpg",
+    "06 Resources/Development/Java/Spring Boot/1/1.1/spring-framework-architecture.png",
     "08 Resources/Development/Java/Spring Boot/1/1.1/Pasted image.png",
-    "07 Resources/Development/Java/Spring Boot/1/1.1/ioc-container.png",
+    "06 Resources/Development/Java/Spring Boot/1/1.1/ioc-container.png",
     "Untitled.canvas"
   ]
 }
