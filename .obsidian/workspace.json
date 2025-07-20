@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b8864730c872e176",
+        "id": "e17eacb458d4211a",
         "type": "tabs",
         "children": [
           {
-            "id": "3d294a5746258405",
+            "id": "62845c77063dd126",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 Development/Go/03 Basic Types.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "03 Basic Types"
             }
           }
         ]
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Templates/Project Template.md",
+                "file": "03 Development/Go/03 Basic Types.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project Template"
+              "title": "Outline of 03 Basic Types"
             }
           }
         ],
@@ -166,14 +170,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ac11d84a737ee73",
+  "active": "62845c77063dd126",
   "lastOpenFiles": [
-    "03 Development/Java/Spring Boot/03./3.1 Installing MySQL & DBeaver.md",
+    "03 Development/Go/02 Simple Example.md",
+    "03 Development/Go/01 Hello World.md",
+    "03 Development/Go/03 Basic Types.md",
+    "03 Development/Go/00 Intro and Why Use Go ?.md",
+    "06 Resources/Development/Go/3/machine-native-VS-interpreter.png",
+    "06 Resources/Development/Go/3/Pasted image.png",
+    "06 Resources/Development/Go/3",
+    "06 Resources/Development/Go",
+    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.1 Installing MySQL & DBeaver.md",
+    "03 Development/Go",
+    "05 Placement Prep/Tips/STAR Format.md",
+    "05 Placement Prep/CV/CV Tools.md",
+    "03 Development/Java/Spring Boot/00 Index.md",
     "00 Templates/Daily Journal Template.md",
     "05 Daily Notes/2025-06-04.md",
     "05 Daily Notes/2025-07-20.md",
-    "03 Development/Java/Spring Boot/03.",
-    "03 Development/Java/Spring Boot/00 Index.md",
+    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
     "__Inbox/Progress.md",
@@ -188,22 +203,12 @@
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.3 Beans.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.4 Dependency Injection.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.6 Auto-Configuration & Spring Boot Internal Flow.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.7 Maven Build Tool.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
-    "05 Daily Notes/2025-07-19.md",
     "05 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf",
     "01 Computer Science Core/Operating System/OS Part - I.pdf",
-    "01 Computer Science Core/Database Management System/42 - Left Outer Join.md",
     "05 Placement Prep/HR Questions/00 Interview Questions.pdf",
     "05 Placement Prep/CV/general-resume.pdf",
-    "05 Daily Notes/2025-07-15.md",
     "03 Development/Java/Java Language Notes/27. File Handling.pdf",
     "03 Development/Java/Java Language Notes/26. BigInteger & BigDecimal.pdf",
-    "03 Development/Java/Java Language Notes/22. Queue.pdf",
-    "03 Development/Java/Java Language Notes/20. Linked List.pdf",
-    "03 Development/Java/Java Language Notes/19. OOPS - II.pdf",
     "06 Resources/Development/Java/Spring Boot/2/2.3/jpa-diagram.png",
     "08 Resources/Development/Java/Spring Boot/2/2.3/Pasted image.png",
     "06 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-web-project-structure.png",
@@ -212,8 +217,6 @@
     "06 Resources/Development/Java/Spring Boot/1/1.7/maven-lifecycle.jpg",
     "06 Resources/Development/Java/Spring Boot/1/1.1/why-spring.jpg",
     "06 Resources/Development/Java/Spring Boot/1/1.1/spring-framework-architecture.png",
-    "08 Resources/Development/Java/Spring Boot/1/1.1/Pasted image.png",
-    "06 Resources/Development/Java/Spring Boot/1/1.1/ioc-container.png",
     "Untitled.canvas"
   ]
 }
