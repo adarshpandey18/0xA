@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Go/03 Basic Types.md",
-                "mode": "source",
+                "file": "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Basic Types"
+              "title": "2.8 Transforming API Response"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Go/03 Basic Types.md",
+                "file": "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 Basic Types"
+              "title": "Outline of 2.8 Transforming API Response"
             }
           }
         ],
@@ -172,10 +172,10 @@
   },
   "active": "62845c77063dd126",
   "lastOpenFiles": [
-    "03 Development/Go/02 Simple Example.md",
     "03 Development/Go/01 Hello World.md",
-    "03 Development/Go/03 Basic Types.md",
     "03 Development/Go/00 Intro and Why Use Go ?.md",
+    "03 Development/Go/03 Basic Types.md",
+    "03 Development/Go/02 Simple Example.md",
     "06 Resources/Development/Go/3/machine-native-VS-interpreter.png",
     "06 Resources/Development/Go/3/Pasted image.png",
     "06 Resources/Development/Go/3",
