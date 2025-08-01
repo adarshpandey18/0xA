@@ -157,3 +157,26 @@ Use these to stretch your fundamentals:
 **There is no tomorrow. You either start now, or you stay average.**
 
 ---
+## Three rules that helped me communicate better with engineers, leaders, and peers
+
+- Always close the loop - dont let the thread to be open ended close it by asking for bug is fixed or not when fix is given to the clinet.
+- Be humble no matter what - give ur approach and quietly listen to others approach, the chances are increased that they might go for your approach rather than fighting that your's is right .
+- Do not make others follow up - dont let someone wait or be anxious. be proactive in communitcation.
+---
+## How to follow up without annoying people
+1. **be empathetic to others' priorities, as they might have competing tasks**
+    
+2. **phrase your follow-up messages in a way that shows you value their time**
+    
+
+A well-written message signals that you’re not just asking for a status, but also offering support to make progress, something like
+
+""" Hi [name], just checking if there’s an update on [task]. I know you’re busy, so let me know if there’s anything I can do to help. """
+
+1. space out follow-ups, and give people enough breathing room to act
+    
+2. build strong relationships with your peers
+
+3. **escalations should feel like collaboration, not confrontation.**
+4. **people do what gets tracked, so make sure that regular status checks are brought up during common meetings, or periodically over async platforms like Slack and Teams.**
+---

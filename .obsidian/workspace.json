@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Go/04 Strings.md",
+                "file": "__Inbox/01 Daily Execution Manifesto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 Strings"
+              "title": "01 Daily Execution Manifesto"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Go/04 Strings.md",
+                "file": "__Inbox/01 Daily Execution Manifesto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04 Strings"
+              "title": "Outline of 01 Daily Execution Manifesto"
             }
           }
         ],
@@ -172,8 +172,12 @@
   },
   "active": "62845c77063dd126",
   "lastOpenFiles": [
-    "03 Development/Go/03 Basic Types.md",
+    "__Inbox/05 - Resource List.md",
+    "__Inbox/03 Remaining.md",
+    "05 Placement Prep/CV/CV Tools.md",
+    "04 Aptitude & Reasoning/Verbal/02 Vocabulary (High-frequency words).md",
     "03 Development/Go/04 Strings.md",
+    "03 Development/Go/03 Basic Types.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
     "03 Development/Go/01 Hello World.md",
     "03 Development/Go/00 Intro and Why Use Go ?.md",
@@ -185,7 +189,6 @@
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.1 Installing MySQL & DBeaver.md",
     "03 Development/Go",
     "05 Placement Prep/Tips/STAR Format.md",
-    "05 Placement Prep/CV/CV Tools.md",
     "03 Development/Java/Spring Boot/00 Index.md",
     "00 Templates/Daily Journal Template.md",
     "05 Daily Notes/2025-06-04.md",
@@ -193,8 +196,6 @@
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
     "__Inbox/Progress.md",
-    "__Inbox/05 - Resource List.md",
-    "__Inbox/03 Remaining.md",
     "__Inbox/01 Daily Execution Manifesto.md",
     "__Inbox/00 To-Learn.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.6 Input Validation.md",
@@ -203,7 +204,6 @@
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer (Repository) & JPA.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.3 Beans.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.4 Dependency Injection.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
     "05 Placement Prep/HR Questions/01 interview-questions-with-answers.pdf",
     "01 Computer Science Core/Operating System/OS Part - I.pdf",
     "05 Placement Prep/HR Questions/00 Interview Questions.pdf",
