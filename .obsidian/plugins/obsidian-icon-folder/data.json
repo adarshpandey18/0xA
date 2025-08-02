@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiConstruction",
       "🐹",
       "LiTestTube",
       "LiDatabase",
-      "LiFiles",
-      "LiHammer"
+      "LiFiles"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,7 +43,7 @@
   "02 DSA & Problem Solving": "LiFileQuestion",
   "02 DSA & Problem Solving/Algorithms": "LiWaypoints",
   "02 DSA & Problem Solving/Patterns & Technique": "〽",
-  "03 Development": "🏗",
+  "03 Development": "LiConstruction",
   "03 Development/Flutter": "LiSmartphone",
   "03 Development/Go": "🐹",
   "03 Development/Java": "LiFlower",
