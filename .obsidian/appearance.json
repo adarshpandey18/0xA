@@ -2,9 +2,11 @@
   "theme": "system",
   "baseFontSizeAction": true,
   "cssTheme": "Encore",
-  "accentColor": "#00adb5",
+  "accentColor": "",
   "enabledCssSnippets": [
     "Image-Align"
   ],
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "baseFontSize": 19
 }
