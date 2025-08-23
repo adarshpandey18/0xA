@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🕸",
+      "🕷",
       "LiShovel",
       "LiPanelTopDashed",
-      "LiFileJson2",
-      "LiHammer",
-      "LiConstruction"
+      "LiFileJson2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -80,5 +80,6 @@
   "06 Resources": "LiPictureInPicture",
   "03 Development/Java/Build Tool/Maven.md": "LiHammer",
   "03 Development/Java/Miscellaneous/JSoup.md": "LiShovel",
-  "03 Development/Java/Miscellaneous/Stream.md": "LiPanelTopDashed"
+  "03 Development/Java/Miscellaneous/Stream.md": "LiPanelTopDashed",
+  "03 Development/Miscellaneous/Git.md": "🕸"
 }

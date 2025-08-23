@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
-                "mode": "source",
+                "file": "03 Development/Java/Spring Boot/04/4.3 Auditing.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.4  Sorting & Pagination"
+              "title": "4.3 Auditing"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
+                "file": "03 Development/Java/Spring Boot/04/4.3 Auditing.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.4  Sorting & Pagination"
+              "title": "Outline of 4.3 Auditing"
             }
           }
         ],
@@ -173,10 +173,21 @@
   },
   "active": "67cc439aba373461",
   "lastOpenFiles": [
-    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.3 Spring Data JPA & Dynamic Query Methods.md",
-    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.2 Hibernate & JPA.md",
-    "jpa.md",
+    "03 Development/Java/Spring Boot/04/4.2 Spring Boot DevTools.md",
+    "03 Development/Java/Spring Boot/04/4.3 Auditing.md",
+    "forest.gif",
+    "03 Development/Java/Spring Boot/04/4.1 Setup a Basic Spring Boot Project.md",
+    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.6 Mapping - 2.md",
+    "03 Development/Java/Spring Boot/04",
+    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.5 Mapping - 1.md",
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
+    "03 Development/Java/Build Tool/Maven.md",
+    "03 Development/Miscellaneous/Git.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
+    "03 Development/Java/Spring Boot/00 Index.md",
+    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.2 Hibernate & JPA.md",
+    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.3 Spring Data JPA & Dynamic Query Methods.md",
+    "jpa.md",
     "06 Resources/Development/Java/Spring Boot/3/3.3/spring-data-jpa-repository.png",
     "06 Resources/Development/Java/Spring Boot/3/3.3/Spring Data.png",
     "06 Resources/Development/Java/Spring Boot/3/3.3",
@@ -199,26 +210,14 @@
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.7 Maven Build Tool.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.3 Beans.md",
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.1 Installing MySQL & DBeaver.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.2 Setting Up Local Environment.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
-    "__Inbox/05 - Resource List.md",
-    "03 Development/Java/Miscellaneous/JSoup.md",
-    "01 Computer Science Core/Database Management System/12 - Questions on Foreign Key.md",
-    "03 Development/Database/Relational Database/01 PostgreSQL.md",
-    "03 Development/Database/Non-Relational Database/MongoDB.md",
-    "00 Templates/Project Template.md",
     "03 Development/Java/Java Language Notes/27. File Handling.pdf",
     "03 Development/Java/Java Language Notes/26. BigInteger & BigDecimal.pdf",
     "03 Development/Java/Java Language Notes/25. Decimal Format.pdf",
-    "03 Development/Java/Java Language Notes/24. StringBuffer.pdf",
-    "03 Development/Java/Miscellaneous/Stream.md",
     "06 Resources/Development/Java/Miscellaneous/Stream/streams-flow.png",
-    "03 Development/Java/Miscellaneous/JDBC.md",
     "06 Resources/Development/Go/3/machine-native-VS-interpreter.png",
     "06 Resources/Development/Go/3/Pasted image.png",
     "06 Resources/Development/Java/Spring Boot/2/2.3/jpa-diagram.png",
     "08 Resources/Development/Java/Spring Boot/2/2.3/Pasted image.png",
-    "06 Resources/Development/Java/Spring Boot/2/2.1/spring-boot-web-project-structure.png",
     "Untitled.canvas"
   ]
 }

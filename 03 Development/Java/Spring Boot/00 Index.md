@@ -20,4 +20,7 @@
 
 ## ==3. Hibernate and Spring Boot Data JPA==
 - ### [[3.1 Installing MySQL & DBeaver]]
-- 
+- ### [[3.2 Hibernate & JPA]]
+- ### [[3.3 Spring Data JPA & Dynamic Query Methods]]
+- ### [[3.4  Sorting & Pagination]]
+
