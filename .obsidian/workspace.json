@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Java/Spring Boot/04/4.1 Setup a Basic Spring Boot Project.md",
+                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 Setup a Basic Spring Boot Project"
+              "title": "5.1 Security Attacks"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312
+    "width": 312,
+    "collapsed": true
   },
   "right": {
     "id": "f9dc4a20e834cc3e",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Spring Boot/04/4.1 Setup a Basic Spring Boot Project.md",
+                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4.1 Setup a Basic Spring Boot Project"
+              "title": "Outline of 5.1 Security Attacks"
             }
           }
         ],
@@ -173,34 +174,35 @@
   },
   "active": "f01295890b337ff4",
   "lastOpenFiles": [
-    "03 Development/Java/Spring Boot/05. Spring Security",
-    "03 Development/Java/Spring Boot/04/4.2 Spring Boot DevTools.md",
+    "03 Development/Java/Spring Boot/04/4.5 Logging.md",
+    "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
+    "03 Development/Java/Spring Boot/04/4.7 OpenAPI & Swagger.md",
+    "03 Development/Java/Spring Boot/04/4.6 Spring Boot Actuator.md",
     "03 Development/Java/Spring Boot/04/4.3 Auditing.md",
     "03 Development/Java/Spring Boot/04/4.4 RestClient.md",
-    "03 Development/Java/Spring Boot/04/4.5 Logging.md",
-    "03 Development/Java/Spring Boot/04/4.6 Spring Boot Actuator.md",
-    "03 Development/Java/Spring Boot/04/4.7 OpenAPI & Swagger.md",
-    "03 Development/Docker/Docker.md",
+    "03 Development/Java/Spring Boot/04/4.2 Spring Boot DevTools.md",
+    "03 Development/Java/Spring Boot/04/4.1 Setup a Basic Spring Boot Project.md",
+    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.6 Mapping - 2.md",
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.5 Mapping - 1.md",
-    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.3 Spring Data JPA & Dynamic Query Methods.md",
-    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.2 Hibernate & JPA.md",
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
+    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.2 Hibernate & JPA.md",
+    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.3 Spring Data JPA & Dynamic Query Methods.md",
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.1 Installing MySQL & DBeaver.md",
+    "03 Development/Java/Spring Boot/00 Index.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.6 Input Validation.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.5 PUT, PATCH & DELETE Mappings.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.4 Business Layer (Service).md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer (Repository) & JPA.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.7 Maven Build Tool.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.6 Auto-Configuration & Spring Boot Internal Flow.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.7 Maven Build Tool.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.4 Dependency Injection.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.3 Beans.md",
+    "03 Development/Java/Spring Boot/05. Spring Security",
     "03 Development/Docker",
-    "03 Development/Java/Miscellaneous/Stream.md",
     "forest.gif",
-    "03 Development/Miscellaneous/Git.md",
-    "03 Development/Java/Spring Boot/04/4.1 Setup a Basic Spring Boot Project.md",
     "03 Development/Java/Spring Boot/04",
     "06 Resources/Development/Java/Spring Boot/3/3.3/spring-data-jpa-repository.png",
     "06 Resources/Development/Java/Spring Boot/3/3.3/Spring Data.png",
@@ -213,7 +215,6 @@
     "06 Resources/Development/Java/Spring Boot/3",
     "06 Resources/Development/Java/Spring Boot/New folder",
     "03 Development/Java/Java Language Notes/27. File Handling.pdf",
-    "03 Development/Java/Java Language Notes/26. BigInteger & BigDecimal.pdf",
     "06 Resources/Development/Java/Miscellaneous/Stream/streams-flow.png",
     "06 Resources/Development/Go/3/machine-native-VS-interpreter.png",
     "06 Resources/Development/Go/3/Pasted image.png",

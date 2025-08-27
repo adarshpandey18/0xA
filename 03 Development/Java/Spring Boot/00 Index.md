@@ -23,4 +23,17 @@
 - ### [[3.2 Hibernate & JPA]]
 - ### [[3.3 Spring Data JPA & Dynamic Query Methods]]
 - ### [[3.4  Sorting & Pagination]]
+- ### [[3.5 Mapping - 1]]
+- ### [[3.6 Mapping - 2]]
 
+## ==4. ==
+- ### [[4.1 Setup a Basic Spring Boot Project]]
+- ### [[4.2 Spring Boot DevTools]]
+- ### [[4.3 Auditing]]
+- ### [[4.4 RestClient]]
+- ### [[4.5 Logging]]
+- ### [[4.6 Spring Boot Actuator]]
+
+## ==5. Spring Security==
+- ### [[5.1 Security Attacks]]
+- 
