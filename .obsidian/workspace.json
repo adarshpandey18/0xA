@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
-                "mode": "source",
+                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.2 Internal Working of Spring Security.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.1 Security Attacks"
+              "title": "5.2 Internal Working of Spring Security"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312,
-    "collapsed": true
+    "width": 312
   },
   "right": {
     "id": "f9dc4a20e834cc3e",
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Development/Java/Miscellaneous/JSoup.md",
+                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.2 Internal Working of Spring Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from JSoup"
+              "title": "Outgoing links from 5.2 Internal Working of Spring Security"
             }
           },
           {
@@ -143,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
+                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.2 Internal Working of Spring Security.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5.1 Security Attacks"
+              "title": "Outline of 5.2 Internal Working of Spring Security"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -174,8 +173,23 @@
   },
   "active": "f01295890b337ff4",
   "lastOpenFiles": [
-    "03 Development/Java/Spring Boot/04/4.5 Logging.md",
+    "03 Development/Java/Spring Boot/05. Spring Security/5.3 Core Spring Security Components.md",
+    "03 Development/Java/Spring Boot/05. Spring Security/5.4 Configuring SecurityFilterchain.md",
+    "03 Development/Java/Spring Boot/05. Spring Security/5.2 Internal Working of Spring Security.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
+    "03 Development/Java/Spring Boot/00 Index.md",
+    "06 Resources/Development/Java/Spring Boot/5/5.3/internal-working-of-spring-security.png",
+    "06 Resources/Development/Java/Spring Boot/5/5.3/internal-working-of-spring-boot.png",
+    "06 Resources/Development/Java/Spring Boot/5/5.3/Screenshot 2025-08-28 114243.png",
+    "06 Resources/Development/Java/Spring Boot/5/5.3",
+    "06 Resources/Development/Java/Spring Boot/5/New folder",
+    "06 Resources/Development/Java/Spring Boot/5",
+    "06 Resources/Development/Java/Spring Boot/New folder",
+    "__Inbox/05 - Resource List.md",
+    "__Inbox/03 Remaining.md",
+    "__Inbox/01 Daily Execution Manifesto.md",
+    "__Inbox/00 To-Learn.md",
+    "03 Development/Java/Spring Boot/04/4.5 Logging.md",
     "03 Development/Java/Spring Boot/04/4.7 OpenAPI & Swagger.md",
     "03 Development/Java/Spring Boot/04/4.6 Spring Boot Actuator.md",
     "03 Development/Java/Spring Boot/04/4.3 Auditing.md",
@@ -188,18 +202,10 @@
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.2 Hibernate & JPA.md",
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.3 Spring Data JPA & Dynamic Query Methods.md",
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.1 Installing MySQL & DBeaver.md",
-    "03 Development/Java/Spring Boot/00 Index.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.6 Input Validation.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.5 PUT, PATCH & DELETE Mappings.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.4 Business Layer (Service).md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer (Repository) & JPA.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.6 Auto-Configuration & Spring Boot Internal Flow.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.7 Maven Build Tool.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
     "03 Development/Java/Spring Boot/05. Spring Security",
     "03 Development/Docker",
     "forest.gif",
@@ -211,15 +217,8 @@
     "06 Resources/Development/Java/Spring Boot/3/3.2/hibernate-orm-matching.png.crswap",
     "06 Resources/Development/Java/Spring Boot/3/3.2/hibernate-orm-matching.png",
     "06 Resources/Development/Java/Spring Boot/3/3.2",
-    "06 Resources/Development/Java/Spring Boot/3/New folder",
-    "06 Resources/Development/Java/Spring Boot/3",
-    "06 Resources/Development/Java/Spring Boot/New folder",
-    "03 Development/Java/Java Language Notes/27. File Handling.pdf",
     "06 Resources/Development/Java/Miscellaneous/Stream/streams-flow.png",
     "06 Resources/Development/Go/3/machine-native-VS-interpreter.png",
-    "06 Resources/Development/Go/3/Pasted image.png",
-    "06 Resources/Development/Java/Spring Boot/2/2.3/jpa-diagram.png",
-    "08 Resources/Development/Java/Spring Boot/2/2.3/Pasted image.png",
     "Untitled.canvas"
   ]
 }
