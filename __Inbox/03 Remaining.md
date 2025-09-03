@@ -1,5 +1,4 @@
 - DBMS
-	- [x] [[11 - Insert, Update & Delete from Foreign Key Table]]
 	- [ ] [[31 - Practice Question on Normalization]]
 	- [ ] [[32 - How to find out Normal Form of the Relation]]
 	- [ ] [[33  - How to solve Normalization Question]]
