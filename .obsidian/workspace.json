@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Computer Science Core/System Design/LLD/01. What is Low Level Design.md",
-                "mode": "source",
+                "file": "03 Development/Projects/00 Project Ideas.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. What is Low Level Design"
+              "title": "00 Project Ideas"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Computer Science Core/System Design/LLD/01. What is Low Level Design.md",
+                "file": "03 Development/Projects/00 Project Ideas.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01. What is Low Level Design"
+              "title": "Outline of 00 Project Ideas"
             }
           }
         ],
@@ -173,10 +173,12 @@
   },
   "active": "f01295890b337ff4",
   "lastOpenFiles": [
-    "01 Computer Science Core/System Design/LLD/02. Introduction to Low Level Design.md",
-    "01 Computer Science Core/System Design/LLD/01. What is Low Level Design.md",
-    "01 Computer Science Core/System Design/LLD/03. Setting Requirements and Objects.md",
+    "03 Development/Projects/02 Minimal Habit Tracker.md",
     "03 Development/Projects/00 Project Ideas.md",
+    "03 Development/Database/Non-Relational Database/MongoDB.md",
+    "01 Computer Science Core/System Design/LLD/01. What is Low Level Design.md",
+    "01 Computer Science Core/System Design/LLD/02. Introduction to Low Level Design.md",
+    "01 Computer Science Core/System Design/LLD/03. Setting Requirements and Objects.md",
     "__Inbox/01 Daily Execution Manifesto.md",
     "__Inbox/00 To-Learn.md",
     "__Inbox/Progress.md",
@@ -206,8 +208,6 @@
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.6 Mapping - 2.md",
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.5 Mapping - 1.md",
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
-    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.2 Hibernate & JPA.md",
-    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.3 Spring Data JPA & Dynamic Query Methods.md",
     "03 Development/Java/Spring Boot/05. Spring Security",
     "03 Development/Docker",
     "forest.gif",
