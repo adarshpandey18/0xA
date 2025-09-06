@@ -1,5 +1,4 @@
-# Java Streams
-
+# Java Stream
 ## What is a Stream?
 
 - A **Stream** is a pipeline of data through which elements of a collection (or array) can be processed.

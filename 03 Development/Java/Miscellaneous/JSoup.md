@@ -197,13 +197,3 @@ Example: Sites like Flipkart, Instagram, or Twitter often require Selenium.
 
 ---
 
-## Practice Project Ideas
-
-| Project                                    | Concepts Practiced            |
-| ------------------------------------------ | ----------------------------- |
-| Scrape Flipkart product data               | CSS Selectors, pagination     |
-| Automate login and scrape user dashboard   | POST request, session cookies |
-| Collect news headlines from multiple pages | Pagination, selectors         |
-| Scrape job listings from a portal          | Structured data parsing       |
-
----

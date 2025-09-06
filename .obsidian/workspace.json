@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f03ce341990e853",
+        "id": "802d1d9e2ebfc143",
         "type": "tabs",
         "children": [
           {
-            "id": "f01295890b337ff4",
+            "id": "dcb8ef0740b63316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Projects/00 Project Ideas.md",
+                "file": "03 Development/Java/Miscellaneous/Stream.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Project Ideas"
+              "title": "Stream"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Projects/00 Project Ideas.md",
+                "file": "03 Development/Java/Miscellaneous/Stream.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00 Project Ideas"
+              "title": "Outline of Stream"
             }
           }
         ],
@@ -171,10 +171,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f01295890b337ff4",
+  "active": "dcb8ef0740b63316",
   "lastOpenFiles": [
-    "03 Development/Projects/02 Minimal Habit Tracker.md",
+    "03 Development/Java/Miscellaneous/JUnit.md",
+    "03 Development/Java/Miscellaneous/JSoup.md",
+    "03 Development/Java/Miscellaneous/JDBC.md",
+    "03 Development/Java/Miscellaneous/Stream.md",
+    "03 Development/Java/Build Tool/Maven.md",
+    "03 Development/Java/Java Language Notes/27. File Handling.pdf",
+    "03 Development/Java/Java Language Notes/26. BigInteger & BigDecimal.pdf",
+    "03 Development/Java/Java Language Notes/24. StringBuffer.pdf",
+    "03 Development/Java/Java Language Notes/23. Segment Tree.pdf",
+    "03 Development/Java/Java Language Notes/23. AVL Tree.pdf",
+    "03 Development/Java/Java Language Notes/23. Binary Search Tree.pdf",
+    "03 Development/Java/Java Language Notes/23. Binary Tree.pdf",
+    "03 Development/Java/Java Language Notes/22. Queue.pdf",
+    "03 Development/Java/Java Language Notes/21. Stack.pdf",
+    "03 Development/Java/Java Language Notes/20. Linked List.pdf",
     "03 Development/Projects/00 Project Ideas.md",
+    "03 Development/Projects/02 Minimal Habit Tracker.md",
     "03 Development/Database/Non-Relational Database/MongoDB.md",
     "01 Computer Science Core/System Design/LLD/01. What is Low Level Design.md",
     "01 Computer Science Core/System Design/LLD/02. Introduction to Low Level Design.md",
@@ -182,8 +197,6 @@
     "__Inbox/01 Daily Execution Manifesto.md",
     "__Inbox/00 To-Learn.md",
     "__Inbox/Progress.md",
-    "01 Computer Science Core/System Design/01 - What Is System Design.pdf",
-    "01 Computer Science Core/System Design/LLD",
     "03 Development/Java/Spring Boot/05. Spring Security/5.2 Internal Working of Spring Security.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.3 Core Spring Security Components.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.4 Configuring SecurityFilterchain.md",
@@ -192,10 +205,6 @@
     "06 Resources/Development/Java/Spring Boot/5/5.3/internal-working-of-spring-security.png",
     "06 Resources/Development/Java/Spring Boot/5/5.3/internal-working-of-spring-boot.png",
     "06 Resources/Development/Java/Spring Boot/5/5.3/Screenshot 2025-08-28 114243.png",
-    "06 Resources/Development/Java/Spring Boot/5/5.3",
-    "06 Resources/Development/Java/Spring Boot/5/New folder",
-    "06 Resources/Development/Java/Spring Boot/5",
-    "06 Resources/Development/Java/Spring Boot/New folder",
     "__Inbox/05 - Resource List.md",
     "__Inbox/03 Remaining.md",
     "03 Development/Java/Spring Boot/04/4.5 Logging.md",
@@ -203,18 +212,9 @@
     "03 Development/Java/Spring Boot/04/4.6 Spring Boot Actuator.md",
     "03 Development/Java/Spring Boot/04/4.3 Auditing.md",
     "03 Development/Java/Spring Boot/04/4.4 RestClient.md",
-    "03 Development/Java/Spring Boot/04/4.2 Spring Boot DevTools.md",
-    "03 Development/Java/Spring Boot/04/4.1 Setup a Basic Spring Boot Project.md",
-    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.6 Mapping - 2.md",
-    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.5 Mapping - 1.md",
-    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
-    "03 Development/Java/Spring Boot/05. Spring Security",
-    "03 Development/Docker",
     "forest.gif",
-    "03 Development/Java/Spring Boot/04",
     "06 Resources/Development/Java/Spring Boot/3/3.3/spring-data-jpa-repository.png",
     "06 Resources/Development/Java/Spring Boot/3/3.3/Spring Data.png",
-    "06 Resources/Development/Java/Spring Boot/3/3.3",
     "06 Resources/Development/Java/Spring Boot/3/3.2/flow-spring-data-jpa-to-database.png",
     "06 Resources/Development/Java/Spring Boot/3/3.2/hibernate-orm-matching.png",
     "06 Resources/Development/Java/Miscellaneous/Stream/streams-flow.png",
