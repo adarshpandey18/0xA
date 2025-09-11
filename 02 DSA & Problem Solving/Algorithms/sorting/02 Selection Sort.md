@@ -31,7 +31,6 @@ public class Main {
 		nums[j] = temp;
 	}
 }
-
 ```
 
 Time Complexity : $\mathcal{O}({N}^{2})$

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Computer Science Core/System Design/LLD/02. Introduction to Low Level Design.md",
+                "file": "02 DSA & Problem Solving/Algorithms/sorting/02 Selection Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Introduction to Low Level Design"
+              "title": "02 Selection Sort"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Computer Science Core/System Design/LLD/02. Introduction to Low Level Design.md",
+                "file": "02 DSA & Problem Solving/Algorithms/sorting/02 Selection Sort.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02. Introduction to Low Level Design"
+              "title": "Outline of 02 Selection Sort"
             }
           }
         ],
@@ -173,10 +173,11 @@
   },
   "active": "dcb8ef0740b63316",
   "lastOpenFiles": [
-    "02 DSA & Problem Solving/Patterns & Technique/04. Dynamic Programming.md",
-    "01 Computer Science Core/System Design/LLD/02. Introduction to Low Level Design.md",
-    "01 Computer Science Core/System Design/LLD/04. API and Package Structuring.md",
     "01 Computer Science Core/System Design/LLD/05. Parent Vs Base Class Function.md",
+    "__Inbox/05 - Resource List.md",
+    "01 Computer Science Core/System Design/LLD/02. Introduction to Low Level Design.md",
+    "02 DSA & Problem Solving/Patterns & Technique/04. Dynamic Programming.md",
+    "01 Computer Science Core/System Design/LLD/04. API and Package Structuring.md",
     "01 Computer Science Core/System Design/LLD/03. Setting Requirements and Objects.md",
     "01 Computer Science Core/System Design/LLD/01. What is Low Level Design.md",
     "06 Resources/Computer Science Core/System Design/LLD/04/package-structure.png",
@@ -197,7 +198,6 @@
     "02 DSA & Problem Solving/Algorithms/sorting/01 Bubble Sort.md",
     "02 DSA & Problem Solving/Algorithms/searching/02 Binary Search.md",
     "02 DSA & Problem Solving/Algorithms/searching/01 Linear Search.md",
-    "__Inbox/05 - Resource List.md",
     "__Inbox/03 Remaining.md",
     "__Inbox/01 Daily Execution Manifesto.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
