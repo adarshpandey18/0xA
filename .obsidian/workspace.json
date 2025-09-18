@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 DSA & Problem Solving/Algorithms/sorting/02 Selection Sort.md",
+                "file": "03 Development/Docker/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Selection Sort"
+              "title": "Docker"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312
+    "width": 312,
+    "collapsed": true
   },
   "right": {
     "id": "f9dc4a20e834cc3e",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 DSA & Problem Solving/Algorithms/sorting/02 Selection Sort.md",
+                "file": "03 Development/Docker/Docker.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02 Selection Sort"
+              "title": "Outline of Docker"
             }
           }
         ],
@@ -173,6 +174,9 @@
   },
   "active": "dcb8ef0740b63316",
   "lastOpenFiles": [
+    "03 Development/Java/Spring Boot/04/4.4 RestClient.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
+    "02 DSA & Problem Solving/Algorithms/sorting/02 Selection Sort.md",
     "01 Computer Science Core/System Design/LLD/05. Parent Vs Base Class Function.md",
     "__Inbox/05 - Resource List.md",
     "01 Computer Science Core/System Design/LLD/02. Introduction to Low Level Design.md",
@@ -194,7 +198,6 @@
     "02 DSA & Problem Solving/Algorithms/sorting/05 Quick Sort.md",
     "02 DSA & Problem Solving/Algorithms/sorting/04 Cyclic Sort.md",
     "02 DSA & Problem Solving/Algorithms/sorting/03 Insertion Sort.md",
-    "02 DSA & Problem Solving/Algorithms/sorting/02 Selection Sort.md",
     "02 DSA & Problem Solving/Algorithms/sorting/01 Bubble Sort.md",
     "02 DSA & Problem Solving/Algorithms/searching/02 Binary Search.md",
     "02 DSA & Problem Solving/Algorithms/searching/01 Linear Search.md",
@@ -203,8 +206,6 @@
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
     "03 Development/Java/Spring Boot/00 Index.md",
     "03 Development/Java/Miscellaneous/JSoup.md",
-    "03 Development/Java/Miscellaneous/JUnit.md",
-    "03 Development/Java/Miscellaneous/Stream.md",
     "03 Development/Java/Java Language Notes/27. File Handling.pdf",
     "03 Development/Java/Java Language Notes/26. BigInteger & BigDecimal.pdf",
     "03 Development/Java/Java Language Notes/24. StringBuffer.pdf",
