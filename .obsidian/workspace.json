@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.6 Signup and Logging using JWT.md",
+                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.7 Authenticating requests using JWT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.6 Signup and Logging using JWT"
+              "title": "5.7 Authenticating requests using JWT"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312,
-    "collapsed": true
+    "width": 312
   },
   "right": {
     "id": "f9dc4a20e834cc3e",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.6 Signup and Logging using JWT.md",
+                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.7 Authenticating requests using JWT.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5.6 Signup and Logging using JWT"
+              "title": "Outline of 5.7 Authenticating requests using JWT"
             }
           }
         ],
@@ -175,9 +174,15 @@
   "active": "d8221f752cdaa611",
   "lastOpenFiles": [
     "03 Development/Java/Spring Boot/05. Spring Security/5.6 Signup and Logging using JWT.md",
-    "structure.txt",
     "03 Development/Java/Spring Boot/05. Spring Security/5.5 Understanding JWT.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.4 Configuring SecurityFilterchain.md",
+    "03 Development/Java/Spring Boot/05. Spring Security/5.8 Spring Security Exception Handling.md",
+    "03 Development/Java/Spring Boot/05. Spring Security/5.7 Authenticating requests using JWT.md",
+    "06 Resources/Development/Java/Spring Boot/5/5.7/login-request-flow.png",
+    "06 Resources/Development/Java/Spring Boot/5/5.7",
+    "06 Resources/Development/Java/Spring Boot/5/5.6",
+    "06 Resources/Development/Java/Spring Boot/5/New folder",
+    "structure.txt",
     "03 Development/Java/Spring Boot/04/4.5 Logging.md",
     "03 Development/Java/Spring Boot/04/4.6 Spring Boot Actuator.md",
     "03 Development/Java/Spring Boot/04/4.7 OpenAPI & Swagger.md",
@@ -185,7 +190,6 @@
     "06 Resources/Development/Java/Spring Boot/5/5.5/jwt-diagram.png.crswap",
     "06 Resources/Development/Java/Spring Boot/5/5.5/jwt-diagram.png",
     "06 Resources/Development/Java/Spring Boot/5/5.5",
-    "06 Resources/Development/Java/Spring Boot/5/New folder",
     "03 Development/Java/Spring Boot/05. Spring Security/5.3 Core Spring Security Components.md",
     "03 Development/Flutter/Architecture & Principle/Clean Architecture.md",
     "03 Development/Flutter/Architecture & Principle/SOLID Principles.md",
@@ -204,22 +208,17 @@
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.1 Installing MySQL & DBeaver.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.6 Input Validation.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.5 PUT, PATCH & DELETE Mappings.md",
     "06 Resources/Computer Science Core/System Design/LLD/04/package-structure.png",
     "06 Resources/Computer Science Core/System Design/LLD/04/Screenshot 2025-09-09 002202.png",
     "06 Resources/Computer Science Core/System Design/LLD/04",
     "06 Resources/Computer Science Core/System Design/LLD/045",
     "06 Resources/Computer Science Core/System Design/LLD",
     "06 Resources/Computer Science Core/System Design",
-    "03 Development/Java/Java Language Notes/27. File Handling.pdf",
-    "03 Development/Java/Java Language Notes/26. BigInteger & BigDecimal.pdf",
     "06 Resources/Development/Java/Spring Boot/5/5.3/internal-working-of-spring-security.png",
     "06 Resources/Development/Java/Spring Boot/5/5.3/internal-working-of-spring-boot.png",
     "06 Resources/Development/Java/Spring Boot/5/5.3/Screenshot 2025-08-28 114243.png",
     "forest.gif",
     "06 Resources/Development/Java/Spring Boot/3/3.3/spring-data-jpa-repository.png",
-    "06 Resources/Development/Java/Spring Boot/3/3.3/Spring Data.png",
     "Untitled.canvas"
   ]
 }
