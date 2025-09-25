@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.7 Authenticating requests using JWT.md",
-                "mode": "source",
+                "file": "__Inbox/05 - Resource List.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.7 Authenticating requests using JWT"
+              "title": "05 - Resource List"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.7 Authenticating requests using JWT.md",
+                "file": "__Inbox/05 - Resource List.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5.7 Authenticating requests using JWT"
+              "title": "Outline of 05 - Resource List"
             }
           }
         ],
@@ -173,11 +173,16 @@
   },
   "active": "d8221f752cdaa611",
   "lastOpenFiles": [
-    "03 Development/Java/Spring Boot/05. Spring Security/5.6 Signup and Logging using JWT.md",
-    "03 Development/Java/Spring Boot/05. Spring Security/5.5 Understanding JWT.md",
-    "03 Development/Java/Spring Boot/05. Spring Security/5.4 Configuring SecurityFilterchain.md",
+    "__Inbox/03 Remaining.md",
+    "03 Development/Java/Miscellaneous/Mockito.md",
+    "03 Development/Java/Build Tool/Maven.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.8 Spring Security Exception Handling.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.7 Authenticating requests using JWT.md",
+    "03 Development/Java/Spring Boot/05. Spring Security/5.5 Understanding JWT.md",
+    "03 Development/Java/Spring Boot/05. Spring Security/5.4 Configuring SecurityFilterchain.md",
+    "03 Development/Java/Spring Boot/05. Spring Security/5.3 Core Spring Security Components.md",
+    "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
+    "03 Development/Java/Spring Boot/05. Spring Security/5.6 Signup and Logging using JWT.md",
     "06 Resources/Development/Java/Spring Boot/5/5.7/login-request-flow.png",
     "06 Resources/Development/Java/Spring Boot/5/5.7",
     "06 Resources/Development/Java/Spring Boot/5/5.6",
@@ -190,13 +195,11 @@
     "06 Resources/Development/Java/Spring Boot/5/5.5/jwt-diagram.png.crswap",
     "06 Resources/Development/Java/Spring Boot/5/5.5/jwt-diagram.png",
     "06 Resources/Development/Java/Spring Boot/5/5.5",
-    "03 Development/Java/Spring Boot/05. Spring Security/5.3 Core Spring Security Components.md",
     "03 Development/Flutter/Architecture & Principle/Clean Architecture.md",
     "03 Development/Flutter/Architecture & Principle/SOLID Principles.md",
     "03 Development/Flutter/State Management/Cubit & Bloc.md",
     "03 Development/Flutter/routes/GoRoute.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.2 Internal Working of Spring Security.md",
-    "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
     "03 Development/Java/Spring Boot/04/4.4 RestClient.md",
     "03 Development/Java/Spring Boot/04/4.3 Auditing.md",
     "03 Development/Java/Spring Boot/04/4.2 Spring Boot DevTools.md",
@@ -205,9 +208,6 @@
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.3 Spring Data JPA & Dynamic Query Methods.md",
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.2 Hibernate & JPA.md",
-    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.1 Installing MySQL & DBeaver.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
     "06 Resources/Computer Science Core/System Design/LLD/04/package-structure.png",
     "06 Resources/Computer Science Core/System Design/LLD/04/Screenshot 2025-09-09 002202.png",
     "06 Resources/Computer Science Core/System Design/LLD/04",

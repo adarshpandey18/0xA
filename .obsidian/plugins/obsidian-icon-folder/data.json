@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTestTubes",
       "🐋",
       "🕸",
       "🕷",
-      "LiShovel",
-      "LiPanelTopDashed"
+      "LiShovel"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,5 +82,6 @@
   "03 Development/Java/Miscellaneous/JSoup.md": "LiShovel",
   "03 Development/Java/Miscellaneous/Stream.md": "LiPanelTopDashed",
   "03 Development/Miscellaneous/Git.md": "🕸",
-  "03 Development/Docker": "🐋"
+  "03 Development/Docker": "🐋",
+  "03 Development/Java/Miscellaneous/Mockito.md": "LiTestTubes"
 }
