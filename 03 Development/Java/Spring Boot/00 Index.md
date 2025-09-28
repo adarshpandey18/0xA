@@ -39,4 +39,8 @@
 - ### [[5.2 Internal Working of Spring Security]]
 - ### [[5.3 Core Spring Security Components]]
 - ### [[5.4 Configuring SecurityFilterchain]]
+- ### [[5.5 Understanding JWT]]
+- ### [[5.6 Signup and Logging using JWT]]
+- ### [[5.7 Authenticating requests using JWT]]
+- ### [[5.8 Spring Security Exception Handling]]
 
