@@ -11,14 +11,10 @@
             "id": "d8221f752cdaa611",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "5.1 Security Attacks"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
+                "file": "01 Computer Science Core/System Design/LLD/05. Parent Vs Base Class Function.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5.1 Security Attacks"
+              "title": "Outline of 05. Parent Vs Base Class Function"
             }
           }
         ],
@@ -171,9 +167,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8221f752cdaa611",
+  "active": "1ac11d84a737ee73",
   "lastOpenFiles": [
+    "01 Computer Science Core/System Design/LLD/03. Setting Requirements and Objects.md",
+    "01 Computer Science Core/System Design/LLD/02. Introduction to Low Level Design.md",
+    "01 Computer Science Core/System Design/LLD/01. What is Low Level Design.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
+    "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
     "03 Development/Java/Spring Boot/00 Index.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.8 Spring Security Exception Handling.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.7 Authenticating requests using JWT.md",
@@ -182,7 +183,6 @@
     "03 Development/Java/Spring Boot/05. Spring Security/5.4 Configuring SecurityFilterchain.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.3 Core Spring Security Components.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.2 Internal Working of Spring Security.md",
-    "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
     "__Inbox/05 - Resource List.md",
     "__Inbox/03 Remaining.md",
     "03 Development/Java/Miscellaneous/Mockito.md",
@@ -204,10 +204,6 @@
     "03 Development/Flutter/State Management/Cubit & Bloc.md",
     "03 Development/Flutter/routes/GoRoute.md",
     "03 Development/Java/Spring Boot/04/4.4 RestClient.md",
-    "03 Development/Java/Spring Boot/04/4.3 Auditing.md",
-    "03 Development/Java/Spring Boot/04/4.2 Spring Boot DevTools.md",
-    "03 Development/Java/Spring Boot/04/4.1 Setup a Basic Spring Boot Project.md",
-    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.5 Mapping - 1.md",
     "06 Resources/Computer Science Core/System Design/LLD/04/package-structure.png",
     "06 Resources/Computer Science Core/System Design/LLD/04/Screenshot 2025-09-09 002202.png",
     "06 Resources/Computer Science Core/System Design/LLD/04",
