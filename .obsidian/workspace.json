@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Java/Spring Boot/04/4.7 OpenAPI & Swagger.md",
+                "file": "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.7 OpenAPI & Swagger"
+              "title": "3.4  Sorting & Pagination"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Spring Boot/04/4.7 OpenAPI & Swagger.md",
+                "file": "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4.7 OpenAPI & Swagger"
+              "title": "Outline of 3.4  Sorting & Pagination"
             }
           }
         ],
@@ -171,8 +171,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ac11d84a737ee73",
+  "active": "d8221f752cdaa611",
   "lastOpenFiles": [
+    "03 Development/Java/Spring Boot/04/4.7 OpenAPI & Swagger.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.4 Configuring SecurityFilterchain.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.3 Core Spring Security Components.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.2 Internal Working of Spring Security.md",
@@ -181,7 +182,6 @@
     "03 Development/Java/Spring Boot/05. Spring Security/5.7 Authenticating requests using JWT.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.6 Signup and Logging using JWT.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.8 Spring Security Exception Handling.md",
-    "03 Development/Java/Spring Boot/04/4.7 OpenAPI & Swagger.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.6 Input Validation.md",
