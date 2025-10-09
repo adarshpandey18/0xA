@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
-                "mode": "preview",
+                "file": "03 Development/Java/Spring Boot/06. Spring Security/6.1 JWT - Refresh Token & Access Token.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.4  Sorting & Pagination"
+              "title": "6.1 JWT - Refresh Token & Access Token"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312
+    "width": 312,
+    "collapsed": true
   },
   "right": {
     "id": "f9dc4a20e834cc3e",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
+                "file": "03 Development/Java/Spring Boot/06. Spring Security/6.1 JWT - Refresh Token & Access Token.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.4  Sorting & Pagination"
+              "title": "Outline of 6.1 JWT - Refresh Token & Access Token"
             }
           }
         ],
@@ -173,11 +174,26 @@
   },
   "active": "d8221f752cdaa611",
   "lastOpenFiles": [
-    "03 Development/Java/Spring Boot/04/4.7 OpenAPI & Swagger.md",
+    "03 Development/Miscellaneous/Git.md",
+    "03 Development/Projects/01 Real Estate Web App.md",
+    "03 Development/Projects/00 Project Ideas.md",
+    "03 Development/Docker/Docker.md",
+    "03 Development/Java/Spring Boot/__Index.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.4 Dependency Injection.md",
+    "03 Development/Java/Spring Boot/06. Spring Security/6.6 Security Methods Annotation.md",
+    "03 Development/Java/Spring Boot/06. Spring Security/6.5 Granular Authorization with Authority.md",
+    "03 Development/Java/Spring Boot/06. Spring Security/6.4 Role based Authorization.md",
+    "03 Development/Java/Spring Boot/06. Spring Security/6.3 User Session Management with JWT.md",
+    "03 Development/Java/Spring Boot/06. Spring Security/6.2 Oauth2 Client Authentication.md",
+    "03 Development/Java/Spring Boot/06. Spring Security/6.1 JWT - Refresh Token & Access Token.md",
+    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
+    "03 Development/Java/Spring Boot/06. Spring Security",
+    "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.7 OpenAPI & Swagger.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.4 Configuring SecurityFilterchain.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.3 Core Spring Security Components.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.2 Internal Working of Spring Security.md",
-    "03 Development/Java/Spring Boot/04/4.4 RestClient.md",
+    "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.4 RestClient.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.5 Understanding JWT.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.7 Authenticating requests using JWT.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.6 Signup and Logging using JWT.md",
@@ -185,35 +201,20 @@
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.6 Input Validation.md",
-    "01 Computer Science Core/System Design/LLD/03. Setting Requirements and Objects.md",
-    "01 Computer Science Core/System Design/LLD/02. Introduction to Low Level Design.md",
-    "01 Computer Science Core/System Design/LLD/01. What is Low Level Design.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
-    "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
-    "03 Development/Java/Spring Boot/00 Index.md",
-    "__Inbox/05 - Resource List.md",
-    "__Inbox/03 Remaining.md",
-    "03 Development/Java/Miscellaneous/Mockito.md",
-    "03 Development/Java/Build Tool/Maven.md",
     "06 Resources/Development/Java/Spring Boot/5/5.7/login-request-flow.png",
     "06 Resources/Development/Java/Spring Boot/5/5.7",
     "06 Resources/Development/Java/Spring Boot/5/5.6",
     "06 Resources/Development/Java/Spring Boot/5/New folder",
     "structure.txt",
-    "03 Development/Java/Spring Boot/04/4.5 Logging.md",
-    "03 Development/Java/Spring Boot/04/4.6 Spring Boot Actuator.md",
     "06 Resources/Development/Java/Spring Boot/5/5.5/jwt-verification.png",
     "06 Resources/Development/Java/Spring Boot/5/5.5/jwt-diagram.png.crswap",
     "06 Resources/Development/Java/Spring Boot/5/5.5/jwt-diagram.png",
     "06 Resources/Development/Java/Spring Boot/5/5.5",
-    "03 Development/Flutter/Architecture & Principle/Clean Architecture.md",
     "06 Resources/Computer Science Core/System Design/LLD/04/package-structure.png",
     "06 Resources/Computer Science Core/System Design/LLD/04/Screenshot 2025-09-09 002202.png",
     "06 Resources/Computer Science Core/System Design/LLD/04",
     "06 Resources/Computer Science Core/System Design/LLD/045",
     "06 Resources/Computer Science Core/System Design/LLD",
-    "06 Resources/Computer Science Core/System Design",
     "06 Resources/Development/Java/Spring Boot/5/5.3/internal-working-of-spring-security.png",
     "06 Resources/Development/Java/Spring Boot/5/5.3/internal-working-of-spring-boot.png",
     "06 Resources/Development/Java/Spring Boot/5/5.3/Screenshot 2025-08-28 114243.png",

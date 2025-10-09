@@ -303,3 +303,28 @@ Example:
 
 ---
 ## Managing Docker Containers
+### Container Images 
+
+```shell
+docker pull nginx
+```
+takes image name as argument and add image to the host system
+
+```shell
+docker images
+```
+list out the images 
+
+```shell
+docker history nginx
+```
+output shows each layer line by line with comment the way the image got build
+
+```shell
+docker images --no-trunc
+```
+it tells to not truncate Image ID 
+tag - tells the version of the image and `latest` tells it is latest image file
+
+hub.docker.com
+here we can get docker images

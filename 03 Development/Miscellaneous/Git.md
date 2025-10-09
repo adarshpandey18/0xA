@@ -1,300 +1,358 @@
-# GIT
+# Git
 
 ## Version Control System (VCS)
 
-A Version Control System (VCS) helps developers track and manage changes to code. There are two main types: Centralized Version Control Systems (CVCS) and Distributed Version Control Systems.
+A **Version Control System (VCS)** helps developers track and manage changes to code over time. It enables collaboration, rollback to previous versions, and maintains the complete history of a project.
 
-### Centralized VCS vs Distributed VCS
+There are two main types of VCS:
 
-| Feature | Centralized VCS (CVCS) | Distributed VCS (DVCS) |
-|---------|------------------------|------------------------|
-| **Architecture** | Single central repository | Multiple copies of the repository |
-| **Examples** | SVN, Perforce | Git, Mercurial |
-| **Working Model** | Developers pull and push changes from a central server | Developers clone the full repository, work locally, and push when ready |
-| **Speed** | Slower, as it depends on the server | Faster, since most operations are local |
-| **Offline Work** | Limited (requires server access) | Possible (local commits, branches, history available) |
-| **Collaboration** | Dependent on a central server, risk of downtime | Peer-to-peer, more fault-tolerant |
-| **Backup & Failure** | If the server crashes, all history is lost (unless backups exist) | Each developer has a complete copy, reducing data loss risk |
-| **Branching & Merging** | Difficult and time-consuming | Easier and more efficient |
+### Centralized vs Distributed VCS
+
+|Feature|Centralized VCS (CVCS)|Distributed VCS (DVCS)|
+|---|---|---|
+|**Architecture**|Single central repository|Each developer has a full copy of the repository|
+|**Examples**|SVN, Perforce|Git, Mercurial|
+|**Working Model**|Developers push/pull from a central server|Developers clone the repository, work locally, then push changes|
+|**Speed**|Slower (server-dependent)|Faster (most operations are local)|
+|**Offline Work**|Limited|Fully possible (local commits and branches)|
+|**Collaboration**|Depends on server uptime|Peer-to-peer, more fault-tolerant|
+|**Backup & Failure**|Single point of failure|Each clone is a full backup|
+|**Branching & Merging**|Harder and slower|Easier and efficient|
+
+---
 
 ## Introduction to Git
 
 ### What is Git?
 
-Git is a version control system (VCS). Unlike traditional centralized control systems where even checking out a file required admin privileges, Git allows any work to be done locally and may diverge as you want.
+Git is a **distributed version control system (DVCS)** that allows developers to track, share, and manage source code efficiently. It enables local work without network dependency and supports branching, merging, and version rollback.
 
-### Git Levels: High Level (Porcelain) vs Low Level (Plumbing)
+---
 
-1. HIGH LEVEL (Porcelain)
+### Git Levels: High-Level (Porcelain) vs Low-Level (Plumbing)
 
-2. LOW LEVEL (Plumbing)
+- **High-Level (Porcelain)**: User-facing commands (e.g., `git add`, `git commit`, `git push`)
+    
+- **Low-Level (Plumbing)**: Internal Git operations that manage data objects.
+    
 
-> We primarily use high-level commands.
+> Developers mostly interact with high-level (porcelain) commands.
+
+---
 
 ### Key Git Terms
 
-- repo: a git tracked project.
-- commit: A point in time representing the project in its entirety.
-            The SHA (Secure Hash Algorithm) that represents a commit (40 a-f-0-9 characters) is calculated from the contents of the change, author, time, and author.
-- index: the term used to represent the staging area.
-
-> The git index is a crucial data structure in Git. It serves as the 'staging area' between the files you have on your filesystem and your commit history. When you run `git add .`, the files from your working directory are hashed and stored as objects in the index, leading them to be staged changes.
-
-- squash: to take several commits and turn them into one commit.
-- work tree, working tree: This is the set of files that represent your project. Your working tree is set up by `git init` or `git clone`.
+- **Repository (repo):** A directory tracked by Git. It stores all version history in a hidden `.git` folder.
+    
+- **Commit:** A snapshot of the project at a given time. Each commit is identified by a unique 40-character SHA hash.
+    
+- **Index (Staging Area):** Temporary area between working directory and commit history where changes are prepared.
+    
+- **Working Tree:** Actual project files in your directory.
+    
+- **Squash:** Combine multiple commits into one.
+    
+- **HEAD:** Pointer to the current commit or branch.
+    
 
 ```flow
-Untracked -> Staging Area -> Tracked
+Untracked → Staging Area → Tracked (Committed)
 ```
 
-### Key Facts about Git
+---
 
-1. Git is an acyclic graph.
-2. In Git, each commit is a node in the graph and each pointer is a child in a parent relationship.
-3. If you delete untracked files, they are lost forever. Commit early and often; you can always change history to make it one commit.
-4. `man git -<o>` for a friendly manual.
+### Key Facts About Git
 
-### Checking Git State
+1. Git uses a **Directed Acyclic Graph (DAG)** to represent commit history.
+    
+2. Each commit points to its parent(s).
+    
+3. Untracked files are not recoverable if deleted.
+    
+4. Commit frequently; history can be rewritten later if needed.
+    
+5. Use `man git <command>` for command documentation.
+    
 
+---
+
+## Configuring Git
+
+### Basic Setup
+
+- All configuration keys follow the format `<section>.<key>`.
+    
+- The `--global` flag applies settings across all repositories.
+    
+
+#### Set Username and Email
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
 ```
-git config --get --global init.defaultBranch
-master # any branch name will show up
-git config --global --unset init.defaultBranch
+
+#### View Configuration
+
+```bash
+git config --list
+git config --get <key>
 ```
 
-Ensure that `rerere` isn't true
+#### Unset Configuration
 
-```
-git config --global rerere.enabled
-true
-git config --global --unset rerere.enabled
-git config --global rerere.enabled
+```bash
+git config --unset <key>
+git config --remove-section <section>
 ```
 
-### Configuring Git
+#### Config Scopes
 
-#### Key Facts
+- `--local`: Current repository
+    
+- `--global`: Current user
+    
+- `--system`: System-wide configuration
+    
 
-- All config keys are in the following shape:
-    `<section>.<key>`
-- The --global flag will ensure you set this key value for all future git and repos.
-- user.name and user.email are the keys used in commits tied to you.
-- You can view any value of git config by executing `git config --get <key>`.
-
-#### Add username and email
-
-```
-git config --add --global user.name "Your Name"
-git config --add --global user.email "your_email@gmail.com"
-```
+---
 
 ## Basic Git Commands
 
-### Creating a new repo
+### Creating a New Repository
 
-To initialize git
-
-```
+```bash
 git init
 ```
 
-Files in git repo
-`.git` : contains all state of the git repo.
+> This creates a `.git` folder that stores the entire repository’s history.
 
-> If you want, you can remove it from being a repo by deleting the .git folder.
+To remove version control:
 
-### The Basics
+```bash
+rm -rf .git
+```
 
-- `git add <path-to-file/ pattern>` will add 0 or more files to the index (staging area).
-- `git commit -m "<message>"` will commit the changes present in the index.
-- `git status` will describe the state of the git repo, which will include tracked, staged, and untracked files.
-- `git log` has many options to make viewing history easier.
+---
+
+### Common Commands
+
+- `git add <file>` → Stage file(s) for commit
+    
+- `git commit -m "message"` → Commit staged changes
+    
+- `git status` → Show working tree status
+    
+- `git log` → View commit history
+    
+
+---
 
 ### Understanding SHAs (Secure Hash Algorithm)
 
-Git comes with a SHA (a hash 0-9, a-f character). You can specify the first 7 characters of the SHA for Git to identify what you are referring to. To get the SHA of a commit, we can use the log command and copy the long hex string.
+Each commit in Git is represented by a unique **SHA-1 hash**.  
+You can refer to a commit using the first few characters of its SHA.
 
-Commits exist in the .git/objects directory with the first 2 letters as a directory and the remaining 38 as a file.
+View commit details:
 
-`git cat-file -p <some-sha>`: Echo contents of SHA.
-
-### Key Concepts
-
-- tree : tree is analagous to directory.
-- blob : blob is analogous to file.
-
-> Git does not store diffs, git stores complete version of the entire source at the point of each commit. In other words, each commit contains all the information to completely reconstruct the srouce code that was tracked.
-
-## Branching, Merging, and Rebasing in Git
-
-### Git Configuration and Locations
-
-`--add`
-Every key is made up of two distinct parts section and keyname
-
-`git config --add <section> <keyname> <value>`
-
-Create and add 3 values with the section fem (frontend masters but different keynames and we will use this for our platform and exploration).
-
-fem.dev is great
-fem.marc is ok
-fem.git would
-
-```
-git config --add fem.dev "is great"
-git config --add fem.marc "is ok"
-git config --add fem.git "would"
+```bash
+git cat-file -p <commit-sha>
 ```
 
-#### Listing out values
+> Git stores complete snapshots (not diffs) of the tracked files at each commit.
 
-- --list : where it will list out entirety of config.
-- --get-regexp <regex> : this takes a pattern and looks for all names matching.
+**Object Types:**
 
-```
-git config --list | grep fem
-```
+- **Blob:** File contents
+    
+- **Tree:** Directory structure
+    
+- **Commit:** Metadata and pointers
+    
 
-or
+---
 
-```
-git config --get-regexp fem
-```
+## Branching, Merging, and Rebasing
 
-#### Unsetting
+### Branching Basics
 
-You can "unset" a value and you can remove an entire section.
--- unset : Unsets one key.
--- unset-all : Unsets all matching keys.
+Branches allow isolated development of features or fixes.
 
-```
-git config --unset fem.dev
-```
+#### Create a Branch
 
-Removes the section : 
-```
-git config --remove-section fem
+```bash
+git branch <branch-name>
 ```
 
-#### Locations
-`--local` : for repository level settings.
-`--global` : for global level settings.
+#### Switch to a Branch
 
-when using --get --add --list --unset.
-
-### Creating and Managing Branches
-
-Sometimes you need a feature that is developed off the main line, such that you can return to the main line, update the code, branch off and perform some immediate fix.
-
-This is where branches comes in. 
-
-#### Creating a Branch
-the command used to create branch : 
-```
-Create branch `foo`
-git checkout -b <branch name>
+```bash
+git checkout <branch-name>
 ```
 
+#### Create and Switch
 
-
-#### Viewing Branches
-``` git branch ```
-
-#### Switching Branches
+```bash
+git checkout -b <branch-name>
 ```
-git branch <branch name>
-git checkout <branch name>
+
+#### View Branches
+
+```bash
+git branch
 ```
-`checkout` is a more versatile operation.
-#### Delete Branch
-`-d` or `-D` can be used to delete branch.
+
+#### Delete a Branch
+
+```bash
+git branch -d <branch-name>     # Safe delete (if merged)
+git branch -D <branch-name>     # Force delete
+```
+
+---
 
 ### Merging Branches
-A merge is attempting to combine two histories together that have diverged at some point in the past. 
-There is a common point between the two, referred to as the best common ancestor (often called 'merge base' in the documentation).
 
-#### How to merge
-The branch you are on is the target branch and the branch you name is <branch name> will be the source branch.
+Merge integrates changes from one branch into another.
 
-```
-git merge <branch name>
+```bash
+git checkout main
+git merge <branch-name>
 ```
 
-### Rebasing Branches
+If conflicts occur, Git will pause the merge for manual resolution.
 
+**Merge Base:** The most recent common ancestor between two branches.
 
+---
 
-### Understanding HEAD and Reflog
+### Rebasing
 
-HEAD: a pointer to what we are currently using.
+Rebase replays commits from one branch onto another, producing a cleaner linear history.
 
-reflog : shows you where head has been.
+```bash
+git checkout feature
+git rebase main
 ```
+
+> Use rebase for private branches; avoid rebasing shared branches to prevent history rewriting issues.
+
+---
+
+### HEAD and Reflog
+
+- **HEAD:** Points to the current commit.
+    
+- **Reflog:** Records movements of HEAD and branches.
+    
+
+```bash
 git reflog
 ```
 
+> Use `reflog` to recover lost commits or branches.
+
+---
+
 ## Working with Remote Repositories
 
-### Remote Git and Fetching
-A remote is just a copy of repo somewhere else.
+### Adding and Viewing Remotes
 
-```
-git remote add <name> <uri>
-```
-
-```
+```bash
+git remote add <name> <url>
 git remote -v
 ```
 
-will list out your remotes and their locations.
+**Common conventions:**
 
-#### Gitism
-Remote is the project repo; typically, when you have a remote git repo, it is called `origin`. This is the source of truth repo.
+- `origin` → your main remote repository
+    
+- `upstream` → the original project repository (if you forked)
+    
 
-Remote is your fork of some other repo
-sometimes you have your remote repo (fork), which you will name origin and you have the project repo which is typically named upstream.
+---
 
+### Fetching, Pulling, and Pushing
+
+#### Fetch
+
+Downloads changes from a remote but doesn’t merge them.
+
+```bash
+git fetch <remote>
 ```
-git fetch
-```
 
-### Pulling Changes
-Fetches the changes and merges the changes.
+#### Pull
 
-```
+Fetch + Merge in one step.
+
+```bash
 git pull <remote> <branch>
 ```
 
+#### Push
 
-### Pushing Changes
-```
-git push <remote> <local name> : <remote name> # allows you to push and have it received with a different name.
-```
-```
-git push <remote> : <remote name> #will delete a branch on the remote
+Uploads local commits to a remote branch.
+
+```bash
+git push <remote> <local-branch>:<remote-branch>
 ```
 
-## Resolving Conflicts
+Delete a remote branch:
 
-### Using Git Stash
-git stash will take every change tracked by git (change to index + change to work tree) and store that result, much like commit, into the "stash".
-
-> Stash is a STACK of temporary changes.
-
+```bash
+git push <remote> :<remote-branch>
 ```
+
+---
+
+## Stashing and Conflict Resolution
+
+### Git Stash
+
+Temporarily saves uncommitted changes and reverts your working directory to the last commit.
+
+```bash
 git stash
-```
-```
-git stash -m "<your message>"
-```
-Stashes can be listed out :
-
-```
+git stash -m "message"
 git stash list
+git stash pop           # Apply and remove latest stash
+git stash apply <id>    # Apply specific stash
 ```
-pop the latest stash
-``` 
-git stash pop
 
-git stash pop --index <index>
-```
+> Stashes form a **stack** of temporary work.
+
+---
+
+### Resolving Merge Conflicts
+
+1. Identify conflicting files (`git status`).
+    
+2. Open each file and fix conflicts manually.
+    
+3. Mark as resolved:
+    
+    ```bash
+    git add <file>
+    git commit
+    ```
+    
+
+---
+
+## Additional Useful Commands
+
+- `git diff` → View unstaged changes
+    
+- `git log --oneline --graph --all` → Visualize branch structure
+    
+- `git reset --hard <commit>` → Reset to a specific commit (discard changes)
+    
+- `git revert <commit>` → Create a new commit that undoes a previous one
+    
+- `git clone <url>` → Clone an existing repository
+    
+- `git tag <tagname>` → Mark specific commits (e.g., release points)
+    
+
+---

@@ -26,7 +26,7 @@
 - ### [[3.5 Mapping - 1]]
 - ### [[3.6 Mapping - 2]]
 
-## ==4. ==
+## ==4. Production-Ready Spring Boot Features==
 - ### [[4.1 Setup a Basic Spring Boot Project]]
 - ### [[4.2 Spring Boot DevTools]]
 - ### [[4.3 Auditing]]
@@ -43,4 +43,12 @@
 - ### [[5.6 Signup and Logging using JWT]]
 - ### [[5.7 Authenticating requests using JWT]]
 - ### [[5.8 Spring Security Exception Handling]]
+
+## ==6. Spring Security==
+- ### [[6.1 JWT - Refresh Token & Access Token]]
+- ### [[6.2 Oauth2 Client Authentication]]
+- ### [[6.3 User Session Management with JWT]]
+- ### [[6.4 Role based Authorization]]
+- ### [[6.5 Granular Authorization with Authority]]
+- ### [[6.6 Security Methods Annotation]]
 
