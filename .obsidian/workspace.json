@@ -11,14 +11,10 @@
             "id": "d8221f752cdaa611",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Development/Java/Spring Boot/06. Spring Security/6.1 JWT - Refresh Token & Access Token.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6.1 JWT - Refresh Token & Access Token"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Spring Boot/06. Spring Security/6.1 JWT - Refresh Token & Access Token.md",
+                "file": "03 Development/Go/04 Strings.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6.1 JWT - Refresh Token & Access Token"
+              "title": "Outline of 04 Strings"
             }
           }
         ],
@@ -171,8 +167,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8221f752cdaa611",
+  "active": "1ac11d84a737ee73",
   "lastOpenFiles": [
+    "03 Development/Go/03 Basic Types.md",
+    "03 Development/Go/02 Simple Example.md",
+    "03 Development/Go/01 Hello World.md",
+    "03 Development/Go/00 Intro and Why Use Go.md",
+    "03 Development/Java/Spring Boot/06. Spring Security/6.1 JWT - Refresh Token & Access Token.md",
     "03 Development/Miscellaneous/Git.md",
     "03 Development/Projects/01 Real Estate Web App.md",
     "03 Development/Projects/00 Project Ideas.md",
@@ -185,7 +186,6 @@
     "03 Development/Java/Spring Boot/06. Spring Security/6.4 Role based Authorization.md",
     "03 Development/Java/Spring Boot/06. Spring Security/6.3 User Session Management with JWT.md",
     "03 Development/Java/Spring Boot/06. Spring Security/6.2 Oauth2 Client Authentication.md",
-    "03 Development/Java/Spring Boot/06. Spring Security/6.1 JWT - Refresh Token & Access Token.md",
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
     "03 Development/Java/Spring Boot/06. Spring Security",
     "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.7 OpenAPI & Swagger.md",
@@ -196,10 +196,6 @@
     "03 Development/Java/Spring Boot/05. Spring Security/5.5 Understanding JWT.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.7 Authenticating requests using JWT.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.6 Signup and Logging using JWT.md",
-    "03 Development/Java/Spring Boot/05. Spring Security/5.8 Spring Security Exception Handling.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.6 Input Validation.md",
     "06 Resources/Development/Java/Spring Boot/5/5.7/login-request-flow.png",
     "06 Resources/Development/Java/Spring Boot/5/5.7",
     "06 Resources/Development/Java/Spring Boot/5/5.6",
