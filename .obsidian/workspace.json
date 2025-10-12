@@ -11,10 +11,14 @@
             "id": "d8221f752cdaa611",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 Development/Docker/Docker.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Docker"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docker.m",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 312
+    "width": 312,
+    "collapsed": true
   },
   "right": {
     "id": "f9dc4a20e834cc3e",
@@ -138,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Go/04 Strings.md",
+                "file": "03 Development/Docker/Docker.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04 Strings"
+              "title": "Outline of Docker"
             }
           }
         ],
@@ -167,7 +173,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ac11d84a737ee73",
+  "active": "d8221f752cdaa611",
   "lastOpenFiles": [
     "03 Development/Go/03 Basic Types.md",
     "03 Development/Go/02 Simple Example.md",
