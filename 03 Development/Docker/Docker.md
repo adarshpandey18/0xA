@@ -11,6 +11,8 @@
 3. **Docker Enterprise** – broader enterprise platform that includes orchestration and advanced security.
     
 
+---
+
 ### Docker Update Channels
 
 1. **Stable** – latest releases intended for general availability.
@@ -20,12 +22,16 @@
 3. **Nightly** – latest work-in-progress builds for the next major release.
     
 
+---
+
 ### Docker Support
 
 - **Docker CE**: Each year-month release is supported with patches for **7 months** after GA.
     
 - **Docker EE**: Each year-month release is supported for **24 months** after GA.
     
+
+---
 
 ### Docker Installation
 
@@ -35,7 +41,7 @@
     
 - Docker and other virtualization tools (VirtualBox, VMware) **cannot run simultaneously** on the same host.
     
-- Download Docker Desktop from the official site.
+- Download **Docker Desktop** from the official website.
     
 - Verify installation:
     
@@ -55,7 +61,7 @@
     ```
     
 
-#### 3. Linux (extra point added)
+#### 3. Linux
 
 - Update packages:
     
@@ -87,11 +93,11 @@
 
 ### What is a Container?
 
-- A **container** is a standard unit of software that runs a particular application and its processes.
+- A **container** is a standard unit of software that runs an application and its dependencies.
     
-- It is **portable** and contains the software dependencies for an application.
+- Containers are **portable**, **isolated**, and **lightweight**.
     
-- It is common to run **multiple containers on a single host machine**.
+- It is common to run **multiple containers** on a single host machine.
     
 
 ### Docker Container Benefits
@@ -106,72 +112,66 @@
     
 - Reduce the number of servers required.
     
-- Easily managed with **orchestrators** (e.g., Kubernetes, Docker Swarm).
+- Managed easily with **orchestrators** (Kubernetes, Docker Swarm).
     
 - Easy to **create, store, and run** container images.
     
-- Use **Docker Hub** as an image repository for pre-built images.
+- Use **Docker Hub** for sharing pre-built images.
     
-- Initially used **AUFS** filesystem, now commonly uses **OverlayFS**.
+- Initially used **AUFS**, now commonly uses **OverlayFS** for the filesystem.
     
 
 ### Virtual Machines vs Containers
 
-- Containers are designed for a **single process or task**, while VMs may run multiple processes.
+- Containers run a **single process or service**, while VMs can run multiple.
     
-- Containers have **faster boot times** since they share the host OS kernel.
+- Containers have **faster startup times** since they share the host OS kernel.
     
 
 ### Docker Security
 
-- Containers are isolated from each other.
+- Containers are **isolated from each other**.
     
-- Multiple containers share the host machine’s kernel.
+- Multiple containers **share the same kernel**.
     
-- **Container escape** (security risk) may occur → attackers could break isolation.
+- **Container escape** can occur if isolation breaks (potential security risk).
     
-- Docker uses isolation techniques:
+- Docker uses isolation techniques like:
     
     - **cgroups (control groups)** – enforce resource limits.
         
-    - **Namespaces** – provide process isolation.
+    - **Namespaces** – isolate processes.
         
 
 ### Docker Basics
 
-- Docker uses containers to run a **single process or a small group of processes**.
+- Docker runs **a single process or group of processes** inside containers.
     
-- A **container image** is required to start a container.
+- Containers are created from **images**, stored in **registries** (e.g., Docker Hub).
     
-- Images are stored in an **image registry** (e.g., Docker Hub).
-    
-- To build an image, you need a **Dockerfile**.
+- **Dockerfile** defines instructions to build an image.
     
 
 ### Base Images and Layering
 
-- A **base image** is a minimal functional OS.
+- A **base image** is a minimal functional OS used to build other images.
     
 - Docker uses a **layered filesystem**:
     
-    - Example:
-        
-        ```dockerfile
-        FROM debian:stable
-        ```
-        
-- Changes to the base image are stored in **new layers** without modifying the original base.
+    ```dockerfile
+    FROM debian:stable
+    ```
+    
+- Each modification adds a **new layer**; base layers remain unchanged.
     
 
 ### Microservices
 
-- An **architectural style** where applications are built as loosely coupled services.
+- **Microservices architecture** divides applications into **independent, loosely coupled services**.
     
-- Easier to fix and test.
+- Easier to fix, test, and deploy independently.
     
-- Each microservice can be **deployed independently**.
-    
-- Containers are **ideal for microservices** due to isolation and portability.
+- Containers are **ideal for microservices**.
     
 
 ### Summary
@@ -187,12 +187,12 @@
 
 ### Getting Started
 
-- Docker commands are the same across **Linux, macOS, and Windows**.
+- Docker commands are **same on Linux, macOS, and Windows**.
     
 
-#### Starting Terminal
+#### Starting the Terminal
 
-- **Windows**: Open CMD / PowerShell as Administrator.
+- **Windows**: Open CMD / PowerShell (Admin mode).
     
 - **macOS**: Open **Terminal** (Utilities folder).
     
@@ -201,29 +201,24 @@
 
 #### Running a Container
 
-- Run Debian container:
-    
-    ```bash
-    docker run -dit debian
-    ```
-    
-- Returns a container ID, e.g.:
-    
-    ```
-    b96ca51ec34d16e6050a114e37b372cc804876ab8c7cd095fa7e067f308ef2b4b2
-    ```
-    
+```bash
+docker run -dit debian
+```
+
+Returns a container ID, e.g.:
+
+```
+b96ca51ec34d16e6050a114e37b372cc804876ab8c7cd095fa7e067f308ef2b4b2
+```
 
 #### Options
 
-- `-dit`
+- `-d` – Detached (runs in background).
     
-    - `d` – Detached (runs in background).
-        
-    - `i` – Interactive (keeps STDIN open).
-        
-    - `t` – Allocates a pseudo-terminal.
-        
+- `-i` – Interactive mode (keeps STDIN open).
+    
+- `-t` – Allocates a pseudo-terminal (interactive shell).
+    
 
 #### Checking Running Containers
 
@@ -231,7 +226,7 @@
 docker ps
 ```
 
-Output:
+Example Output:
 
 ```
 CONTAINER ID   IMAGE     COMMAND   CREATED          STATUS          PORTS     NAMES
@@ -247,7 +242,7 @@ docker stop <container_name>
 
 > Example: `docker stop quirky_benz`
 
-**Note:** If you run `docker run debian` without options, the container stops immediately because it is not detached.
+**Note:** Running `docker run debian` (without `-d`) will stop immediately after execution.
 
 #### Viewing Downloaded Images
 
@@ -268,63 +263,206 @@ debian       latest    833c135acfe9   10 days ago   183MB
 docker inspect <image_id>
 ```
 
-Example:
-
-```json
-{
-  "Id": "sha256:833c135acfe9521d7a0035a296076f98c182c542a2b6b5a0fd7063d355d696be",
-  "RepoTags": ["debian:latest"],
-  "Architecture": "amd64",
-  "Os": "linux",
-  "Size": 49289936,
-  "RootFS": {
-    "Type": "layers",
-    "Layers": [
-      "sha256:185e04da9d947141fd703dbf36361bdc2ff77cc27cbf500fb9f4881cb5ddbe95"
-    ]
-  }
-}
-```
-
 #### Help Commands
 
-- General help:
-    
-    ```bash
-    docker --help
-    ```
-    
-- Help for a subcommand:
-    
-    ```bash
-    docker images --help
-    ```
-    
+```bash
+docker --help
+docker images --help
+```
 
 ---
-## Managing Docker Containers
-### Container Images 
 
-```shell
+## Managing Docker Containers
+
+### Container Images
+
+#### Pulling an Image
+
+```bash
 docker pull nginx
 ```
-takes image name as argument and add image to the host system
 
-```shell
+Downloads an image from Docker Hub and adds it to the local host.
+
+#### Listing Images
+
+```bash
 docker images
 ```
-list out the images 
 
-```shell
+#### Viewing Image History
+
+```bash
 docker history nginx
 ```
-output shows each layer line by line with comment the way the image got build
 
-```shell
+Displays each layer in the image build process.
+
+#### View Full Image IDs
+
+```bash
 docker images --no-trunc
 ```
-it tells to not truncate Image ID 
-tag - tells the version of the image and `latest` tells it is latest image file
 
-hub.docker.com
-here we can get docker images
+Shows the complete image ID.
+
+#### Tagging an Image
+
+```bash
+docker tag nginx:latest nginx:myblog_stable
+```
+
+Creates an alias (`myblog_stable`) pointing to the same image (no copy is made).
+
+#### Building an Image
+
+```bash
+docker build -t mynginx .
+```
+
+- `-t` – Tags the image with a name.
+    
+- `.` – Uses the current directory for the Dockerfile.
+    
+
+#### Removing Images
+
+```bash
+docker rmi <image:tag>
+docker rmi -f <image:tag>  # Force delete
+```
+
+#### Cleaning Up Unused Images
+
+```bash
+docker image prune
+```
+
+Removes **dangling and unused** images.
+
+```bash
+docker system prune -a
+```
+
+Removes **unused containers, networks, and images**.
+
+#### Checking Docker Disk Usage
+
+```bash
+docker system df
+```
+
+---
+
+## Running and Managing Containers
+
+### Running Containers
+
+```bash
+docker run -dit debian
+```
+
+#### Assigning a Name
+
+```bash
+docker run -dit --name web debian
+```
+
+#### Listing Containers
+
+```bash
+docker ps        # Running containers
+docker ps -a     # All containers (including stopped)
+docker ps -l     # Last created container
+```
+
+#### Stopping and Restarting
+
+```bash
+docker stop web
+```
+
+#### Auto-Restart on System Boot
+
+```bash
+docker run -dit --restart=always --name name debian
+```
+
+#### Force Stop
+
+```bash
+docker kill <container_name>
+```
+
+#### Remove a Container
+
+```bash
+docker rm <container_name>
+```
+
+#### Auto-Remove When Stopped
+
+```bash
+docker run --rm -dit debian
+```
+
+Removes the container automatically after it stops.
+
+#### View Logs
+
+```bash
+docker logs <container_name>
+docker logs --help
+```
+
+---
+
+## Exposing Containers to Public Network
+
+#### Run Nginx and Expose Port
+
+```bash
+docker run --name our_nginx -d -p 8080:80 nginx
+```
+
+- **8080** → Host port (external)
+    
+- **80** → Container port (internal)
+    
+
+#### Verify
+
+```bash
+curl http://localhost:8080
+```
+
+Returns HTTP 200 response with Nginx welcome page.
+
+#### Creating a Local Website
+
+```powershell
+mkdir webpages
+cd webpages
+echo "Hi from the container!" > index.html
+```
+
+#### Mount Local Directory to Container
+
+```bash
+docker run -p 8080:80 --name another_nginx -v ${PWD}/webpages:/usr/share/nginx/html:ro -d nginx
+```
+
+- `-v` → Mounts a volume (binds host folder to container path).
+    
+- `:ro` → Mounts directory as **read-only**.
+    
+
+This makes your local `index.html` accessible at `http://localhost:8080`.
+
+---
+
+## Connecting to Running Containers and Managing Output
+
+
+
+---
