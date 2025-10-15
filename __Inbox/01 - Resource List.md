@@ -53,11 +53,11 @@
 
 ### Kotlin
 
-| Topic | Creator | Link |
-|-------|---------|------|
-| Kotlin University Course | Scott Sanchfield | [Link](https://www.youtube.com/playlist?list=PLW-6wqFEcgTpmjW7OVgDjOUBbnvym7jiP) |
-| MVVM News App (Jetpack Compose) | — | [Link](https://www.youtube.com/playlist?list=PLzZEuVaFb9Exi-pc8qtHBrrLg8bUn-TP6) |
-| E-Commerce App | — | [Link](https://www.youtube.com/playlist?list=PLzZEuVaFb9ExqUwxMoXg0Li0wYW2IeAkz) |
+| Topic                           | Creator          | Link                                                                             |
+| ------------------------------- | ---------------- | -------------------------------------------------------------------------------- |
+| Kotlin University Course        | Scott Sanchfield | [Link](https://www.youtube.com/playlist?list=PLW-6wqFEcgTpmjW7OVgDjOUBbnvym7jiP) |
+| MVVM News App (Jetpack Compose) | —                | [Link](https://www.youtube.com/playlist?list=PLzZEuVaFb9Exi-pc8qtHBrrLg8bUn-TP6) |
+| E-Commerce App                  | —                | [Link](https://www.youtube.com/playlist?list=PLzZEuVaFb9ExqUwxMoXg0Li0wYW2IeAkz) |
 
 ---
 
@@ -65,59 +65,59 @@
 
 ### DBMS
 
-| Topic | Creator | Link |
-|-------|---------|------|
-| DBMS Full Course | Gate Smashers | [Link](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) |
-| SQL Leetcode Walkthrough | — | [Link](https://www.youtube.com/playlist?list=PLoOYnCGFLfrNCl5ZbqpxnX5OffFrTWysa) |
+| Topic                    | Creator       | Link                                                                             |
+| ------------------------ | ------------- | -------------------------------------------------------------------------------- |
+| DBMS Full Course         | Gate Smashers | [Link](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) |
+| SQL Leetcode Walkthrough | —             | [Link](https://www.youtube.com/playlist?list=PLoOYnCGFLfrNCl5ZbqpxnX5OffFrTWysa) |
 
 ### Operating Systems
 
-| Topic | Creator | Link |
-|-------|---------|------|
+| Topic     | Creator       | Link                                                                             |
+| --------- | ------------- | -------------------------------------------------------------------------------- |
 | OS Course | Gate Smashers | [Link](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p) |
 
 ### Compiler Design
 
-| Topic | Creator | Link |
-|-------|---------|------|
-| Compiler Design Crash Course | — | [Link](https://youtu.be/7Tq2Amm15g8?si=nBTbdbn_tGgit34_) |
+| Topic                        | Creator | Link                                                     |
+| ---------------------------- | ------- | -------------------------------------------------------- |
+| Compiler Design Crash Course | —       | [Link](https://youtu.be/7Tq2Amm15g8?si=nBTbdbn_tGgit34_) |
 
 ### Bug Bounty
 
-| Topic | Creator | Link |
-|-------|---------|------|
-| Bug Bounty for Beginners | — | [Link](https://youtu.be/TTw-EY7F1rM?si=WZMlnSWz8N72Ag_3) |
+| Topic                    | Creator | Link                                                     |
+| ------------------------ | ------- | -------------------------------------------------------- |
+| Bug Bounty for Beginners | —       | [Link](https://youtu.be/TTw-EY7F1rM?si=WZMlnSWz8N72Ag_3) |
 
 ### Algorithms
 
-| Topic | Creator | Link |
-|-------|---------|------|
+| Topic                  | Creator    | Link                                                                             |
+| ---------------------- | ---------- | -------------------------------------------------------------------------------- |
 | Algorithms Full Course | Abdul Bari | [Link](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) |
-| Pattern Problems | — | [Link](https://www.youtube.com/playlist?list=PL7g1jYj15RUOjoeZAJsWjwV8XUo9r0hwc) |
-| Dynamic Programming | — | [Link](https://youtu.be/oBt53YbR9Kk?si=Ux5OlAmzzLeQ07ao) |
+| Pattern Problems       | —          | [Link](https://www.youtube.com/playlist?list=PL7g1jYj15RUOjoeZAJsWjwV8XUo9r0hwc) |
+| Dynamic Programming    | —          | [Link](https://youtu.be/oBt53YbR9Kk?si=Ux5OlAmzzLeQ07ao)                         |
 
 ### System Design
 
-| Topic | Creator | Link |
-|-------|---------|------|
-| System Design Fundamentals | ByteByteGo | [Link](https://www.youtube.com/playlist?list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf) |
-| Real-world System Design Examples | — | [Link](https://www.youtube.com/playlist?list=PLRtLu6rCuAlkO-HiER3AKoKkSG5DPp9TX) |
+| Topic                             | Creator    | Link                                                                             |
+| --------------------------------- | ---------- | -------------------------------------------------------------------------------- |
+| System Design Fundamentals        | ByteByteGo | [Link](https://www.youtube.com/playlist?list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf) |
+| Real-world System Design Examples | —          | [Link](https://www.youtube.com/playlist?list=PLRtLu6rCuAlkO-HiER3AKoKkSG5DPp9TX) |
 
 ---
 
 ## ☁️ Cloud & DevOps
 
-| Topic | Creator | Link |
-|-------|---------|------|
-| AWS Full Course | Geeky Shows | [Link](https://www.youtube.com/playlist?list=PLbGui_ZYuhiiP7MwyVbZn4gkkJA4r5Hqp) |
-| Cloud Computing Concepts | — | [Link](https://youtu.be/ZaA0kNm18pE?si=odWS6Fuj5KlBYzJZ) |
-| Docker Course | Geeky Shows | [Link](https://www.youtube.com/playlist?list=PLbGui_ZYuhihMb5pqut64GhW-WhxKpygY) |
+| Topic                    | Creator     | Link                                                                             |
+| ------------------------ | ----------- | -------------------------------------------------------------------------------- |
+| AWS Full Course          | Geeky Shows | [Link](https://www.youtube.com/playlist?list=PLbGui_ZYuhiiP7MwyVbZn4gkkJA4r5Hqp) |
+| Cloud Computing Concepts | —           | [Link](https://youtu.be/ZaA0kNm18pE?si=odWS6Fuj5KlBYzJZ)                         |
+| Docker Course            | Geeky Shows | [Link](https://www.youtube.com/playlist?list=PLbGui_ZYuhihMb5pqut64GhW-WhxKpygY) |
 
 ---
 
 ## 🛠 Miscellaneous
 
-| Topic | Creator | Link |
-|-------|---------|------|
-| Neovim Deep Dive | Vhymro | [Link](https://youtube.com/playlist?list=PLx2ksyallYzW4WNYHD9xOFrPRYGlntAft&si=grZiH5UI-hwbzTWl) |
+| Topic            | Creator | Link                                                                                             |
+| ---------------- | ------- | ------------------------------------------------------------------------------------------------ |
+| Neovim Deep Dive | Vhymro  | [Link](https://youtube.com/playlist?list=PLx2ksyallYzW4WNYHD9xOFrPRYGlntAft&si=grZiH5UI-hwbzTWl) |
 
