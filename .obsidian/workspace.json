@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Inbox/01 - Resource List.md",
+                "file": "__Inbox/03 - Daily Execution Manifesto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Resource List"
+              "title": "03 - Daily Execution Manifesto"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Inbox/01 - Resource List.md",
+                "file": "__Inbox/03 - Daily Execution Manifesto.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 - Resource List"
+              "title": "Outline of 03 - Daily Execution Manifesto"
             }
           }
         ],
@@ -173,9 +173,10 @@
   },
   "active": "d8221f752cdaa611",
   "lastOpenFiles": [
-    "__Inbox/069 - Daily Execution Manifesto.md",
     "__Inbox/03 Remaining.md",
     "__Inbox/01 - Resource List.md",
+    "00 Templates/Project Template.md",
+    "__Inbox/03 - Daily Execution Manifesto.md",
     "().md",
     "Untitled.base",
     "Untitled 1.base",
