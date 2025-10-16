@@ -11,14 +11,12 @@
             "id": "d8221f752cdaa611",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "__Inbox/03 - Daily Execution Manifesto.md",
-                "mode": "source",
-                "source": false
+                "file": "03 Development/Java/Java Language Notes/03. Introduction to Java.pdf"
               },
-              "icon": "lucide-file",
-              "title": "03 - Daily Execution Manifesto"
+              "icon": "lucide-file-text",
+              "title": "03. Introduction to Java"
             }
           }
         ]
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Inbox/03 - Daily Execution Manifesto.md",
+                "file": "03 Development/Java/Java Language Notes/03. Introduction to Java.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 - Daily Execution Manifesto"
+              "title": "Outline of 03. Introduction to Java"
             }
           }
         ],
@@ -173,10 +171,15 @@
   },
   "active": "d8221f752cdaa611",
   "lastOpenFiles": [
-    "__Inbox/03 Remaining.md",
+    "03 Development/Java/Java Language Notes/05. FunctionsMethods.pdf",
+    "03 Development/Java/Java Language Notes/04. Conditional & Loops.pdf",
+    "03 Development/Java/Java Language Notes/03. Introduction to Java.pdf",
+    "03 Development/Java/Java Language Notes/02. Flow of program.pdf",
+    "03 Development/Java/Java Language Notes/01. Introduction to programming.pdf",
     "__Inbox/01 - Resource List.md",
-    "00 Templates/Project Template.md",
+    "__Inbox/03 - Remaining.md",
     "__Inbox/03 - Daily Execution Manifesto.md",
+    "00 Templates/Project Template.md",
     "().md",
     "Untitled.base",
     "Untitled 1.base",
@@ -201,19 +204,14 @@
     "03 Development/Java/Spring Boot/06. Spring Security",
     "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.7 OpenAPI & Swagger.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.4 Configuring SecurityFilterchain.md",
-    "03 Development/Java/Spring Boot/05. Spring Security/5.3 Core Spring Security Components.md",
     "06 Resources/Development/Java/Spring Boot/5/5.7/login-request-flow.png",
     "06 Resources/Development/Java/Spring Boot/5/5.7",
     "06 Resources/Development/Java/Spring Boot/5/5.6",
     "06 Resources/Development/Java/Spring Boot/5/New folder",
-    "structure.txt",
     "06 Resources/Development/Java/Spring Boot/5/5.5/jwt-verification.png",
-    "06 Resources/Development/Java/Spring Boot/5/5.5/jwt-diagram.png.crswap",
     "06 Resources/Development/Java/Spring Boot/5/5.5/jwt-diagram.png",
-    "06 Resources/Development/Java/Spring Boot/5/5.5",
     "06 Resources/Computer Science Core/System Design/LLD/04/package-structure.png",
     "06 Resources/Computer Science Core/System Design/LLD/04/Screenshot 2025-09-09 002202.png",
-    "06 Resources/Computer Science Core/System Design/LLD/04",
     "06 Resources/Development/Java/Spring Boot/5/5.3/internal-working-of-spring-security.png",
     "06 Resources/Development/Java/Spring Boot/5/5.3/internal-working-of-spring-boot.png",
     "06 Resources/Development/Java/Spring Boot/5/5.3/Screenshot 2025-08-28 114243.png",
