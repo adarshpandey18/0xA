@@ -11,12 +11,14 @@
             "id": "d8221f752cdaa611",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "05 Placement Prep/CV/general-resume.pdf"
+                "file": "__Inbox/03 - Daily Execution Manifesto.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "general-resume"
+              "icon": "lucide-file",
+              "title": "03 - Daily Execution Manifesto"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Placement Prep/CV/general-resume.pdf",
+                "file": "__Inbox/03 - Daily Execution Manifesto.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of general-resume"
+              "title": "Outline of 03 - Daily Execution Manifesto"
             }
           }
         ],
