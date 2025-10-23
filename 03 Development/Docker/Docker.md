@@ -4,22 +4,22 @@
 
 ### Docker Editions
 
-1. **Docker CE (Community Edition)** – free, open-source edition for developers and small teams.
+1. **Docker CE (Community Edition)** – Free, open-source edition for developers and small teams.
     
-2. **Docker EE (Enterprise Edition)** – commercial edition with additional features and enterprise support.
+2. **Docker EE (Enterprise Edition)** – Commercial edition with additional features and enterprise support.
     
-3. **Docker Enterprise** – broader enterprise platform that includes orchestration and advanced security.
+3. **Docker Enterprise** – Broader enterprise platform that includes orchestration and advanced security.
     
 
 ---
 
 ### Docker Update Channels
 
-1. **Stable** – latest releases intended for general availability.
+1. **Stable** – Latest releases intended for general availability.
     
-2. **Test** – pre-releases ready for testing before general availability.
+2. **Test** – Pre-releases ready for testing before general availability.
     
-3. **Nightly** – latest work-in-progress builds for the next major release.
+3. **Nightly** – Latest work-in-progress builds for the next major release.
     
 
 ---
@@ -134,13 +134,13 @@
     
 - Multiple containers **share the same kernel**.
     
-- **Container escape** can occur if isolation breaks (potential security risk).
+- **Container escape** can occur if isolation breaks (a potential security risk).
     
 - Docker uses isolation techniques like:
     
-    - **cgroups (control groups)** – enforce resource limits.
+    - **cgroups (control groups)** – Enforce resource limits.
         
-    - **Namespaces** – isolate processes.
+    - **Namespaces** – Isolate processes.
         
 
 ### Docker Basics
@@ -187,7 +187,7 @@
 
 ### Getting Started
 
-- Docker commands are **same on Linux, macOS, and Windows**.
+- Docker commands are **the same on Linux, macOS, and Windows**.
     
 
 #### Starting the Terminal
@@ -226,7 +226,7 @@ b96ca51ec34d16e6050a114e37b372cc804876ab8c7cd095fa7e067f308ef2b4b2
 docker ps
 ```
 
-Example Output:
+Example:
 
 ```
 CONTAINER ID   IMAGE     COMMAND   CREATED          STATUS          PORTS     NAMES
@@ -248,13 +248,6 @@ docker stop <container_name>
 
 ```bash
 docker images
-```
-
-Output:
-
-```
-REPOSITORY   TAG       IMAGE ID       CREATED       SIZE
-debian       latest    833c135acfe9   10 days ago   183MB
 ```
 
 #### Inspecting an Image
@@ -282,8 +275,6 @@ docker images --help
 docker pull nginx
 ```
 
-Downloads an image from Docker Hub and adds it to the local host.
-
 #### Listing Images
 
 ```bash
@@ -296,15 +287,11 @@ docker images
 docker history nginx
 ```
 
-Displays each layer in the image build process.
-
 #### View Full Image IDs
 
 ```bash
 docker images --no-trunc
 ```
-
-Shows the complete image ID.
 
 #### Tagging an Image
 
@@ -312,18 +299,11 @@ Shows the complete image ID.
 docker tag nginx:latest nginx:myblog_stable
 ```
 
-Creates an alias (`myblog_stable`) pointing to the same image (no copy is made).
-
 #### Building an Image
 
 ```bash
 docker build -t mynginx .
 ```
-
-- `-t` – Tags the image with a name.
-    
-- `.` – Uses the current directory for the Dockerfile.
-    
 
 #### Removing Images
 
@@ -336,15 +316,8 @@ docker rmi -f <image:tag>  # Force delete
 
 ```bash
 docker image prune
-```
-
-Removes **dangling and unused** images.
-
-```bash
 docker system prune -a
 ```
-
-Removes **unused containers, networks, and images**.
 
 #### Checking Docker Disk Usage
 
@@ -376,43 +349,24 @@ docker ps -a     # All containers (including stopped)
 docker ps -l     # Last created container
 ```
 
-#### Stopping and Restarting
-
-```bash
-docker stop web
-```
-
 #### Auto-Restart on System Boot
 
 ```bash
 docker run -dit --restart=always --name name debian
 ```
 
-#### Force Stop
-
-```bash
-docker kill <container_name>
-```
-
-#### Remove a Container
-
-```bash
-docker rm <container_name>
-```
-
-#### Auto-Remove When Stopped
+#### Remove Container Automatically
 
 ```bash
 docker run --rm -dit debian
 ```
 
-Removes the container automatically after it stops.
-
-#### View Logs
+#### Viewing Logs
 
 ```bash
 docker logs <container_name>
-docker logs --help
+docker logs -f <container_name>  # Live logs
+docker logs -t <container_name>  # Timestamps
 ```
 
 ---
@@ -436,8 +390,6 @@ docker run --name our_nginx -d -p 8080:80 nginx
 curl http://localhost:8080
 ```
 
-Returns HTTP 200 response with Nginx welcome page.
-
 #### Creating a Local Website
 
 ```powershell
@@ -454,15 +406,212 @@ docker run -p 8080:80 --name another_nginx -v ${PWD}/webpages:/usr/share/nginx/h
 
 - `-v` → Mounts a volume (binds host folder to container path).
     
-- `:ro` → Mounts directory as **read-only**.
+- `:ro` → Read-only mount.
     
-
-This makes your local `index.html` accessible at `http://localhost:8080`.
 
 ---
 
 ## Connecting to Running Containers and Managing Output
 
+### Entering and Connecting to Containers
 
+```bash
+docker run -it --name apache httpd /bin/bash
+```
+
+- We didn’t use `-d` because we want to run it in **foreground**.
+    
+- `/bin/bash` provides shell access.
+    
+- Use `exit` to leave the container shell.
+    
+
+#### Start Container in Background, Then Access
+
+```bash
+docker run -dit httpd
+docker exec -it <container_id> /bin/bash
+docker exec -it <container_id> sh
+```
+
+> Sometimes `sh` requires a full path (e.g. `/bin/sh`).
+
+---
+
+## Building Images with Dockerfiles
+
+### Docker Registries
+
+- **Docker Hub** is the default registry.
+    
+- The **registry** stores image repositories.
+    
+- A **repository** contains multiple image versions (tags).
+    
+
+```bash
+docker pull docker.io/ubuntu:bionic
+docker pull registry.hub.docker.com/library/ubuntu:bionic
+```
+
+> Both commands refer to different repository paths.
+
+To run:
+
+```bash
+docker run -dit registry.hub.docker.com/library/ubuntu:bionic
+```
+
+#### Accessing Private Repositories
+
+```bash
+docker login
+```
+
+Prompts for Docker Hub **username** and **password**.
+
+---
+
+### Dockerfile Instructions
+
+- `FROM` – Sets the base image.
+    
+- `CMD` – Defines the command to execute when the container runs.
+    
+- `RUN` – Executes commands while building the image.
+    
+- `EXPOSE` – Opens networking ports.
+    
+- `VOLUME` – Defines persistent storage paths.
+    
+- `COPY` – Copies files into the image.
+    
+- `LABEL` – Adds metadata (key-value pairs).
+    
+- `ENV` – Defines environment variables.
+    
+- `ENTRYPOINT` – Defines the executable to run when the container starts (use `CMD` to pass arguments).
+    
+
+#### Example
+
+```dockerfile
+FROM alpine:latest
+LABEL maintainer="Adarsh Pandey"
+ENTRYPOINT ["bin/ping"]
+CMD ["www.docker.com"]
+```
+
+> The Dockerfile name should always be **"Dockerfile"** (capital D).
+
+Build and run:
+
+```bash
+docker build -t adarsh/dockerping .
+docker push adarsh/dockerping
+docker run adarsh/dockerping
+docker run adarsh/dockerping google.com
+```
+
+---
+
+## Docker Volumes
+
+### Managing Docker Volumes
+
+#### Images
+
+- Images are **portable and disposable**.
+    
+- Contain only required packages for their service.
+    
+- Ideally, you should be able to discard containers **without losing data**.
+    
+
+#### Volumes
+
+- Use **volumes** to persist or share container data.
+    
+- Volumes can be **shared** between multiple containers.
+    
+
+#### Old Volume Method (-v)
+
+```bash
+docker run -v /dbdir:/var/lib/mysql -d mariadb
+docker run --volume /dbdir:/var/lib/mysql -d mariadb
+```
+
+#### New Method (–mount)
+
+```bash
+docker volume create testdata
+docker run -d --name withvolume --mount source=testdata,destination=/root/volume nginx
+```
+
+> No spaces allowed between mount parameters.
+
+#### Volume Management
+
+```bash
+docker volume ls
+docker volume inspect testdata
+docker volume rm testdata
+```
+
+Example output:
+
+```json
+[
+ {
+   "CreatedAt": "2025-10-14T08:45:00Z",
+   "Driver": "local",
+   "Labels": {},
+   "Mountpoint": "/var/lib/docker/volumes/testdata/_data",
+   "Name": "testdata",
+   "Options": {},
+   "Scope": "local"
+ }
+]
+```
+
+#### Ephemeral Volumes
+
+- Temporary volumes that are removed when the container stops.
+    
+
+---
+
+## Docker Swarm
+
+### Docker Swarm / Swarm Mode
+
+#### Orchestrators
+
+- **Auto scale up:** Adds more containers as workload increases.
+    
+- **Auto scale down:** Removes containers when workload decreases.
+    
+- **High availability:** Keeps essential services running.
+    
+- **Garbage collection:** Removes failed or stopped containers.
+    
+
+#### Docker Swarm
+
+- Docker Swarm = **Swarm Mode**.
+    
+- Provides **high availability** by clustering Docker hosts.
+    
+- A **Node** is any system participating in the swarm.
+    
+- Components include **Docker Engines, Managers, and Workers**.
+    
+- **Replicas (Scaling):** Add containers to handle load.
+    
+- **Encrypts** communication between nodes.
+    
+- Provides **internal networking** and **service discovery**.
+    
 
 ---

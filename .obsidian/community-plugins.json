@@ -1,6 +1,7 @@
 [
-  "obsidian-hider",
   "obsidian-icon-folder",
-  "obsidian-latex-suite",
-  "templater-obsidian"
+  "obsidian-style-settings",
+  "calendar",
+  "obsidian-hider",
+  "better-export-pdf"
 ]

@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "8b7463e8bb471777",
+    "id": "0fe805b8815f34b3",
     "type": "split",
     "children": [
       {
-        "id": "fa68a4cfa8d4ad76",
+        "id": "4bf82e617aedbd30",
         "type": "tabs",
         "children": [
           {
-            "id": "d8221f752cdaa611",
+            "id": "ad98bab9b0126d58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__Inbox/03 - Daily Execution Manifesto.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03 - Daily Execution Manifesto"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c1987026bf1d8b22",
+    "id": "d607f8a7881b103c",
     "type": "split",
     "children": [
       {
-        "id": "ab5a73edf9a778c7",
+        "id": "a8cc4cc21d089453",
         "type": "tabs",
+        "dimension": 67.29222520107238,
         "children": [
           {
-            "id": "1ac11d84a737ee73",
+            "id": "d867bd8e0abb0148",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +45,7 @@
             }
           },
           {
-            "id": "62afd1b4f8b6c3f7",
+            "id": "d96f3f9cd75f4a09",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +62,7 @@
             }
           },
           {
-            "id": "b0a255e3ad956931",
+            "id": "59505f173f7f0e6d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,54 +72,70 @@
             }
           }
         ]
+      },
+      {
+        "id": "8570ebb6ee123ce6",
+        "type": "tabs",
+        "dimension": 32.707774798927616,
+        "children": [
+          {
+            "id": "f5ad112a021657ab",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 312
+    "width": 300
   },
   "right": {
-    "id": "f9dc4a20e834cc3e",
+    "id": "7da454b71be2aae8",
     "type": "split",
     "children": [
       {
-        "id": "0d7b535e63d3223e",
+        "id": "d4f628ceb9352296",
         "type": "tabs",
+        "dimension": 57.06018518518518,
         "children": [
           {
-            "id": "7ad66fd6ff346c2e",
+            "id": "b9904c85c30dbed8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Development/Database/Relational Database/01 PostgreSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01 PostgreSQL"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "da6ec0d9282ab260",
+            "id": "b29f0fa0d96da250",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.2 Internal Working of Spring Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5.2 Internal Working of Spring Security"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "2ecb4874e7c9f1ed",
+            "id": "62860a22f30ee1b3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,88 +150,58 @@
             }
           },
           {
-            "id": "adde8756361d6f02",
+            "id": "98450f1b38fef105",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Inbox/03 - Daily Execution Manifesto.md",
-                "followCursor": true,
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 - Daily Execution Manifesto"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "dc187723c2c134f4",
+        "type": "tabs",
+        "dimension": 42.93981481481482,
+        "children": [
+          {
+            "id": "145afaeaa9d0c0f4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 383,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "bases:Create new base": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "d8221f752cdaa611",
+  "active": "ad98bab9b0126d58",
   "lastOpenFiles": [
-    "03 Development/Java/Java Language Notes/15. Recursion.pdf",
-    "folder_structure.txt",
-    "03 Development/Java/Java Language Notes/17. Merge Sort.pdf",
-    "03 Development/Java/Java Language Notes/14. Bitwise Operators .pdf",
-    "03 Development/Java/Java Language Notes/13. Strings & StringBuilder.pdf",
-    "03 Development/Java/Java Language Notes/12. Cyclic Sort.pdf",
-    "03 Development/Java/Java Language Notes/09. Bubble Sort.pdf",
-    "03 Development/Java/Java Language Notes/11. Insertion Sort.pdf",
-    "03 Development/Java/Java Language Notes/10. Selection Sort.pdf",
-    "03 Development/Java/Java Language Notes/08. Binary Search.pdf",
-    "03 Development/Java/Java Language Notes/07. Linear Search.pdf",
-    "__Inbox/01 - Resource List.md",
-    "__Inbox/03 - Remaining.md",
-    "__Inbox/03 - Daily Execution Manifesto.md",
-    "00 Templates/Project Template.md",
-    "().md",
-    "03 Development/Docker/Docker.md",
-    "03 Development/Go/03 Basic Types.md",
-    "03 Development/Go/02 Simple Example.md",
-    "03 Development/Go/01 Hello World.md",
-    "03 Development/Go/00 Intro and Why Use Go.md",
-    "03 Development/Java/Spring Boot/06. Spring Security/6.1 JWT - Refresh Token & Access Token.md",
-    "03 Development/Miscellaneous/Git.md",
-    "03 Development/Projects/01 Real Estate Web App.md",
-    "03 Development/Projects/00 Project Ideas.md",
-    "03 Development/Java/Spring Boot/__Index.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.4 Dependency Injection.md",
-    "03 Development/Java/Spring Boot/06. Spring Security/6.6 Security Methods Annotation.md",
-    "03 Development/Java/Spring Boot/06. Spring Security/6.5 Granular Authorization with Authority.md",
-    "03 Development/Java/Spring Boot/06. Spring Security/6.4 Role based Authorization.md",
-    "03 Development/Java/Spring Boot/06. Spring Security/6.3 User Session Management with JWT.md",
-    "03 Development/Java/Spring Boot/06. Spring Security/6.2 Oauth2 Client Authentication.md",
-    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
-    "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.7 OpenAPI & Swagger.md",
-    "03 Development/Java/Spring Boot/05. Spring Security/5.4 Configuring SecurityFilterchain.md",
-    "06 Resources/Development/Java/Spring Boot/5/5.7/login-request-flow.png",
-    "06 Resources/Development/Java/Spring Boot/5/5.5/jwt-verification.png",
-    "06 Resources/Development/Java/Spring Boot/5/5.5/jwt-diagram.png",
-    "06 Resources/Computer Science Core/System Design/LLD/04/package-structure.png",
-    "06 Resources/Computer Science Core/System Design/LLD/04/Screenshot 2025-09-09 002202.png",
-    "06 Resources/Development/Java/Spring Boot/5/5.3/internal-working-of-spring-security.png",
-    "06 Resources/Development/Java/Spring Boot/5/5.3/internal-working-of-spring-boot.png",
-    "06 Resources/Development/Java/Spring Boot/5/5.3/Screenshot 2025-08-28 114243.png",
-    "forest.gif",
-    "06 Resources/Development/Java/Spring Boot/3/3.3/spring-data-jpa-repository.png",
-    "Untitled.canvas"
+    "03 Development/Java/Miscellaneous/JDBC.md",
+    "2025-10-23.md",
+    "03 Development/Docker/Docker.md"
   ]
 }
