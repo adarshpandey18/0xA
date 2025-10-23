@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4bf82e617aedbd30",
+        "id": "629f1b13b5b929cd",
         "type": "tabs",
         "children": [
           {
-            "id": "ad98bab9b0126d58",
+            "id": "b1f11ca7d39cdfbe",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -198,8 +199,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ad98bab9b0126d58",
+  "active": "d867bd8e0abb0148",
   "lastOpenFiles": [
+    "Untitled.base",
+    "03 Development/Java/Miscellaneous/JSoup.md",
+    "03 Development/Miscellaneous/Git.md",
     "03 Development/Java/Miscellaneous/JDBC.md",
     "2025-10-23.md",
     "03 Development/Docker/Docker.md"
