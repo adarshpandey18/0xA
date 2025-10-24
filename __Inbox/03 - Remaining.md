@@ -19,4 +19,4 @@
 - [ ] [[Git]]
 - [ ] System Design
 - [ ] [[06 Merge Sort]]
-- [ ] [[01 PostgreSQL]]
+- [ ] [[PostgreSQL]]
