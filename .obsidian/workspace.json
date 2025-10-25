@@ -11,14 +11,12 @@
             "id": "b1f11ca7d39cdfbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "__Inbox/01 - Resource List.md",
-                "mode": "preview",
-                "source": false
+                "file": "03 Development/Java/Java Language Notes/08. Binary Search.pdf"
               },
-              "icon": "lucide-file",
-              "title": "01 - Resource List"
+              "icon": "lucide-file-text",
+              "title": "08. Binary Search"
             }
           }
         ]
@@ -96,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315
   },
   "right": {
     "id": "7da454b71be2aae8",
@@ -159,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "03 Development/Java/Java Language Notes/08. Binary Search.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 08. Binary Search"
             }
           }
         ],
@@ -189,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,8 +202,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f5ad112a021657ab",
+  "active": "b1f11ca7d39cdfbe",
   "lastOpenFiles": [
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
+    "03 Development/Java/Spring Boot/00. Index.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
+    "01 Computer Science Core/Operating System/OS Part - I.pdf",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer (Repository) & JPA.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.4 Business Layer (Service).md",
     "__Inbox/01 - Resource List.md",
     "03 Development/Database/Relational Database/PostgreSQL.md",
     "03 Development/Database/Non-Relational Database/MongoDB.md",

@@ -17,7 +17,7 @@
 | Salon Appointment System                                            | Code with Zosh             | [Link](https://youtu.be/UkxwV613b0g?si=T5vWFA9vbZ5_OqLW)                         |
 | Money Manager                                                       | Engineer Talks with Bushan | [Link](https://youtu.be/RtMezvuOKE0?si=nL7cpZMuA0Ya_RIu)                         |
 | Restaurant Review Platform                                          | Devitro                    | [Link](https://youtu.be/rki0eVGAVTQ?si=oiTO1uWeDuLLZFyD)                         |
-| Food Delivery                                                       |                            | <br>[Link]()                                                                     |
+| Food Delivery                                                       |                            | [Link]()                                                                         |
 | Url Shortener                                                       | ShivaLabs                  | [Link](https://www.youtube.com/playlist?list=PLuNxlOYbv61gfJv1uTOFKAWig98e7fk_m) |
 | Retail Billing Software                                             | Engineer Talks with Bushan | [Link](https://youtu.be/_UNE39gZrV4?si=hbtGIR8kU69mnSSQ)                         |
 
