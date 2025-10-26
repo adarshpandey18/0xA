@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "629f1b13b5b929cd",
+        "id": "66d05ecff25904ae",
         "type": "tabs",
         "children": [
           {
-            "id": "b1f11ca7d39cdfbe",
+            "id": "db98d228e45dca07",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 Development/Java/Java Language Notes/08. Binary Search.pdf"
+                "file": "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.2 Setting Up Local Environment.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "08. Binary Search"
+              "icon": "lucide-file",
+              "title": "1.2 Setting Up Local Environment"
             }
           }
         ]
@@ -157,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Java Language Notes/08. Binary Search.pdf",
+                "file": "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.2 Setting Up Local Environment.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 08. Binary Search"
+              "title": "Outline of 1.2 Setting Up Local Environment"
             }
           }
         ],
@@ -202,9 +204,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b1f11ca7d39cdfbe",
+  "active": "db98d228e45dca07",
   "lastOpenFiles": [
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
+    "03 Development/Java/Java Language Notes/19. OOPS.pdf",
+    "03 Development/Java/Java Language Notes.zip",
+    "03 Development/Java/Java Language Notes/19. OOPS - II.pdf",
+    "03 Development/Java/Java Language Notes/11. Insertion Sort.pdf",
+    "03 Development/Java/Java Language Notes/08. Binary Search.pdf",
+    "03 Development/Java/Java Language Notes/07. Linear Search.pdf",
+    "03 Development/Java/Java Language Notes/01. Introduction to programming.pdf",
     "03 Development/Java/Spring Boot/00. Index.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
     "01 Computer Science Core/Operating System/OS Part - I.pdf",
