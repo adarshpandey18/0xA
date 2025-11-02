@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Java/Miscellaneous/JDBC interact with a variety of databases.md",
+                "file": "03 Development/Java/Miscellaneous/JDBC.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JDBC interact with a variety of databases"
+              "title": "JDBC"
             }
           }
         ]
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Miscellaneous/JDBC interact with a variety of databases.md",
+                "file": "03 Development/Java/Miscellaneous/JDBC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JDBC interact with a variety of databases"
+              "title": "Outline of JDBC"
             }
           }
         ],
@@ -207,7 +207,7 @@
   "active": "db98d228e45dca07",
   "lastOpenFiles": [
     "03 Development/Java/Miscellaneous/JSoup.md",
-    "03 Development/Java/Miscellaneous/JDBC interact with a variety of databases.md",
+    "03 Development/Java/Miscellaneous/JDBC.md",
     "03 Development/Java/Miscellaneous/Mockito.md",
     "03 Development/Java/Miscellaneous/Stream.md",
     "03 Development/Java/Build Tool/Maven.md",
