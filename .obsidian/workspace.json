@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.2 Setting Up Local Environment.md",
+                "file": "03 Development/Java/Miscellaneous/JDBC interact with a variety of databases.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Setting Up Local Environment"
+              "title": "JDBC interact with a variety of databases"
             }
           }
         ]
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.2 Setting Up Local Environment.md",
+                "file": "03 Development/Java/Miscellaneous/JDBC interact with a variety of databases.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.2 Setting Up Local Environment"
+              "title": "Outline of JDBC interact with a variety of databases"
             }
           }
         ],
@@ -206,6 +206,29 @@
   },
   "active": "db98d228e45dca07",
   "lastOpenFiles": [
+    "03 Development/Java/Miscellaneous/JSoup.md",
+    "03 Development/Java/Miscellaneous/JDBC interact with a variety of databases.md",
+    "03 Development/Java/Miscellaneous/Mockito.md",
+    "03 Development/Java/Miscellaneous/Stream.md",
+    "03 Development/Java/Build Tool/Maven.md",
+    "03 Development/Docker/Docker.md",
+    "03 Development/Database/Relational Database/PostgreSQL.md",
+    "03 Development/Database/Non-Relational Database/MongoDB.md",
+    "02 DSA & Problem Solving/Algorithms/searching/02 Binary Search.md",
+    "02 DSA & Problem Solving/Algorithms/searching/01 Linear Search.md",
+    "01 Computer Science Core/Operating System/OS Part - I.pdf",
+    "01 Computer Science Core/Database Management System/11 - Insert, Update & Delete from Foreign Key Table.md",
+    "01 Computer Science Core/Database Management System/14 - Introduction to ER Model.md",
+    "01 Computer Science Core/Database Management System/17 - One to Many Relationship.md",
+    "01 Computer Science Core/Database Management System/20 - Introduction to Normalization.md",
+    "01 Computer Science Core/Database Management System/25 - Third Normal Form (3NF).md",
+    "01 Computer Science Core/Database Management System/35 - Cover and Equivalence of Functional Dependencies.md",
+    "01 Computer Science Core/Database Management System/32 - How to find out Normal Form of the Relation.md",
+    "01 Computer Science Core/Database Management System/37 - Dependency Preservation Decomposition.md",
+    "01 Computer Science Core/Database Management System/41 - Equi Join.md",
+    "01 Computer Science Core/Database Management System/43 - Right Outer Join.md",
+    "01 Computer Science Core/Database Management System/42 - Left Outer Join.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.2 Setting Up Local Environment.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
     "03 Development/Java/Java Language Notes/19. OOPS.pdf",
     "03 Development/Java/Java Language Notes.zip",
@@ -216,18 +239,7 @@
     "03 Development/Java/Java Language Notes/01. Introduction to programming.pdf",
     "03 Development/Java/Spring Boot/00. Index.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
-    "01 Computer Science Core/Operating System/OS Part - I.pdf",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer (Repository) & JPA.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.4 Business Layer (Service).md",
-    "__Inbox/01 - Resource List.md",
-    "03 Development/Database/Relational Database/PostgreSQL.md",
-    "03 Development/Database/Non-Relational Database/MongoDB.md",
-    "Untitled.base",
-    "03 Development/Java/Miscellaneous/JSoup.md",
-    "03 Development/Miscellaneous/Git.md",
-    "03 Development/Java/Miscellaneous/JDBC.md",
-    "2025-10-23.md",
-    "03 Development/Docker/Docker.md"
+    "Untitled.base"
   ]
 }

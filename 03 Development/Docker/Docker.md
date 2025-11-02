@@ -581,7 +581,6 @@ Example output:
     
 
 ---
-
 ## Docker Swarm
 
 ### Docker Swarm / Swarm Mode

@@ -69,7 +69,6 @@
   "03 Development/Java/Build Tool": "LiHammer",
   "03 Development/Java/Miscellaneous": "LiFiles",
   "__Inbox": "LiTrash",
-  "03 Development/Java/Miscellaneous/JDBC.md": "LiDatabase",
   "03 Development/Java/Miscellaneous/JUnit.md": "LiTestTube",
   "05 Placement Prep": "LiShield",
   "05 Placement Prep/CV": "LiFile",
@@ -82,5 +81,6 @@
   "03 Development/Java/Miscellaneous/Stream.md": "LiPanelTopDashed",
   "03 Development/Miscellaneous/Git.md": "🕸",
   "03 Development/Docker": "LiContainer",
-  "03 Development/Java/Miscellaneous/Mockito.md": "LiTestTubes"
+  "03 Development/Java/Miscellaneous/Mockito.md": "LiTestTubes",
+  "03 Development/Java/Miscellaneous/JDBC interact with a variety of databases.md": "LiDatabase"
 }
