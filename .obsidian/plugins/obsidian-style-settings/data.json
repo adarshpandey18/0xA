@@ -1,6 +1,6 @@
 {
   "encore-settings@@theme-light": "encore-theme-light",
-  "encore-settings@@encore-translucency": false,
+  "encore-settings@@encore-translucency": true,
   "encore-settings@@colors": "encore-colors-neutral",
   "encore-settings@@theme-dark": "encore-theme-dark-glass-royale",
   "encore-settings@@encore-translucency-background": "encore-bg-prismatic",

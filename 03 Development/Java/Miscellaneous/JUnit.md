@@ -107,7 +107,7 @@ public class CalcTest {
 ## @Test
 
 - Applied over methods to mark methods as test.
-- It is present inside `org.junit.junipter.api`
+- It is present inside `org.junit.jupiter.api`
 - Visibility of `@Test` annoted methods can be `public` `private` or `default`
 - Also informs the engine what methods to run.
 - The method only checks for failure if not then by default it is success.
@@ -209,7 +209,7 @@ public class TestingPerformance {
   void sortingArrayTest() {
     SortingArray sa = new SortingArray();
     int[]unsorted = {5,4,3,2,1};
-    assertTimeout(Duration.ofMillis(10), ()-> sa.sortingArray(unosrted));
+    assertTimeout(Duration.ofMillis(10), ()-> sa.sortingArray(unsorted));
   }
 }
 ```
@@ -305,7 +305,7 @@ In order to change the behaveious or TestInstance we use `@TestInstance()` annot
 
 - `@TestInstance(TestInstance.Lifecycle.PER_METHOD)` : It is default behavior. For every test method the instance is getting created.
 
-- `@TestInstance(TestInstance.Lifecycle.PER_CLASS)` : Multiple instance are not created. ***No need to use static methods for `@BeforeAll` & `@AfterAll` as now instancee is not getting created for every test method.***
+- `@TestInstance(TestInstance.Lifecycle.PER_CLASS)` : Multiple instance are not created. ***No need to use static methods for `@BeforeAll` & `@AfterAll` as now instance is not getting created for every test method.***
 
 ```java
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)

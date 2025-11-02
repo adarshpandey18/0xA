@@ -2,5 +2,6 @@
   "cssTheme": "Encore",
   "enabledCssSnippets": [
     "Image-Align"
-  ]
+  ],
+  "theme": "system"
 }
