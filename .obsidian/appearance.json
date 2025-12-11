@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "Image-Align"
   ],
-  "theme": "system"
+  "theme": "system",
+  "accentColor": "#00d06c"
 }

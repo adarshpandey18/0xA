@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "629df26357266e3f",
+        "id": "cf652e2e9c3d4fd8",
         "type": "tabs",
         "children": [
           {
-            "id": "ff79497fba6a35bd",
+            "id": "ef861d6e2db43a54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Development/Miscellaneous/Git.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "New tab"
             }
           }
         ]
@@ -161,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Miscellaneous/Git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Git"
+              "title": "Outline"
             }
           }
         ],
@@ -205,8 +200,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ff79497fba6a35bd",
+  "active": "d867bd8e0abb0148",
   "lastOpenFiles": [
+    "03 Development/Miscellaneous/Git.md",
+    "01 Computer Science Core/Operating System/OS Part - I.pdf",
+    "01 Computer Science Core/Database Management System/02 - Introduction to DBMS.md",
+    "01 Computer Science Core/Database Management System/00 - Index.md",
+    "01 Computer Science Core/Database Management System/28 - Lossless & Lossy Join Decomposition.md",
+    "__Inbox/01 - Resource List.md",
+    "03 Development/Java/Spring Boot/06. Spring Security/6.1 JWT - Refresh Token & Access Token.md",
+    "03 Development/Java/Spring Boot/06. Spring Security/6.2 Oauth2 Client Authentication.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.6 Input Validation.md",
@@ -232,16 +235,8 @@
     "03 Development/Java/Java Language Notes/08. Binary Search.pdf",
     "03 Development/Java/Java Language Notes/07. Linear Search.pdf",
     "03 Development/Java/Java Language Notes/06. Arrays.pdf",
-    "03 Development/Java/Java Language Notes/05. FunctionsMethods.pdf",
     "03 Development/Java/Miscellaneous/Mockito.md",
     "03 Development/Java/Miscellaneous/JSoup.md",
-    "03 Development/Java/Miscellaneous/JUnit.md",
-    "03 Development/Java/Miscellaneous/JDBC.md",
-    "03 Development/Java/Miscellaneous/Stream.md",
-    "03 Development/Java/Build Tool/Maven.md",
-    "03 Development/Docker/Docker.md",
-    "03 Development/Database/Relational Database/PostgreSQL.md",
-    "03 Development/Database/Non-Relational Database/MongoDB.md",
-    "02 DSA & Problem Solving/Algorithms/searching/02 Binary Search.md"
+    "03 Development/Java/Miscellaneous/JUnit.md"
   ]
 }
