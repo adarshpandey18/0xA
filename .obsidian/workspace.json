@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "03 Development/Java/Java Language Notes/01. Introduction to programming.pdf"
+                "file": "03 Development/Java/Java Language Notes/05. FunctionsMethods.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "01. Introduction to programming"
+              "title": "05. FunctionsMethods"
             }
           }
         ]
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Java Language Notes/01. Introduction to programming.pdf",
+                "file": "03 Development/Java/Java Language Notes/05. FunctionsMethods.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01. Introduction to programming"
+              "title": "Outline of 05. FunctionsMethods"
             }
           }
         ],
@@ -206,6 +206,10 @@
   },
   "active": "ef861d6e2db43a54",
   "lastOpenFiles": [
+    "03 Development/Java/Java Language Notes/04. Conditional & Loops.pdf",
+    "03 Development/Java/Java Language Notes/03. Introduction to Java.pdf",
+    "03 Development/Java/Java Language Notes/02. Flow of program.pdf",
+    "03 Development/Java/Java Language Notes/01. Introduction to programming.pdf",
     "03 Development/Java/Miscellaneous/JDBC.md",
     "03 Development/Java/Miscellaneous/JSoup.md",
     "03 Development/Java/Miscellaneous/JUnit.md",
@@ -232,15 +236,11 @@
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.6 Auto-Configuration & Spring Boot Internal Flow.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.7 Maven Build Tool.md",
     "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.4 Dependency Injection.md",
     "03 Development/Java/Java Language Notes/14. Bitwise Operators .pdf",
     "03 Development/Java/Java Language Notes/12. Cyclic Sort.pdf",
     "03 Development/Java/Java Language Notes/15. Recursion.pdf",
     "03 Development/Java/Java Language Notes/13. Strings & StringBuilder.pdf",
     "03 Development/Java/Java Language Notes/10. Selection Sort.pdf",
-    "03 Development/Java/Java Language Notes/11. Insertion Sort.pdf",
-    "03 Development/Java/Java Language Notes/08. Binary Search.pdf",
-    "03 Development/Java/Java Language Notes/07. Linear Search.pdf",
-    "03 Development/Java/Java Language Notes/06. Arrays.pdf"
+    "03 Development/Java/Java Language Notes/11. Insertion Sort.pdf"
   ]
 }
