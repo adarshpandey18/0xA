@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTableProperties",
       "LiContainer",
       "LiCoffee",
       "LiTestTubes",
-      "🐋",
-      "🕸"
+      "🐋"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,5 +82,6 @@
   "03 Development/Miscellaneous/Git.md": "🕸",
   "03 Development/Docker": "LiContainer",
   "03 Development/Java/Miscellaneous/Mockito.md": "LiTestTubes",
-  "03 Development/Java/Miscellaneous/JDBC.md": "LiDatabase"
+  "03 Development/Java/Miscellaneous/JDBC.md": "LiDatabase",
+  "01 Computer Science Core/System Design/LLD": "LiTableProperties"
 }

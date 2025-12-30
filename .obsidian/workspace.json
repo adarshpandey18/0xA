@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cf652e2e9c3d4fd8",
+        "id": "51348cba9e379e7c",
         "type": "tabs",
         "children": [
           {
-            "id": "ef861d6e2db43a54",
+            "id": "a924a3e85b4ce873",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 Development/Java/Java Language Notes/05. FunctionsMethods.pdf"
+                "file": "01 Computer Science Core/System Design/LLD/Design Pattern/Behavioural Design Pattern/Strategy Design Pattern.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "05. FunctionsMethods"
+              "icon": "lucide-file",
+              "title": "Strategy Design Pattern"
             }
           }
         ]
@@ -159,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Java Language Notes/05. FunctionsMethods.pdf",
+                "file": "01 Computer Science Core/System Design/LLD/Design Pattern/Behavioural Design Pattern/Strategy Design Pattern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 05. FunctionsMethods"
+              "title": "Outline of Strategy Design Pattern"
             }
           }
         ],
@@ -201,15 +203,33 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef861d6e2db43a54",
+  "active": "a924a3e85b4ce873",
   "lastOpenFiles": [
-    "03 Development/Java/Java Language Notes/04. Conditional & Loops.pdf",
-    "03 Development/Java/Java Language Notes/03. Introduction to Java.pdf",
-    "03 Development/Java/Java Language Notes/02. Flow of program.pdf",
-    "03 Development/Java/Java Language Notes/01. Introduction to programming.pdf",
+    "01 Computer Science Core/System Design/LLD/Design Pattern/Creational Design Pattern/Singleton Design Pattern.md",
+    "01 Computer Science Core/System Design/LLD/Design Pattern/Behavioural Design Pattern/Strategy Design Pattern.md",
+    "01 Computer Science Core/System Design/LLD/Design Pattern/Behavioural Design Pattern",
+    "01 Computer Science Core/System Design/LLD/Design Pattern/Creational Design Pattern",
+    "01 Computer Science Core/System Design/LLD/Guiding Principles/S.O.L.I.D Principles.md",
+    "01 Computer Science Core/System Design/LLD/Design Pattern",
+    "01 Computer Science Core/System Design/LLD/Guiding Principles",
+    "06 Resources/Computer Science Core/System Design/LLD/S.O.L.I.D Principles/liskov-substituion-principle-violation.e06e64c2.webp",
+    "06 Resources/Computer Science Core/System Design/LLD/S.O.L.I.D Principles/liskov-substituion-principle.271e3233.webp",
+    "06 Resources/Computer Science Core/System Design/LLD/S.O.L.I.D Principles/class-with-multiple-responsibility.png",
+    "01 Computer Science Core/System Design/LLD/S.O.L.I.D Principles/S - Single Responsibility.md",
+    "Excalidraw/Drawing 2025-12-23 12.39.17.excalidraw.md",
+    "06 Resources/Computer Science Core/System Design/LLD/S.O.L.I.D Principles/S - Single Responsibility",
+    "06 Resources/Computer Science Core/System Design/LLD/S.O.L.I.D Principles",
+    "06 Resources/Computer Science Core/System Design/LLD",
+    "06 Resources/Computer Science Core/System Design/LLD/04/package-structure.png",
+    "01 Computer Science Core/System Design/LLD/S.O.L.I.D Principles",
+    "01 Computer Science Core/System Design/LLD/Untitled.canvas",
+    "Excalidraw",
+    "01 Computer Science Core/System Design/LLD/Untitled.md",
+    "03 Development/Java/Java Language Notes/18. Quick Sort.pdf",
     "03 Development/Java/Miscellaneous/JDBC.md",
     "03 Development/Java/Miscellaneous/JSoup.md",
     "03 Development/Java/Miscellaneous/JUnit.md",
@@ -217,7 +237,6 @@
     "03 Development/Java/Miscellaneous/Stream.md",
     "03 Development/Java/Build Tool/Maven.md",
     "03 Development/Miscellaneous/Git.md",
-    "01 Computer Science Core/Operating System/OS Part - I.pdf",
     "01 Computer Science Core/Database Management System/02 - Introduction to DBMS.md",
     "01 Computer Science Core/Database Management System/00 - Index.md",
     "01 Computer Science Core/Database Management System/28 - Lossless & Lossy Join Decomposition.md",
@@ -230,17 +249,6 @@
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.5 PUT, PATCH & DELETE Mappings.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.4 Business Layer (Service).md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer (Repository) & JPA.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.6 Auto-Configuration & Spring Boot Internal Flow.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.7 Maven Build Tool.md",
-    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
-    "03 Development/Java/Java Language Notes/14. Bitwise Operators .pdf",
-    "03 Development/Java/Java Language Notes/12. Cyclic Sort.pdf",
-    "03 Development/Java/Java Language Notes/15. Recursion.pdf",
-    "03 Development/Java/Java Language Notes/13. Strings & StringBuilder.pdf",
-    "03 Development/Java/Java Language Notes/10. Selection Sort.pdf",
-    "03 Development/Java/Java Language Notes/11. Insertion Sort.pdf"
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md"
   ]
 }
