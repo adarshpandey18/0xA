@@ -1,13 +1,18 @@
 {
-  "encore-settings@@theme-light": "encore-theme-light",
+  "encore-settings@@theme-light": "encore-theme-light-atom",
   "encore-settings@@encore-translucency": true,
-  "encore-settings@@colors": "encore-colors-neutral",
-  "encore-settings@@theme-dark": "encore-theme-dark-glass-royale",
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@theme-dark": "encore-theme-dark-carbon",
   "encore-settings@@encore-translucency-background": "encore-bg-sapphire",
   "encore-settings@@encore-translucency-strength": 0.25,
   "encore-settings@@encore-mobile-oled-mode": true,
   "encore-settings@@encore-mobile-translucency": true,
   "encore-settings@@encore-fancy-headers": false,
   "encore-settings@@encore-coloured-tooltip": true,
-  "encore-settings@@encore-bright-accent": true
+  "encore-settings@@encore-bright-accent": true,
+  "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark",
+  "shiba-theme-settings@@shiba-accent-style": true,
+  "shiba-theme-settings@@shiba-accent-colors": "accent-yellow",
+  "shiba-theme-settings@@shib-custom-vault-folder-toggle-options": "shib-custom-vault-folder-folder-icon",
+  "shiba-theme-settings@@shib-layout-select": "shib-default-layout"
 }

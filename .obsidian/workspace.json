@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "51348cba9e379e7c",
+        "id": "c06d596fa53e30ef",
         "type": "tabs",
         "children": [
           {
-            "id": "a924a3e85b4ce873",
+            "id": "5c625492a2d9c5ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Computer Science Core/System Design/LLD/Design Pattern/Behavioural Design Pattern/Strategy Design Pattern.md",
-                "mode": "source",
+                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strategy Design Pattern"
+              "title": "5.1 Security Attacks"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Computer Science Core/System Design/LLD/Design Pattern/Behavioural Design Pattern/Strategy Design Pattern.md",
+                "file": "03 Development/Java/Spring Boot/05. Spring Security/5.1 Security Attacks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Strategy Design Pattern"
+              "title": "Outline of 5.1 Security Attacks"
             }
           }
         ],
@@ -192,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,48 +206,48 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a924a3e85b4ce873",
+  "active": "5c625492a2d9c5ca",
   "lastOpenFiles": [
-    "01 Computer Science Core/System Design/LLD/Design Pattern/Creational Design Pattern/Singleton Design Pattern.md",
-    "01 Computer Science Core/System Design/LLD/Design Pattern/Behavioural Design Pattern/Strategy Design Pattern.md",
+    "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.7 OpenAPI & Swagger.md",
+    "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.5 Logging.md",
+    "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.4 RestClient.md",
+    "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.3 Auditing.md",
+    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.4  Sorting & Pagination.md",
+    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.3 Spring Data JPA & Dynamic Query Methods.md",
+    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.2 Hibernate & JPA.md",
+    "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.1 Installing MySQL & DBeaver.md",
+    "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.6 Spring Boot Actuator.md",
+    "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.2 Spring Boot DevTools.md",
+    "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.1 Setup a Basic Spring Boot Project.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.5 PUT, PATCH & DELETE Mappings.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.6 Input Validation.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.4 Business Layer (Service).md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer (Repository) & JPA.md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
+    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
+    "03 Development/Java/Spring Boot/00. Index.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.1 Introduction to Spring & Spring Boot.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.2 Setting Up Local Environment.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.3 Beans.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.4 Dependency Injection.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.5 Spring Boot VS Spring Framework.md",
+    "03 Development/Java/Spring Boot/01. Introduction to Spring & Spring Boot/1.6 Auto-Configuration & Spring Boot Internal Flow.md",
+    "03 Development/Java/Java Language Notes/03. Introduction to Java.pdf",
+    "03 Development/Java/Java Language Notes/20. Linked List.pdf",
+    "03 Development/Java/Java Language Notes/21. Stack.pdf",
+    "03 Development/Java/Java Language Notes/22. Queue.pdf",
+    "03 Development/Java/Java Language Notes/17. Merge Sort.pdf",
+    "03 Development/Java/Java Language Notes/16. Time Complexity.pdf",
+    "03 Development/Java/Java Language Notes/15. Recursion.pdf",
+    "03 Development/Java/Java Language Notes/14. Bitwise Operators .pdf",
+    "01 Computer Science Core/System Design/HLD",
     "01 Computer Science Core/System Design/LLD/Design Pattern/Behavioural Design Pattern",
-    "01 Computer Science Core/System Design/LLD/Design Pattern/Creational Design Pattern",
-    "01 Computer Science Core/System Design/LLD/Guiding Principles/S.O.L.I.D Principles.md",
-    "01 Computer Science Core/System Design/LLD/Design Pattern",
-    "01 Computer Science Core/System Design/LLD/Guiding Principles",
     "06 Resources/Computer Science Core/System Design/LLD/S.O.L.I.D Principles/liskov-substituion-principle-violation.e06e64c2.webp",
     "06 Resources/Computer Science Core/System Design/LLD/S.O.L.I.D Principles/liskov-substituion-principle.271e3233.webp",
     "06 Resources/Computer Science Core/System Design/LLD/S.O.L.I.D Principles/class-with-multiple-responsibility.png",
-    "01 Computer Science Core/System Design/LLD/S.O.L.I.D Principles/S - Single Responsibility.md",
-    "Excalidraw/Drawing 2025-12-23 12.39.17.excalidraw.md",
-    "06 Resources/Computer Science Core/System Design/LLD/S.O.L.I.D Principles/S - Single Responsibility",
-    "06 Resources/Computer Science Core/System Design/LLD/S.O.L.I.D Principles",
-    "06 Resources/Computer Science Core/System Design/LLD",
     "06 Resources/Computer Science Core/System Design/LLD/04/package-structure.png",
-    "01 Computer Science Core/System Design/LLD/S.O.L.I.D Principles",
-    "01 Computer Science Core/System Design/LLD/Untitled.canvas",
-    "Excalidraw",
-    "01 Computer Science Core/System Design/LLD/Untitled.md",
-    "03 Development/Java/Java Language Notes/18. Quick Sort.pdf",
-    "03 Development/Java/Miscellaneous/JDBC.md",
-    "03 Development/Java/Miscellaneous/JSoup.md",
-    "03 Development/Java/Miscellaneous/JUnit.md",
-    "03 Development/Java/Miscellaneous/Mockito.md",
-    "03 Development/Java/Miscellaneous/Stream.md",
-    "03 Development/Java/Build Tool/Maven.md",
-    "03 Development/Miscellaneous/Git.md",
-    "01 Computer Science Core/Database Management System/02 - Introduction to DBMS.md",
-    "01 Computer Science Core/Database Management System/00 - Index.md",
-    "01 Computer Science Core/Database Management System/28 - Lossless & Lossy Join Decomposition.md",
-    "__Inbox/01 - Resource List.md",
-    "03 Development/Java/Spring Boot/06. Spring Security/6.1 JWT - Refresh Token & Access Token.md",
-    "03 Development/Java/Spring Boot/06. Spring Security/6.2 Oauth2 Client Authentication.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.6 Input Validation.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.5 PUT, PATCH & DELETE Mappings.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.4 Business Layer (Service).md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer (Repository) & JPA.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md"
+    "01 Computer Science Core/System Design/LLD/Untitled.canvas"
   ]
 }
