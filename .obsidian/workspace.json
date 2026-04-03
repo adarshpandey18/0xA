@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Development/Java/Miscellaneous/JUnit.md",
-                "mode": "preview",
+                "file": "__Inbox/01 - Resource List.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JUnit"
+              "title": "01 - Resource List"
             }
           }
         ],
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Development/Java/Miscellaneous/JUnit.md",
+                "file": "__Inbox/01 - Resource List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JUnit"
+              "title": "Outline of 01 - Resource List"
             }
           }
         ],
@@ -241,6 +241,7 @@
   },
   "active": "6743950765ef99d6",
   "lastOpenFiles": [
+    "03 Development/Java/Miscellaneous/JUnit.md",
     "03 Development/Java/Miscellaneous/Mockito.md",
     "__Inbox/01 - Resource List.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.7 Authenticating requests using JWT.md",
@@ -266,7 +267,6 @@
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer (Repository) & JPA.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
-    "03 Development/Java/Spring Boot/00. Index.md",
     "03 Development/Java/Java Language Notes/03. Introduction to Java.pdf",
     "03 Development/Java/Java Language Notes/20. Linked List.pdf",
     "03 Development/Java/Java Language Notes/21. Stack.pdf",

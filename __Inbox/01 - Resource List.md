@@ -20,6 +20,10 @@
 | Food Delivery                                                       |                            | [Link]()                                                                         |
 | Url Shortener                                                       | ShivaLabs                  | [Link](https://www.youtube.com/playlist?list=PLuNxlOYbv61gfJv1uTOFKAWig98e7fk_m) |
 | Retail Billing Software                                             | Engineer Talks with Bushan | [Link](https://youtu.be/_UNE39gZrV4?si=hbtGIR8kU69mnSSQ)                         |
+| Event Ticket Platform                                               | Devitro                    | [Link](https://www.youtube.com/playlist?list=PLzUMQwCOrQTnkis18niDZwvInmcz8ueLP) |
+| Blog App                                                            | Devitro                    | [Link](https://youtu.be/Gd6AQsthXNY?si=hr31jeuBxxlBLaxb)                         |
+| Restaurant Review                                                   | Devitro                    | [Link](https://youtu.be/rki0eVGAVTQ?si=OYQbZva0MFf0oTQX)                         |
+|                                                                     |                            |                                                                                  |
 
 ### Go
 
