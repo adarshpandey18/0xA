@@ -39,7 +39,6 @@
   "01 Computer Science Core/Computer Networks": "LiNetwork",
   "01 Computer Science Core/Database Management System": "LiDatabase",
   "01 Computer Science Core/Operating System": "LiComputer",
-  "01 Computer Science Core/System Design": "LiWorkflow",
   "02 DSA & Problem Solving": "LiFileQuestion",
   "02 DSA & Problem Solving/Algorithms": "LiWaypoints",
   "02 DSA & Problem Solving/Patterns & Technique": "〽",
@@ -82,7 +81,6 @@
   "03 Development/Docker": "LiContainer",
   "03 Development/Java/Miscellaneous/Mockito.md": "LiTestTubes",
   "03 Development/Java/Miscellaneous/JDBC.md": "LiDatabase",
-  "01 Computer Science Core/System Design/LLD": "LiTableProperties",
   "03 Development/Miscellaneous/Git": "LiFolderGit2",
   "03 Development/Miscellaneous/Git/Git - Notes.md": "LiGitGraph",
   "03 Development/Miscellaneous/Git/Git - Cheat Sheet .pdf": "LiGitFork"

@@ -11,14 +11,10 @@
             "id": "6743950765ef99d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__Inbox/03 - Remaining.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03 - Remaining"
+              "title": "New tab"
             }
           }
         ]
@@ -33,7 +29,7 @@
       {
         "id": "a8cc4cc21d089453",
         "type": "tabs",
-        "dimension": 67.29222520107238,
+        "dimension": 40.87061668681983,
         "children": [
           {
             "id": "d867bd8e0abb0148",
@@ -80,20 +76,16 @@
       {
         "id": "8570ebb6ee123ce6",
         "type": "tabs",
-        "dimension": 32.707774798927616,
+        "dimension": 59.12938331318017,
         "children": [
           {
             "id": "f5ad112a021657ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Computer Science Core/System Design/LLD/00 - LLD Checklist.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00 - LLD Checklist"
+              "title": "New tab"
             }
           }
         ]
@@ -165,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Inbox/03 - Remaining.md",
+                "file": "01 Computer Science Core/System Design/LLD/00 - LLD Checklist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 - Remaining"
+              "title": "Outline of 00 - LLD Checklist"
             }
           }
         ],
@@ -211,10 +203,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6743950765ef99d6",
+  "active": "d867bd8e0abb0148",
   "lastOpenFiles": [
-    "01 Computer Science Core/Database Management System/35 - Cover and Equivalence of Functional Dependencies.md",
+    "01 Computer Science Core/System Design/LLD/Guiding Principles/S.O.L.I.D Principles.md",
+    "01 Computer Science Core/System Design/LLD/Design Pattern/Behavioural Design Pattern/Strategy Design Pattern.md",
+    "01 Computer Science Core/System Design/LLD/Design Pattern/Creational Design Pattern/Singleton Design Pattern.md",
+    "00 Templates/Project Template.md",
     "__Inbox/03 - Remaining.md",
+    "01 Computer Science Core/Database Management System/35 - Cover and Equivalence of Functional Dependencies.md",
     "03 Development/Miscellaneous/Git/Git - Cheat Sheet .pdf",
     "03 Development/Miscellaneous/Git/Git - Notes.md",
     "01 Computer Science Core/System Design/LLD/00 - LLD Checklist.md",
@@ -237,10 +233,6 @@
     "03 Development/Java/Spring Boot/03. Hibernate and Spring Boot Data JPA/3.1 Installing MySQL & DBeaver.md",
     "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.6 Spring Boot Actuator.md",
     "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.2 Spring Boot DevTools.md",
-    "03 Development/Java/Spring Boot/04. Production-Ready Spring Boot Features/4.1 Setup a Basic Spring Boot Project.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.5 PUT, PATCH & DELETE Mappings.md",
     "03 Development/Java/Java Language Notes/03. Introduction to Java.pdf",
     "03 Development/Java/Java Language Notes/20. Linked List.pdf",
     "03 Development/Java/Java Language Notes/21. Stack.pdf",
