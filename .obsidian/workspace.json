@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c625492a2d9c5ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Development/Java/Miscellaneous/JDBC.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JDBC"
-            }
-          },
-          {
-            "id": "d64b1711f3e5cee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Development/Java/Miscellaneous/Mockito.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mockito"
-            }
-          },
-          {
             "id": "6743950765ef99d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Inbox/01 - Resource List.md",
-                "mode": "source",
+                "file": "__Inbox/03 - Remaining.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Resource List"
+              "title": "03 - Remaining"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Inbox/01 - Resource List.md",
+                "file": "__Inbox/03 - Remaining.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 - Resource List"
+              "title": "Outline of 03 - Remaining"
             }
           }
         ],
@@ -225,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,9 +213,16 @@
   },
   "active": "6743950765ef99d6",
   "lastOpenFiles": [
+    "01 Computer Science Core/Database Management System/35 - Cover and Equivalence of Functional Dependencies.md",
+    "__Inbox/03 - Remaining.md",
+    "03 Development/Miscellaneous/Git/Git - Cheat Sheet .pdf",
+    "03 Development/Miscellaneous/Git/Git - Notes.md",
+    "01 Computer Science Core/System Design/LLD/00 - LLD Checklist.md",
+    "03 Development/Miscellaneous/Git",
+    "03 Development/Docker/Docker.md",
+    "__Inbox/01 - Resource List.md",
     "03 Development/Java/Miscellaneous/JUnit.md",
     "03 Development/Java/Miscellaneous/Mockito.md",
-    "__Inbox/01 - Resource List.md",
     "03 Development/Java/Spring Boot/05. Spring Security/5.7 Authenticating requests using JWT.md",
     "03 Development/Java/Spring Boot/06. Spring Security/6.5 Granular Authorization with Authority.md",
     "03 Development/Java/Miscellaneous/JDBC.md",
@@ -262,11 +241,6 @@
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.8 Transforming API Response.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.7 Exception Handling in Spring Boot MVC.md",
     "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.5 PUT, PATCH & DELETE Mappings.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.6 Input Validation.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.4 Business Layer (Service).md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.3 Persistence Layer (Repository) & JPA.md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.2 Presentation Layer (Controller).md",
-    "03 Development/Java/Spring Boot/02. Spring Boot MVC & RESTful APIs/2.1 Spring Boot Web.md",
     "03 Development/Java/Java Language Notes/03. Introduction to Java.pdf",
     "03 Development/Java/Java Language Notes/20. Linked List.pdf",
     "03 Development/Java/Java Language Notes/21. Stack.pdf",
@@ -275,8 +249,6 @@
     "03 Development/Java/Java Language Notes/16. Time Complexity.pdf",
     "03 Development/Java/Java Language Notes/15. Recursion.pdf",
     "03 Development/Java/Java Language Notes/14. Bitwise Operators .pdf",
-    "01 Computer Science Core/System Design/HLD",
-    "01 Computer Science Core/System Design/LLD/Design Pattern/Behavioural Design Pattern",
     "06 Resources/Computer Science Core/System Design/LLD/S.O.L.I.D Principles/liskov-substituion-principle-violation.e06e64c2.webp",
     "06 Resources/Computer Science Core/System Design/LLD/S.O.L.I.D Principles/liskov-substituion-principle.271e3233.webp",
     "06 Resources/Computer Science Core/System Design/LLD/S.O.L.I.D Principles/class-with-multiple-responsibility.png",

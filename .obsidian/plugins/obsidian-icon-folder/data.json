@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGitFork",
+      "LiGitGraph",
+      "LiFolderGit2",
       "LiTableProperties",
-      "LiContainer",
-      "LiCoffee",
-      "LiTestTubes",
-      "🐋"
+      "LiContainer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -79,9 +79,11 @@
   "03 Development/Java/Build Tool/Maven.md": "LiHammer",
   "03 Development/Java/Miscellaneous/JSoup.md": "LiShovel",
   "03 Development/Java/Miscellaneous/Stream.md": "LiPanelTopDashed",
-  "03 Development/Miscellaneous/Git.md": "🕸",
   "03 Development/Docker": "LiContainer",
   "03 Development/Java/Miscellaneous/Mockito.md": "LiTestTubes",
   "03 Development/Java/Miscellaneous/JDBC.md": "LiDatabase",
-  "01 Computer Science Core/System Design/LLD": "LiTableProperties"
+  "01 Computer Science Core/System Design/LLD": "LiTableProperties",
+  "03 Development/Miscellaneous/Git": "LiFolderGit2",
+  "03 Development/Miscellaneous/Git/Git - Notes.md": "LiGitGraph",
+  "03 Development/Miscellaneous/Git/Git - Cheat Sheet .pdf": "LiGitFork"
 }

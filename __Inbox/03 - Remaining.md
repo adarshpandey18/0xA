@@ -16,7 +16,7 @@
 - [ ] [[02 Minimal Habit Tracker]]
 - [ ] amazon review sentiment analysis 
 - [ ] [[Clean Architecture]]
-- [ ] [[Git]]
+- [ ] [[Git - Notes]]
 - [ ] System Design
 - [ ] [[06 Merge Sort]]
 - [ ] [[PostgreSQL]]
